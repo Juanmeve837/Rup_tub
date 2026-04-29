@@ -1,0 +1,29 @@
+gitignore# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (evita subir archivos pesados o sensibles)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.png
+*.html
+
+# Credenciales / tokens
+*.key
+secrets.py
+config.py
+
+# OS
+.DS_Store
+Thumbs.db
