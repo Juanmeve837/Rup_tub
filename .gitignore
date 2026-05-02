@@ -19,6 +19,9 @@ env/
 *.png
 *.html
 
+!data/
+!data/*.json
+
 # Credenciales / tokens
 *.key
 secrets.py
