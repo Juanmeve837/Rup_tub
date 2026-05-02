@@ -37,11 +37,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          # cache eliminado: requería requirements.txt en el repo
 
-      # 3. Instalar dependencias mínimas
       - name: Instalar dependencias
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       # 4. Crear carpeta data si no existe
       - name: Crear carpeta data
