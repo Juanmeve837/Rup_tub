@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-03T03:58:46.107002+00:00",
-    "total_records": 230,
+    "last_updated": "2026-05-03T08:09:37.414803+00:00",
+    "total_records": 233,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -23185,6 +23185,111 @@
       "type": "JAM",
       "_collected_at": "2026-05-03T03:58:45.472438+00:00",
       "_record_id": "560893908"
+    },
+    "43ededca-b812-4047-a86f-33045084331b": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "43ededca-b812-4047-a86f-33045084331b",
+      "roadType": 7,
+      "magvar": 296,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Av. Pedro de Heredia >(N)",
+      "location": {
+        "x": -75.51749,
+        "y": 10.409986
+      },
+      "pubMillis": 1777793433000,
+      "_collected_at": "2026-05-03T08:09:36.667610+00:00",
+      "_record_id": "43ededca-b812-4047-a86f-33045084331b"
+    },
+    "570807530": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.534531,
+          "y": 10.410525
+        },
+        {
+          "x": -75.53556,
+          "y": 10.412325
+        }
+      ],
+      "speedKMH": 5.75,
+      "length": 229,
+      "turnType": "NONE",
+      "uuid": 570807530,
+      "endNode": "Carrera 22",
+      "speed": 1.5972222222222223,
+      "segments": [
+        {
+          "fromNode": 87314314,
+          "ID": 78946448,
+          "toNode": 175362076,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 86,
+      "street": "Calle 27",
+      "id": 570807530,
+      "pubMillis": 1777795233395,
+      "type": "JAM",
+      "_collected_at": "2026-05-03T08:09:36.667610+00:00",
+      "_record_id": "570807530"
+    },
+    "571358680": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.550962,
+          "y": 10.395397
+        },
+        {
+          "x": -75.552038,
+          "y": 10.396066
+        },
+        {
+          "x": -75.55315,
+          "y": 10.396731
+        }
+      ],
+      "speedKMH": 6.98,
+      "length": 281,
+      "turnType": "NONE",
+      "uuid": 571358680,
+      "endNode": "Carrera 8ª",
+      "speed": 1.9388888888888889,
+      "segments": [
+        {
+          "fromNode": 87323550,
+          "ID": 78960970,
+          "toNode": 87323549,
+          "isForward": false
+        },
+        {
+          "fromNode": 87323549,
+          "ID": 78960969,
+          "toNode": 87323548,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 115,
+      "street": "Calle 6ª",
+      "id": 571358680,
+      "pubMillis": 1777795762896,
+      "type": "JAM",
+      "_collected_at": "2026-05-03T08:09:36.667610+00:00",
+      "_record_id": "571358680"
     }
   }
 }
