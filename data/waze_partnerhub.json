@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-03T08:09:37.414803+00:00",
-    "total_records": 233,
+    "last_updated": "2026-05-03T10:12:25.341468+00:00",
+    "total_records": 234,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -23290,6 +23290,97 @@
       "type": "JAM",
       "_collected_at": "2026-05-03T08:09:36.667610+00:00",
       "_record_id": "571358680"
+    },
+    "580846402": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.488539,
+          "y": 10.390924
+        },
+        {
+          "x": -75.488528,
+          "y": 10.390819
+        },
+        {
+          "x": -75.488765,
+          "y": 10.389831
+        },
+        {
+          "x": -75.488843,
+          "y": 10.389519
+        },
+        {
+          "x": -75.489116,
+          "y": 10.38837
+        },
+        {
+          "x": -75.489249,
+          "y": 10.388059
+        },
+        {
+          "x": -75.489311,
+          "y": 10.387936
+        },
+        {
+          "x": -75.489504,
+          "y": 10.387563
+        }
+      ],
+      "speedKMH": 7.5,
+      "length": 388,
+      "turnType": "NONE",
+      "uuid": 580846402,
+      "endNode": "Calle 24",
+      "speed": 2.0833333333333335,
+      "segments": [
+        {
+          "fromNode": 156968526,
+          "ID": 243675272,
+          "toNode": 157002023,
+          "isForward": false
+        },
+        {
+          "fromNode": 157002023,
+          "ID": 153472251,
+          "toNode": 156968528,
+          "isForward": true
+        },
+        {
+          "fromNode": 156968528,
+          "ID": 337091709,
+          "toNode": 162719854,
+          "isForward": true
+        },
+        {
+          "fromNode": 162719854,
+          "ID": 419005107,
+          "toNode": 322275175,
+          "isForward": false
+        },
+        {
+          "fromNode": 322275175,
+          "ID": 419005106,
+          "toNode": 162719938,
+          "isForward": false
+        },
+        {
+          "fromNode": 162719938,
+          "ID": 255193972,
+          "toNode": 162719929,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 133,
+      "street": "Carrera 62 A",
+      "id": 580846402,
+      "pubMillis": 1777802773481,
+      "type": "JAM",
+      "_collected_at": "2026-05-03T10:12:24.630905+00:00",
+      "_record_id": "580846402"
     }
   }
 }
