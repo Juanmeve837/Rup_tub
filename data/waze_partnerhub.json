@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-04T03:55:55.349796+00:00",
-    "total_records": 448,
+    "last_updated": "2026-05-04T08:40:07.100557+00:00",
+    "total_records": 450,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -50345,6 +50345,73 @@
       "type": "JAM",
       "_collected_at": "2026-05-04T03:55:54.828634+00:00",
       "_record_id": "731030506"
+    },
+    "b7e07743-0b30-4cae-a690-b1d949c26c60": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "b7e07743-0b30-4cae-a690-b1d949c26c60",
+      "roadType": 17,
+      "magvar": 260,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -75.505405,
+        "y": 10.398245
+      },
+      "pubMillis": 1777869104000,
+      "_collected_at": "2026-05-04T08:40:06.572879+00:00",
+      "_record_id": "b7e07743-0b30-4cae-a690-b1d949c26c60"
+    },
+    "760084666": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.534808,
+          "y": 10.430294
+        },
+        {
+          "x": -75.535565,
+          "y": 10.431477
+        },
+        {
+          "x": -75.53575,
+          "y": 10.431802
+        }
+      ],
+      "speedKMH": 4.15,
+      "length": 196,
+      "turnType": "NONE",
+      "uuid": 760084666,
+      "endNode": "Carrera 14",
+      "speed": 1.1527777777777777,
+      "segments": [
+        {
+          "fromNode": 163482436,
+          "ID": 163690088,
+          "toNode": 163482588,
+          "isForward": true
+        },
+        {
+          "fromNode": 163482588,
+          "ID": 163690089,
+          "toNode": 87312399,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 140,
+      "street": "Calle 43",
+      "id": 760084666,
+      "pubMillis": 1777883563909,
+      "type": "JAM",
+      "_collected_at": "2026-05-04T08:40:06.572879+00:00",
+      "_record_id": "760084666"
     }
   }
 }
