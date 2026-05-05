@@ -55,14 +55,14 @@ jobs:
         env:
           WAZE_PARTNER_URL:    ${{ secrets.WAZE_PARTNER_URL }}
           OPENWEBNINJA_API_KEY: ${{ secrets.OPENWEBNINJA_API_KEY }}
-        run: python collector.py
+        run: python src/collector.py
         
       #    Las API keys se leen desde los Secrets del repo
       - name: Ejecutar collector_gdo.py
         env:
           WAZE_PARTNER_URL:    ${{ secrets.WAZE_PARTNER_URL_GDO }}
           OPENWEBNINJA_API_KEY: ${{ secrets.OPENWEBNINJA_API_KEY }}
-        run: python collector_gdo.py
+        run: python src/collector_gdo.py
 
 
       # 6. Commit y push solo si hay cambios en data/
