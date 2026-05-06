@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-06T03:52:28.185464+00:00",
-    "total_records": 1290,
+    "last_updated": "2026-05-06T08:37:50.135235+00:00",
+    "total_records": 1291,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -166583,6 +166583,113 @@
       "type": "JAM",
       "_collected_at": "2026-05-06T03:52:27.344484+00:00",
       "_record_id": "1107849014"
+    },
+    "1151602344": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.465342,
+          "y": 10.381833
+        },
+        {
+          "x": -75.465497,
+          "y": 10.381956
+        },
+        {
+          "x": -75.467335,
+          "y": 10.38324
+        },
+        {
+          "x": -75.468036,
+          "y": 10.383717
+        },
+        {
+          "x": -75.469009,
+          "y": 10.384375
+        },
+        {
+          "x": -75.469372,
+          "y": 10.384614
+        },
+        {
+          "x": -75.46956,
+          "y": 10.384743
+        },
+        {
+          "x": -75.469823,
+          "y": 10.384913
+        },
+        {
+          "x": -75.469966,
+          "y": 10.385014
+        }
+      ],
+      "speedKMH": 16.61,
+      "length": 616,
+      "turnType": "NONE",
+      "uuid": 1151602344,
+      "endNode": "Carrera 81 A",
+      "speed": 4.613888888888889,
+      "segments": [
+        {
+          "fromNode": 327094642,
+          "ID": 426225371,
+          "toNode": 175373555,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373555,
+          "ID": 368531253,
+          "toNode": 175373629,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373629,
+          "ID": 186571438,
+          "toNode": 175373632,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373632,
+          "ID": 417835338,
+          "toNode": 321512504,
+          "isForward": false
+        },
+        {
+          "fromNode": 321512504,
+          "ID": 417835337,
+          "toNode": 175373682,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373682,
+          "ID": 186571569,
+          "toNode": 175373662,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373662,
+          "ID": 186571516,
+          "toNode": 175373664,
+          "isForward": false
+        },
+        {
+          "fromNode": 175373664,
+          "ID": 186571530,
+          "toNode": 175373670,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 69,
+      "street": "Calle 31 >(N)",
+      "id": 1151602344,
+      "pubMillis": 1778056553360,
+      "type": "JAM",
+      "_collected_at": "2026-05-06T08:37:49.449948+00:00",
+      "_record_id": "1151602344"
     }
   }
 }
