@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-08T03:41:41.286332+00:00",
-    "total_records": 2173,
+    "last_updated": "2026-05-08T07:51:18.987022+00:00",
+    "total_records": 2178,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -273960,6 +273960,507 @@
       "type": "JAM",
       "_collected_at": "2026-05-08T03:41:40.601096+00:00",
       "_record_id": "1834862442"
+    },
+    "2ad6be03-549f-4d2c-b7a7-e1d5ead313bf": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "2ad6be03-549f-4d2c-b7a7-e1d5ead313bf",
+      "roadType": 2,
+      "magvar": 114,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Transversal 52",
+      "location": {
+        "x": -75.506767,
+        "y": 10.38799
+      },
+      "pubMillis": 1778217075000,
+      "_collected_at": "2026-05-08T07:51:18.270717+00:00",
+      "_record_id": "2ad6be03-549f-4d2c-b7a7-e1d5ead313bf"
+    },
+    "fffd79aa-4496-42bf-abf4-bfab37427719": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "fffd79aa-4496-42bf-abf4-bfab37427719",
+      "roadType": 3,
+      "magvar": 48,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Túnel de Crespo",
+      "location": {
+        "x": -75.522419,
+        "y": 10.446535
+      },
+      "pubMillis": 1778224848000,
+      "_collected_at": "2026-05-08T07:51:18.270717+00:00",
+      "_record_id": "fffd79aa-4496-42bf-abf4-bfab37427719"
+    },
+    "1855317318": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.540688,
+          "y": 10.420028
+        },
+        {
+          "x": -75.539763,
+          "y": 10.419807
+        },
+        {
+          "x": -75.539232,
+          "y": 10.419755
+        },
+        {
+          "x": -75.538412,
+          "y": 10.419713
+        },
+        {
+          "x": -75.537939,
+          "y": 10.419683
+        },
+        {
+          "x": -75.537636,
+          "y": 10.419685
+        },
+        {
+          "x": -75.536686,
+          "y": 10.419892
+        },
+        {
+          "x": -75.536605,
+          "y": 10.419891
+        },
+        {
+          "x": -75.536499,
+          "y": 10.419864
+        },
+        {
+          "x": -75.536395,
+          "y": 10.419821
+        },
+        {
+          "x": -75.536296,
+          "y": 10.419765
+        },
+        {
+          "x": -75.536217,
+          "y": 10.419684
+        },
+        {
+          "x": -75.535512,
+          "y": 10.418579
+        },
+        {
+          "x": -75.535412,
+          "y": 10.418427
+        },
+        {
+          "x": -75.535327,
+          "y": 10.418314
+        },
+        {
+          "x": -75.535233,
+          "y": 10.418217
+        },
+        {
+          "x": -75.534687,
+          "y": 10.417711
+        },
+        {
+          "x": -75.534161,
+          "y": 10.417149
+        },
+        {
+          "x": -75.533162,
+          "y": 10.415963
+        },
+        {
+          "x": -75.53269,
+          "y": 10.415499
+        },
+        {
+          "x": -75.532258,
+          "y": 10.415113
+        }
+      ],
+      "speedKMH": 24.36,
+      "length": 1172,
+      "turnType": "NONE",
+      "uuid": 1855317318,
+      "endNode": "Puente Jiménez",
+      "speed": 6.766666666666667,
+      "segments": [
+        {
+          "fromNode": 87312457,
+          "ID": 360683851,
+          "toNode": 151827222,
+          "isForward": false
+        },
+        {
+          "fromNode": 151827222,
+          "ID": 78946201,
+          "toNode": 87314183,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314183,
+          "ID": 244890840,
+          "toNode": 151827225,
+          "isForward": true
+        },
+        {
+          "fromNode": 151827225,
+          "ID": 142250925,
+          "toNode": 87314145,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314145,
+          "ID": 78946191,
+          "toNode": 87314149,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314149,
+          "ID": 78946192,
+          "toNode": 87314152,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314152,
+          "ID": 78946193,
+          "toNode": 87314172,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314172,
+          "ID": 78946194,
+          "toNode": 87314175,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314175,
+          "ID": 78946195,
+          "toNode": 87314177,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314177,
+          "ID": 78946196,
+          "toNode": 87314179,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 73,
+      "street": "Av. El Lago",
+      "id": 1855317318,
+      "pubMillis": 1778226436701,
+      "type": "JAM",
+      "_collected_at": "2026-05-08T07:51:18.270717+00:00",
+      "_record_id": "1855317318"
+    },
+    "1855432608": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.531833,
+          "y": 10.414836
+        },
+        {
+          "x": -75.530239,
+          "y": 10.413513
+        },
+        {
+          "x": -75.529615,
+          "y": 10.412971
+        },
+        {
+          "x": -75.529436,
+          "y": 10.412866
+        },
+        {
+          "x": -75.528827,
+          "y": 10.412718
+        },
+        {
+          "x": -75.52848,
+          "y": 10.412667
+        },
+        {
+          "x": -75.528032,
+          "y": 10.412604
+        },
+        {
+          "x": -75.527403,
+          "y": 10.412566
+        },
+        {
+          "x": -75.526811,
+          "y": 10.412541
+        },
+        {
+          "x": -75.526672,
+          "y": 10.412522
+        },
+        {
+          "x": -75.526542,
+          "y": 10.412485
+        },
+        {
+          "x": -75.526259,
+          "y": 10.412336
+        },
+        {
+          "x": -75.524748,
+          "y": 10.411237
+        },
+        {
+          "x": -75.524174,
+          "y": 10.410832
+        },
+        {
+          "x": -75.523804,
+          "y": 10.410529
+        },
+        {
+          "x": -75.523641,
+          "y": 10.410232
+        },
+        {
+          "x": -75.523541,
+          "y": 10.409944
+        },
+        {
+          "x": -75.52319,
+          "y": 10.408485
+        },
+        {
+          "x": -75.523135,
+          "y": 10.407666
+        },
+        {
+          "x": -75.523158,
+          "y": 10.407032
+        }
+      ],
+      "speedKMH": 21.18,
+      "length": 1431,
+      "turnType": "NONE",
+      "uuid": 1855432608,
+      "endNode": "Salida Av. El Bosque",
+      "speed": 5.883333333333334,
+      "segments": [
+        {
+          "fromNode": 87314169,
+          "ID": 188228544,
+          "toNode": 176099365,
+          "isForward": true
+        },
+        {
+          "fromNode": 176099365,
+          "ID": 197453416,
+          "toNode": 151847238,
+          "isForward": true
+        },
+        {
+          "fromNode": 151847238,
+          "ID": 188272139,
+          "toNode": 151827261,
+          "isForward": false
+        },
+        {
+          "fromNode": 151827261,
+          "ID": 142279095,
+          "toNode": 87314348,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314348,
+          "ID": 78946499,
+          "toNode": 87314349,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314349,
+          "ID": 78946500,
+          "toNode": 87314350,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314350,
+          "ID": 164914562,
+          "toNode": 163976812,
+          "isForward": false
+        },
+        {
+          "fromNode": 163976812,
+          "ID": 334236058,
+          "toNode": 87314353,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314353,
+          "ID": 164915789,
+          "toNode": 163977304,
+          "isForward": false
+        },
+        {
+          "fromNode": 163977304,
+          "ID": 197289907,
+          "toNode": 163977414,
+          "isForward": true
+        },
+        {
+          "fromNode": 163977414,
+          "ID": 164916064,
+          "toNode": 151927954,
+          "isForward": false
+        },
+        {
+          "fromNode": 151927954,
+          "ID": 164915289,
+          "toNode": 155078589,
+          "isForward": false
+        },
+        {
+          "fromNode": 155078589,
+          "ID": 346680679,
+          "toNode": 275267784,
+          "isForward": false
+        },
+        {
+          "fromNode": 275267784,
+          "ID": 346680678,
+          "toNode": 87314437,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314437,
+          "ID": 78947454,
+          "toNode": 87314920,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 126,
+      "street": "Av. El Lago",
+      "id": 1855432608,
+      "pubMillis": 1778226501609,
+      "type": "JAM",
+      "_collected_at": "2026-05-08T07:51:18.270717+00:00",
+      "_record_id": "1855432608"
+    },
+    "1855133576": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.539585,
+          "y": 10.425335
+        },
+        {
+          "x": -75.54098,
+          "y": 10.426469
+        },
+        {
+          "x": -75.541399,
+          "y": 10.426821
+        },
+        {
+          "x": -75.541769,
+          "y": 10.427114
+        },
+        {
+          "x": -75.541967,
+          "y": 10.427246
+        },
+        {
+          "x": -75.542293,
+          "y": 10.427399
+        },
+        {
+          "x": -75.542535,
+          "y": 10.427466
+        },
+        {
+          "x": -75.542806,
+          "y": 10.427495
+        },
+        {
+          "x": -75.543041,
+          "y": 10.427481
+        },
+        {
+          "x": -75.543301,
+          "y": 10.427429
+        },
+        {
+          "x": -75.543549,
+          "y": 10.427331
+        },
+        {
+          "x": -75.544012,
+          "y": 10.427059
+        },
+        {
+          "x": -75.544419,
+          "y": 10.426811
+        }
+      ],
+      "speedKMH": 14.6,
+      "length": 628,
+      "turnType": "NONE",
+      "uuid": 1855133576,
+      "endNode": "Av. Rafael Núñez >(N)",
+      "speed": 4.055555555555555,
+      "segments": [
+        {
+          "fromNode": 154142800,
+          "ID": 296639651,
+          "toNode": 176978676,
+          "isForward": true
+        },
+        {
+          "fromNode": 176978676,
+          "ID": 190295099,
+          "toNode": 157100110,
+          "isForward": true
+        },
+        {
+          "fromNode": 157100110,
+          "ID": 271569218,
+          "toNode": 151825189,
+          "isForward": false
+        },
+        {
+          "fromNode": 151825189,
+          "ID": 361571363,
+          "toNode": 284785847,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 83,
+      "street": "Av. Pedro de Heredia >(N)",
+      "id": 1855133576,
+      "pubMillis": 1778226307908,
+      "type": "JAM",
+      "_collected_at": "2026-05-08T07:51:18.270717+00:00",
+      "_record_id": "1855133576"
     }
   }
 }
