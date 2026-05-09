@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-09T03:43:17.587675+00:00",
-    "total_records": 2624,
+    "last_updated": "2026-05-09T08:05:24.230996+00:00",
+    "total_records": 2626,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -327253,6 +327253,63 @@
       "type": "JAM",
       "_collected_at": "2026-05-09T03:43:16.726987+00:00",
       "_record_id": "1782847102"
+    },
+    "e11f90dd-e881-45a1-b5f0-3fed20667d0e": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "e11f90dd-e881-45a1-b5f0-3fed20667d0e",
+      "roadType": 2,
+      "magvar": 122,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 30",
+      "location": {
+        "x": -75.5015,
+        "y": 10.400438
+      },
+      "pubMillis": 1778301981000,
+      "_collected_at": "2026-05-09T08:05:23.546678+00:00",
+      "_record_id": "e11f90dd-e881-45a1-b5f0-3fed20667d0e"
+    },
+    "1795546520": {
+      "country": "CO",
+      "level": 1,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.54954,
+          "y": 10.426723
+        },
+        {
+          "x": -75.54959,
+          "y": 10.425262
+        }
+      ],
+      "speedKMH": 1.96,
+      "length": 162,
+      "turnType": "NONE",
+      "uuid": 1795546520,
+      "speed": 0.5444444444444444,
+      "segments": [
+        {
+          "fromNode": 87313440,
+          "ID": 78945126,
+          "toNode": 87313462,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 135,
+      "street": "Calle de la Universidad",
+      "id": 1795546520,
+      "pubMillis": 1778313728657,
+      "type": "JAM",
+      "_collected_at": "2026-05-09T08:05:23.546678+00:00",
+      "_record_id": "1795546520"
     }
   }
 }
