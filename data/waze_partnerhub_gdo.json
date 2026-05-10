@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-05T13:57:27.020122+00:00",
-    "last_updated": "2026-05-10T19:15:44.390441+00:00",
-    "total_records": 8854,
+    "last_updated": "2026-05-10T21:55:28.890545+00:00",
+    "total_records": 9018,
     "source": "data/waze_partnerhub_gdo.json"
   },
   "records": {
@@ -472888,6 +472888,7639 @@
       "type": "JAM",
       "_collected_at": "2026-05-10T19:15:43.488117+00:00",
       "_record_id": "110411370"
+    },
+    "787865d4-160e-46fa-a151-7ef594352d88": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "787865d4-160e-46fa-a151-7ef594352d88",
+      "roadType": 1,
+      "magvar": 288,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Carrera 79",
+      "location": {
+        "x": -76.556098,
+        "y": 3.385973
+      },
+      "pubMillis": 1778449221000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "787865d4-160e-46fa-a151-7ef594352d88"
+    },
+    "0fd42ccf-0467-454d-8bef-375081e8882b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "0fd42ccf-0467-454d-8bef-375081e8882b",
+      "roadType": 1,
+      "magvar": 0,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 50",
+      "location": {
+        "x": -76.514246,
+        "y": 3.376366
+      },
+      "pubMillis": 1778447239000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0fd42ccf-0467-454d-8bef-375081e8882b"
+    },
+    "2769fdc6-143b-484e-92a9-0313970de6c7": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "2769fdc6-143b-484e-92a9-0313970de6c7",
+      "roadType": 1,
+      "magvar": 286,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 92",
+      "location": {
+        "x": -76.548617,
+        "y": 3.377388
+      },
+      "pubMillis": 1778447348000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "2769fdc6-143b-484e-92a9-0313970de6c7"
+    },
+    "691435e1-11b4-4958-ae68-5cb5178b0e34": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "691435e1-11b4-4958-ae68-5cb5178b0e34",
+      "roadType": 1,
+      "magvar": 188,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 2ª A",
+      "location": {
+        "x": -76.551713,
+        "y": 3.405555
+      },
+      "pubMillis": 1778447182000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "691435e1-11b4-4958-ae68-5cb5178b0e34"
+    },
+    "24d6d210-0556-43af-845e-fa2884660022": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "24d6d210-0556-43af-845e-fa2884660022",
+      "roadType": 1,
+      "magvar": 186,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 2ª A",
+      "location": {
+        "x": -76.551635,
+        "y": 3.406419
+      },
+      "pubMillis": 1778447160000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "24d6d210-0556-43af-845e-fa2884660022"
+    },
+    "5c77c6ef-39bb-48b2-88fa-b5eb0f0e671e": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "5c77c6ef-39bb-48b2-88fa-b5eb0f0e671e",
+      "roadType": 1,
+      "magvar": 186,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 29",
+      "location": {
+        "x": -76.515732,
+        "y": 3.422413
+      },
+      "pubMillis": 1778448921000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "5c77c6ef-39bb-48b2-88fa-b5eb0f0e671e"
+    },
+    "84d7e6e5-76c0-474a-a566-25bff8ca6f6b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "84d7e6e5-76c0-474a-a566-25bff8ca6f6b",
+      "roadType": 1,
+      "magvar": 52,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 5ª B 2",
+      "location": {
+        "x": -76.542849,
+        "y": 3.428149
+      },
+      "pubMillis": 1778443598000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "84d7e6e5-76c0-474a-a566-25bff8ca6f6b"
+    },
+    "4eba7765-26fe-4702-b5fa-8f34dd54c2d9": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "4eba7765-26fe-4702-b5fa-8f34dd54c2d9",
+      "roadType": 1,
+      "magvar": 250,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 5ª > Occidente",
+      "location": {
+        "x": -76.484027,
+        "y": 3.467834
+      },
+      "pubMillis": 1778448296000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "4eba7765-26fe-4702-b5fa-8f34dd54c2d9"
+    },
+    "08a7f758-5b6d-4b21-90fc-7db0e86aae34": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "ROAD_CLOSED",
+      "uuid": "08a7f758-5b6d-4b21-90fc-7db0e86aae34",
+      "roadType": 1,
+      "magvar": 350,
+      "subtype": "",
+      "street": "Calle 69",
+      "location": {
+        "x": -76.484646,
+        "y": 3.460022
+      },
+      "pubMillis": 1778446519000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "08a7f758-5b6d-4b21-90fc-7db0e86aae34"
+    },
+    "bc37b770-76d3-4ae2-a5e6-01525746bff4": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "bc37b770-76d3-4ae2-a5e6-01525746bff4",
+      "roadType": 1,
+      "magvar": 121,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 48 Norte",
+      "location": {
+        "x": -76.517172,
+        "y": 3.483313
+      },
+      "pubMillis": 1778442189000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "bc37b770-76d3-4ae2-a5e6-01525746bff4"
+    },
+    "0812fc4c-3f8e-419f-a312-bbc8f6a3abe6": {
+      "country": "CO",
+      "city": "Jamundí",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "0812fc4c-3f8e-419f-a312-bbc8f6a3abe6",
+      "roadType": 2,
+      "magvar": 80,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -76.512593,
+        "y": 3.275707
+      },
+      "pubMillis": 1778447966000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0812fc4c-3f8e-419f-a312-bbc8f6a3abe6"
+    },
+    "4252429a-8324-4da0-a607-1a0b1cc7aeea": {
+      "country": "CO",
+      "city": "Jamundí",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "4252429a-8324-4da0-a607-1a0b1cc7aeea",
+      "roadType": 2,
+      "magvar": 83,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -76.513568,
+        "y": 3.275565
+      },
+      "pubMillis": 1778447950000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "4252429a-8324-4da0-a607-1a0b1cc7aeea"
+    },
+    "10bd0f5b-c556-44f5-bb14-7647c85150a9": {
+      "country": "CO",
+      "city": "Jamundí",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "10bd0f5b-c556-44f5-bb14-7647c85150a9",
+      "roadType": 2,
+      "magvar": 148,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -76.515914,
+        "y": 3.277002
+      },
+      "pubMillis": 1778447905000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "10bd0f5b-c556-44f5-bb14-7647c85150a9"
+    },
+    "8ea2aa29-494b-4216-a3b7-1b1c46ba9679": {
+      "country": "CO",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "8ea2aa29-494b-4216-a3b7-1b1c46ba9679",
+      "roadType": 2,
+      "magvar": 296,
+      "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+      "street": "Cali-La Buitrera",
+      "location": {
+        "x": -76.557621,
+        "y": 3.363599
+      },
+      "pubMillis": 1778449342000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "8ea2aa29-494b-4216-a3b7-1b1c46ba9679"
+    },
+    "ec73fb48-e143-4b56-bda9-eb84d40f8c92": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "ec73fb48-e143-4b56-bda9-eb84d40f8c92",
+      "roadType": 4,
+      "magvar": 106,
+      "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+      "location": {
+        "x": -76.537249,
+        "y": 3.364818
+      },
+      "pubMillis": 1778448711000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "ec73fb48-e143-4b56-bda9-eb84d40f8c92"
+    },
+    "a155f1e2-699c-4782-a2dd-70672f91fbd7": {
+      "country": "CO",
+      "city": "Pance",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "a155f1e2-699c-4782-a2dd-70672f91fbd7",
+      "roadType": 2,
+      "magvar": 86,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Carrera 122",
+      "location": {
+        "x": -76.533211,
+        "y": 3.343041
+      },
+      "pubMillis": 1778448309000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "a155f1e2-699c-4782-a2dd-70672f91fbd7"
+    },
+    "0e7f573e-c282-4062-bb23-c33a10d5c266": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "0e7f573e-c282-4062-bb23-c33a10d5c266",
+      "roadType": 2,
+      "magvar": 0,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 14 > Norte",
+      "location": {
+        "x": -76.533113,
+        "y": 3.382157
+      },
+      "pubMillis": 1778447464000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0e7f573e-c282-4062-bb23-c33a10d5c266"
+    },
+    "eb1df640-602f-4361-8258-94ee1a3a108b": {
+      "country": "CO",
+      "roadType": 4,
+      "magvar": 10,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "location": {
+        "x": -76.517362,
+        "y": 3.39593
+      },
+      "type": "HAZARD",
+      "uuid": "eb1df640-602f-4361-8258-94ee1a3a108b",
+      "pubMillis": 1778442804000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "eb1df640-602f-4361-8258-94ee1a3a108b"
+    },
+    "423ad269-0509-4de5-839c-31ed36b2505d": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "423ad269-0509-4de5-839c-31ed36b2505d",
+      "roadType": 2,
+      "magvar": 359,
+      "subtype": "HAZARD_WEATHER",
+      "street": "Calle 3ª",
+      "location": {
+        "x": -76.549727,
+        "y": 3.408103
+      },
+      "pubMillis": 1778447897000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "423ad269-0509-4de5-839c-31ed36b2505d"
+    },
+    "d7f58124-a683-437b-beda-4ad88e568bba": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "d7f58124-a683-437b-beda-4ad88e568bba",
+      "roadType": 2,
+      "magvar": 154,
+      "subtype": "",
+      "street": "Calle 21 Norte",
+      "location": {
+        "x": -76.526603,
+        "y": 3.459479
+      },
+      "pubMillis": 1778449348000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "d7f58124-a683-437b-beda-4ad88e568bba"
+    },
+    "da37b547-5e49-49c6-ba60-1150118602ae": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "da37b547-5e49-49c6-ba60-1150118602ae",
+      "roadType": 2,
+      "magvar": 162,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 62 >Sur",
+      "location": {
+        "x": -76.491352,
+        "y": 3.467816
+      },
+      "pubMillis": 1778440811000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "da37b547-5e49-49c6-ba60-1150118602ae"
+    },
+    "7964cc9a-0104-4265-97ac-1cb68040dd6b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "7964cc9a-0104-4265-97ac-1cb68040dd6b",
+      "roadType": 2,
+      "magvar": 153,
+      "subtype": "",
+      "street": "Calle 21 Norte",
+      "location": {
+        "x": -76.526983,
+        "y": 3.460236
+      },
+      "pubMillis": 1778448796000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "7964cc9a-0104-4265-97ac-1cb68040dd6b"
+    },
+    "4659b84e-2ecf-41e0-83a3-68b5b96d5dc7": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "4659b84e-2ecf-41e0-83a3-68b5b96d5dc7",
+      "roadType": 2,
+      "magvar": 153,
+      "subtype": "",
+      "street": "Calle 21 Norte",
+      "location": {
+        "x": -76.52632,
+        "y": 3.4589
+      },
+      "pubMillis": 1778448922000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "4659b84e-2ecf-41e0-83a3-68b5b96d5dc7"
+    },
+    "f8f6f153-af5b-48de-aad0-4ec126dc7ee1": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "f8f6f153-af5b-48de-aad0-4ec126dc7ee1",
+      "roadType": 2,
+      "magvar": 164,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 62 >Sur",
+      "location": {
+        "x": -76.493022,
+        "y": 3.473265
+      },
+      "pubMillis": 1778446928000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "f8f6f153-af5b-48de-aad0-4ec126dc7ee1"
+    },
+    "8d659960-0e48-4c8f-86e5-5ac5de196c90": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "8d659960-0e48-4c8f-86e5-5ac5de196c90",
+      "roadType": 2,
+      "magvar": 359,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "Av. 2ª Norte",
+      "location": {
+        "x": -76.514321,
+        "y": 3.475132
+      },
+      "pubMillis": 1778448669000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "8d659960-0e48-4c8f-86e5-5ac5de196c90"
+    },
+    "e7b65371-a68f-4990-bb5c-f82640fe7713": {
+      "country": "CO",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 3,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "e7b65371-a68f-4990-bb5c-f82640fe7713",
+      "roadType": 7,
+      "magvar": 186,
+      "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+      "street": "Av. Cañasgordas >(S)",
+      "location": {
+        "x": -76.531387,
+        "y": 3.339237
+      },
+      "pubMillis": 1778446321000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "e7b65371-a68f-4990-bb5c-f82640fe7713"
+    },
+    "b5966121-f26a-47f8-b688-5827d4e50748": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "b5966121-f26a-47f8-b688-5827d4e50748",
+      "roadType": 7,
+      "magvar": 1,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Pasoancho >Norte",
+      "location": {
+        "x": -76.537213,
+        "y": 3.365737
+      },
+      "pubMillis": 1778447870000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "b5966121-f26a-47f8-b688-5827d4e50748"
+    },
+    "bdce0bf5-c42f-4bc5-8b0c-238b0c10f960": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "JAM",
+      "uuid": "bdce0bf5-c42f-4bc5-8b0c-238b0c10f960",
+      "roadType": 7,
+      "magvar": 351,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Av. Pasoancho >Norte",
+      "location": {
+        "x": -76.537719,
+        "y": 3.380674
+      },
+      "pubMillis": 1778449274000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "bdce0bf5-c42f-4bc5-8b0c-238b0c10f960"
+    },
+    "513a5890-02fd-475d-968c-229a9b56765b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "513a5890-02fd-475d-968c-229a9b56765b",
+      "roadType": 7,
+      "magvar": 269,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Carrera 94 > Occidente",
+      "location": {
+        "x": -76.51678,
+        "y": 3.375372
+      },
+      "pubMillis": 1778448231000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "513a5890-02fd-475d-968c-229a9b56765b"
+    },
+    "499e290a-65c7-4dd6-88ba-c3553efe466e": {
+      "country": "CO",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "499e290a-65c7-4dd6-88ba-c3553efe466e",
+      "roadType": 7,
+      "magvar": 4,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Cañasgordas >(N)",
+      "location": {
+        "x": -76.530735,
+        "y": 3.344137
+      },
+      "pubMillis": 1778444852000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "499e290a-65c7-4dd6-88ba-c3553efe466e"
+    },
+    "7183c48d-8e60-4f8c-926f-0280a8b0f424": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "7183c48d-8e60-4f8c-926f-0280a8b0f424",
+      "roadType": 7,
+      "magvar": 185,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 16 > Sur",
+      "location": {
+        "x": -76.528459,
+        "y": 3.388366
+      },
+      "pubMillis": 1778449453000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "7183c48d-8e60-4f8c-926f-0280a8b0f424"
+    },
+    "9935a455-41a2-4c1e-9b67-d95a68e89b6c": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "9935a455-41a2-4c1e-9b67-d95a68e89b6c",
+      "roadType": 7,
+      "magvar": 3,
+      "subtype": "HAZARD_ON_ROAD",
+      "street": "Av. Pasoancho >Norte",
+      "location": {
+        "x": -76.538332,
+        "y": 3.391065
+      },
+      "pubMillis": 1778448262000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "9935a455-41a2-4c1e-9b67-d95a68e89b6c"
+    },
+    "0688779c-1298-49ca-af24-9096b3bffe43": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "0688779c-1298-49ca-af24-9096b3bffe43",
+      "roadType": 7,
+      "magvar": 192,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 14 > Sur",
+      "location": {
+        "x": -76.531983,
+        "y": 3.401537
+      },
+      "pubMillis": 1778445421000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0688779c-1298-49ca-af24-9096b3bffe43"
+    },
+    "b1e15b48-569a-465b-8239-86bdab000479": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "b1e15b48-569a-465b-8239-86bdab000479",
+      "roadType": 7,
+      "magvar": 132,
+      "subtype": "HAZARD_ON_ROAD",
+      "street": "Carrera 50",
+      "location": {
+        "x": -76.517198,
+        "y": 3.398676
+      },
+      "pubMillis": 1778447227000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "b1e15b48-569a-465b-8239-86bdab000479"
+    },
+    "ed69df5a-7b8c-4876-abd0-0fb239b38cdd": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "ed69df5a-7b8c-4876-abd0-0fb239b38cdd",
+      "roadType": 7,
+      "magvar": 180,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 14 > Sur",
+      "location": {
+        "x": -76.532418,
+        "y": 3.397529
+      },
+      "pubMillis": 1778445516000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "ed69df5a-7b8c-4876-abd0-0fb239b38cdd"
+    },
+    "788688b4-cace-43a6-868a-3aced3ad00b3": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "788688b4-cace-43a6-868a-3aced3ad00b3",
+      "roadType": 7,
+      "magvar": 278,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Av. Guadalupe",
+      "location": {
+        "x": -76.548694,
+        "y": 3.409137
+      },
+      "pubMillis": 1778448555000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "788688b4-cace-43a6-868a-3aced3ad00b3"
+    },
+    "2a97cf32-ebeb-4f06-8a15-28c58dcffa3b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "2a97cf32-ebeb-4f06-8a15-28c58dcffa3b",
+      "roadType": 7,
+      "magvar": 196,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "Av. PasoAncho >Sur",
+      "location": {
+        "x": -76.532569,
+        "y": 3.414836
+      },
+      "pubMillis": 1778449403000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "2a97cf32-ebeb-4f06-8a15-28c58dcffa3b"
+    },
+    "1b132149-c4e7-4822-8be4-164828853f28": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "1b132149-c4e7-4822-8be4-164828853f28",
+      "roadType": 7,
+      "magvar": 95,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 32",
+      "location": {
+        "x": -76.515755,
+        "y": 3.425132
+      },
+      "pubMillis": 1778449736000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "1b132149-c4e7-4822-8be4-164828853f28"
+    },
+    "674398c0-5f66-4876-89f6-7085a8db0d8a": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "674398c0-5f66-4876-89f6-7085a8db0d8a",
+      "roadType": 7,
+      "magvar": 208,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Calle 44 > Sur",
+      "location": {
+        "x": -76.504976,
+        "y": 3.427004
+      },
+      "pubMillis": 1778448548000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "674398c0-5f66-4876-89f6-7085a8db0d8a"
+    },
+    "8e6c30fc-d263-4ac8-a28b-bacd79d25a98": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "8e6c30fc-d263-4ac8-a28b-bacd79d25a98",
+      "roadType": 7,
+      "magvar": 197,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. de Los Cerros > (S)",
+      "location": {
+        "x": -76.551763,
+        "y": 3.429796
+      },
+      "pubMillis": 1778449569000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "8e6c30fc-d263-4ac8-a28b-bacd79d25a98"
+    },
+    "37519a61-fdcf-42d2-8a71-656fba7d0a46": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "37519a61-fdcf-42d2-8a71-656fba7d0a46",
+      "roadType": 7,
+      "magvar": 185,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "Calle 23",
+      "location": {
+        "x": -76.519761,
+        "y": 3.438872
+      },
+      "pubMillis": 1778445905000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "37519a61-fdcf-42d2-8a71-656fba7d0a46"
+    },
+    "cd435c3e-cbde-4c24-bdb2-c793c0d35872": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "cd435c3e-cbde-4c24-bdb2-c793c0d35872",
+      "roadType": 7,
+      "magvar": 160,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 25",
+      "location": {
+        "x": -76.522119,
+        "y": 3.463049
+      },
+      "pubMillis": 1778445508000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "cd435c3e-cbde-4c24-bdb2-c793c0d35872"
+    },
+    "3016a1df-aa2f-48b1-ac86-db3d552cf047": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "3016a1df-aa2f-48b1-ac86-db3d552cf047",
+      "roadType": 7,
+      "magvar": 65,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "Av. 2ª Norte",
+      "location": {
+        "x": -76.538435,
+        "y": 3.452365
+      },
+      "pubMillis": 1778448628000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "3016a1df-aa2f-48b1-ac86-db3d552cf047"
+    },
+    "f987c4ef-2dd0-40a7-be96-736aec09ea54": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "f987c4ef-2dd0-40a7-be96-736aec09ea54",
+      "roadType": 7,
+      "magvar": 166,
+      "subtype": "",
+      "street": "Calle 25",
+      "location": {
+        "x": -76.520701,
+        "y": 3.458404
+      },
+      "pubMillis": 1778450062000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "f987c4ef-2dd0-40a7-be96-736aec09ea54"
+    },
+    "9dc474d9-cfd0-44c7-a739-5f333d5861b9": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "9dc474d9-cfd0-44c7-a739-5f333d5861b9",
+      "roadType": 7,
+      "magvar": 70,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "AP Suroriental / Calz Derecha >NorOriente",
+      "location": {
+        "x": -76.499513,
+        "y": 3.440643
+      },
+      "pubMillis": 1778450049000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "9dc474d9-cfd0-44c7-a739-5f333d5861b9"
+    },
+    "003ae41b-79d3-4938-bb57-a36bd266434d": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "JAM",
+      "uuid": "003ae41b-79d3-4938-bb57-a36bd266434d",
+      "roadType": 7,
+      "magvar": 162,
+      "subtype": "",
+      "street": "AP Oriental / Calz Derecha",
+      "location": {
+        "x": -76.485589,
+        "y": 3.467999
+      },
+      "pubMillis": 1778448268000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "003ae41b-79d3-4938-bb57-a36bd266434d"
+    },
+    "587a2be6-97e0-4733-b248-bb608b216d51": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "587a2be6-97e0-4733-b248-bb608b216d51",
+      "roadType": 7,
+      "magvar": 200,
+      "subtype": "",
+      "street": "Av. 4ª Norte",
+      "location": {
+        "x": -76.522608,
+        "y": 3.479399
+      },
+      "pubMillis": 1778447898000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "587a2be6-97e0-4733-b248-bb608b216d51"
+    },
+    "700b95ed-73ab-4a31-a135-c6a16dfad292": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "700b95ed-73ab-4a31-a135-c6a16dfad292",
+      "roadType": 7,
+      "magvar": 148,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "AP Oriental / Calz Derecha",
+      "location": {
+        "x": -76.490473,
+        "y": 3.483284
+      },
+      "pubMillis": 1778446587000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "700b95ed-73ab-4a31-a135-c6a16dfad292"
+    },
+    "439efa16-8d41-4acd-a163-ebf8418a61a6": {
+      "country": "CO",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "ACCIDENT",
+      "uuid": "439efa16-8d41-4acd-a163-ebf8418a61a6",
+      "roadType": 6,
+      "magvar": 337,
+      "subtype": "",
+      "street": "Av. Bicentenario",
+      "location": {
+        "x": -76.49378,
+        "y": 3.276807
+      },
+      "pubMillis": 1778449655000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "439efa16-8d41-4acd-a163-ebf8418a61a6"
+    },
+    "d43dd68d-d1b2-482b-be10-b62b9f5cbbe8": {
+      "country": "CO",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "d43dd68d-d1b2-482b-be10-b62b9f5cbbe8",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "",
+      "street": "Av. Bicentenario",
+      "location": {
+        "x": -76.512852,
+        "y": 3.317202
+      },
+      "pubMillis": 1778449996000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "d43dd68d-d1b2-482b-be10-b62b9f5cbbe8"
+    },
+    "5c3e3fbe-d8f0-4d1b-bb88-1dbbd03f1162": {
+      "country": "CO",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "ACCIDENT",
+      "uuid": "5c3e3fbe-d8f0-4d1b-bb88-1dbbd03f1162",
+      "roadType": 6,
+      "magvar": 157,
+      "subtype": "",
+      "street": "Av. Bicentenario",
+      "location": {
+        "x": -76.494593,
+        "y": 3.278736
+      },
+      "pubMillis": 1778449899000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "5c3e3fbe-d8f0-4d1b-bb88-1dbbd03f1162"
+    },
+    "45e4bbf9-69ad-4f42-8677-c2d9f9666ccb": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "45e4bbf9-69ad-4f42-8677-c2d9f9666ccb",
+      "roadType": 6,
+      "magvar": 178,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Calle 48>Sur",
+      "location": {
+        "x": -76.516572,
+        "y": 3.37998
+      },
+      "pubMillis": 1778449139000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "45e4bbf9-69ad-4f42-8677-c2d9f9666ccb"
+    },
+    "e598585d-149c-460d-9b23-f3efb925f647": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "e598585d-149c-460d-9b23-f3efb925f647",
+      "roadType": 6,
+      "magvar": 180,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 48>Sur",
+      "location": {
+        "x": -76.516586,
+        "y": 3.382639
+      },
+      "pubMillis": 1778442738000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "e598585d-149c-460d-9b23-f3efb925f647"
+    },
+    "825ab480-4eee-49fd-949e-cdbab0673048": {
+      "country": "CO",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "JAM",
+      "uuid": "825ab480-4eee-49fd-949e-cdbab0673048",
+      "roadType": 6,
+      "magvar": 354,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Jamundí-Cali / RN25-04 >(N)",
+      "location": {
+        "x": -76.523488,
+        "y": 3.355307
+      },
+      "pubMillis": 1778449070000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "825ab480-4eee-49fd-949e-cdbab0673048"
+    },
+    "fd4bbd48-3da0-4269-bcbb-4698c5702386": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "fd4bbd48-3da0-4269-bcbb-4698c5702386",
+      "roadType": 6,
+      "magvar": 117,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 100 >SurOriente",
+      "location": {
+        "x": -76.529104,
+        "y": 3.366825
+      },
+      "pubMillis": 1778449502000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "fd4bbd48-3da0-4269-bcbb-4698c5702386"
+    },
+    "a335f50c-6f16-4e29-b7aa-fb1fe8f706da": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "a335f50c-6f16-4e29-b7aa-fb1fe8f706da",
+      "roadType": 6,
+      "magvar": 180,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Calle 25 >(S)",
+      "location": {
+        "x": -76.525076,
+        "y": 3.381215
+      },
+      "pubMillis": 1778450099000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "a335f50c-6f16-4e29-b7aa-fb1fe8f706da"
+    },
+    "f6f1e112-81f5-4217-997a-216587d0bb0d": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "f6f1e112-81f5-4217-997a-216587d0bb0d",
+      "roadType": 6,
+      "magvar": 180,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 48>Sur",
+      "location": {
+        "x": -76.516574,
+        "y": 3.380236
+      },
+      "pubMillis": 1778442770000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "f6f1e112-81f5-4217-997a-216587d0bb0d"
+    },
+    "1a1811df-c280-478b-a206-39a52f2532e3": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "1a1811df-c280-478b-a206-39a52f2532e3",
+      "roadType": 6,
+      "magvar": 180,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Calle 48>Sur",
+      "location": {
+        "x": -76.516563,
+        "y": 3.377626
+      },
+      "pubMillis": 1778449910000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "1a1811df-c280-478b-a206-39a52f2532e3"
+    },
+    "0028f1f4-aee6-4321-8985-9b7eb40c45d9": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "0028f1f4-aee6-4321-8985-9b7eb40c45d9",
+      "roadType": 6,
+      "magvar": 0,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Calle 48>Norte",
+      "location": {
+        "x": -76.516182,
+        "y": 3.387105
+      },
+      "pubMillis": 1778448975000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0028f1f4-aee6-4321-8985-9b7eb40c45d9"
+    },
+    "0074ed7d-b709-44b2-8f9b-b0d3c71609dc": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "JAM",
+      "uuid": "0074ed7d-b709-44b2-8f9b-b0d3c71609dc",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Calle 25 >Norte",
+      "location": {
+        "x": -76.524308,
+        "y": 3.387839
+      },
+      "pubMillis": 1778449862000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "0074ed7d-b709-44b2-8f9b-b0d3c71609dc"
+    },
+    "52e87beb-4f1b-495b-9483-b2e06a82e11a": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "ACCIDENT",
+      "uuid": "52e87beb-4f1b-495b-9483-b2e06a82e11a",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "",
+      "street": "Calle 25 >Norte",
+      "location": {
+        "x": -76.524229,
+        "y": 3.388717
+      },
+      "pubMillis": 1778448826000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "52e87beb-4f1b-495b-9483-b2e06a82e11a"
+    },
+    "4bdb8501-eb11-43cd-aade-20722ff19385": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "4bdb8501-eb11-43cd-aade-20722ff19385",
+      "roadType": 6,
+      "magvar": 180,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 48>Sur",
+      "location": {
+        "x": -76.516571,
+        "y": 3.385149
+      },
+      "pubMillis": 1778442711000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "4bdb8501-eb11-43cd-aade-20722ff19385"
+    },
+    "acec9eae-9f67-40c9-8a5d-272a0e78cfdd": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 3,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "acec9eae-9f67-40c9-8a5d-272a0e78cfdd",
+      "roadType": 6,
+      "magvar": 225,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >Sur",
+      "location": {
+        "x": -76.491393,
+        "y": 3.412629
+      },
+      "pubMillis": 1778440577000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "acec9eae-9f67-40c9-8a5d-272a0e78cfdd"
+    },
+    "92c21c37-72e6-4ef8-8904-54d503ed9a78": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "92c21c37-72e6-4ef8-8904-54d503ed9a78",
+      "roadType": 6,
+      "magvar": 226,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >Sur",
+      "location": {
+        "x": -76.491928,
+        "y": 3.412115
+      },
+      "pubMillis": 1778440584000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "92c21c37-72e6-4ef8-8904-54d503ed9a78"
+    },
+    "8e870592-4140-44f2-b058-2f1717f53df1": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "JAM",
+      "uuid": "8e870592-4140-44f2-b058-2f1717f53df1",
+      "roadType": 6,
+      "magvar": 227,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Calle 36 / Calz Central >Sur",
+      "location": {
+        "x": -76.521165,
+        "y": 3.40715
+      },
+      "pubMillis": 1778448982000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "8e870592-4140-44f2-b058-2f1717f53df1"
+    },
+    "5e5cccac-f279-4327-8905-d1fd76db33cf": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "5e5cccac-f279-4327-8905-d1fd76db33cf",
+      "roadType": 6,
+      "magvar": 47,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >Norte",
+      "location": {
+        "x": -76.502772,
+        "y": 3.40319
+      },
+      "pubMillis": 1778442231000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "5e5cccac-f279-4327-8905-d1fd76db33cf"
+    },
+    "eeef63b9-7b58-4f3a-a747-913ffeecb0cb": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "eeef63b9-7b58-4f3a-a747-913ffeecb0cb",
+      "roadType": 6,
+      "magvar": 47,
+      "subtype": "HAZARD_ON_ROAD",
+      "street": "Av. Ciudad de Cali >Norte",
+      "location": {
+        "x": -76.503262,
+        "y": 3.402737
+      },
+      "pubMillis": 1778446773000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "eeef63b9-7b58-4f3a-a747-913ffeecb0cb"
+    },
+    "10abcbf1-eff2-49d6-a174-fe6a96a703c9": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "ACCIDENT",
+      "uuid": "10abcbf1-eff2-49d6-a174-fe6a96a703c9",
+      "roadType": 6,
+      "magvar": 6,
+      "subtype": "",
+      "street": "Calle 25 >Norte",
+      "location": {
+        "x": -76.524171,
+        "y": 3.389331
+      },
+      "pubMillis": 1778448734000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "10abcbf1-eff2-49d6-a174-fe6a96a703c9"
+    },
+    "533ca415-cf90-49e6-a727-f05585451ec0": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "533ca415-cf90-49e6-a727-f05585451ec0",
+      "roadType": 6,
+      "magvar": 49,
+      "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+      "street": "Av. Ciudad de Cali >Norte",
+      "location": {
+        "x": -76.501164,
+        "y": 3.40465
+      },
+      "pubMillis": 1778448549000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "533ca415-cf90-49e6-a727-f05585451ec0"
+    },
+    "1a037b5a-4b5d-4c45-908d-22dd6d77f09c": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "1a037b5a-4b5d-4c45-908d-22dd6d77f09c",
+      "roadType": 6,
+      "magvar": 46,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >Norte",
+      "location": {
+        "x": -76.510704,
+        "y": 3.395905
+      },
+      "pubMillis": 1778448349000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "1a037b5a-4b5d-4c45-908d-22dd6d77f09c"
+    },
+    "11c91e68-4a5a-4ccb-8a13-45fe7fee7043": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "11c91e68-4a5a-4ccb-8a13-45fe7fee7043",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 25",
+      "location": {
+        "x": -76.519753,
+        "y": 3.430794
+      },
+      "pubMillis": 1778448048000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "11c91e68-4a5a-4ccb-8a13-45fe7fee7043"
+    },
+    "17cc0940-e3ad-4081-9c06-55566974ca06": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "17cc0940-e3ad-4081-9c06-55566974ca06",
+      "roadType": 6,
+      "magvar": 4,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Calle 26",
+      "location": {
+        "x": -76.517831,
+        "y": 3.448356
+      },
+      "pubMillis": 1778449375000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "17cc0940-e3ad-4081-9c06-55566974ca06"
+    },
+    "13ec0aa4-7b96-4f69-9511-563632ce4c3d": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "13ec0aa4-7b96-4f69-9511-563632ce4c3d",
+      "roadType": 6,
+      "magvar": 359,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Calle 26",
+      "location": {
+        "x": -76.5178,
+        "y": 3.449778
+      },
+      "pubMillis": 1778449439000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "13ec0aa4-7b96-4f69-9511-563632ce4c3d"
+    },
+    "1cbf9df3-dd49-48b2-b223-74a5a0a7d3db": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "1cbf9df3-dd49-48b2-b223-74a5a0a7d3db",
+      "roadType": 6,
+      "magvar": 225,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Carrera 1ª > Sur",
+      "location": {
+        "x": -76.509091,
+        "y": 3.471651
+      },
+      "pubMillis": 1778449752000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "1cbf9df3-dd49-48b2-b223-74a5a0a7d3db"
+    },
+    "34406c02-bbad-4b7e-8171-879720743813": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "34406c02-bbad-4b7e-8171-879720743813",
+      "roadType": 6,
+      "magvar": 188,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Av. Ciudad de Cali >(S)",
+      "location": {
+        "x": -76.484038,
+        "y": 3.447147
+      },
+      "pubMillis": 1778449555000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "34406c02-bbad-4b7e-8171-879720743813"
+    },
+    "88e473a0-2556-41f7-99c7-eb43e381f9d4": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "88e473a0-2556-41f7-99c7-eb43e381f9d4",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >(N)",
+      "location": {
+        "x": -76.483665,
+        "y": 3.446093
+      },
+      "pubMillis": 1778445874000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "88e473a0-2556-41f7-99c7-eb43e381f9d4"
+    },
+    "47fd1fac-c6cc-423a-8b22-58e1da4a5c5b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "47fd1fac-c6cc-423a-8b22-58e1da4a5c5b",
+      "roadType": 6,
+      "magvar": 0,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >(N)",
+      "location": {
+        "x": -76.48376,
+        "y": 3.435648
+      },
+      "pubMillis": 1778441656000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "47fd1fac-c6cc-423a-8b22-58e1da4a5c5b"
+    },
+    "14cd4530-4d64-4aa8-9646-9b6f1f8ccc24": {
+      "country": "CO",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "14cd4530-4d64-4aa8-9646-9b6f1f8ccc24",
+      "roadType": 6,
+      "magvar": 175,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "AP Oriental / Calz Central >(S)",
+      "location": {
+        "x": -76.483325,
+        "y": 3.460396
+      },
+      "pubMillis": 1778448521000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "14cd4530-4d64-4aa8-9646-9b6f1f8ccc24"
+    },
+    "e8108f7c-d848-4aaa-86ff-8383e217ddd4": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "e8108f7c-d848-4aaa-86ff-8383e217ddd4",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. Ciudad de Cali >(N)",
+      "location": {
+        "x": -76.482719,
+        "y": 3.451199
+      },
+      "pubMillis": 1778445929000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "e8108f7c-d848-4aaa-86ff-8383e217ddd4"
+    },
+    "3e53bab8-57ee-470a-966c-433c36e19c93": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "3e53bab8-57ee-470a-966c-433c36e19c93",
+      "roadType": 6,
+      "magvar": 5,
+      "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+      "street": "Av. Ciudad de Cali >(N)",
+      "location": {
+        "x": -76.48273,
+        "y": 3.451093
+      },
+      "pubMillis": 1778449129000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "3e53bab8-57ee-470a-966c-433c36e19c93"
+    },
+    "2f67fbfb-ef1f-4456-af4d-a6224caec8bd": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "2f67fbfb-ef1f-4456-af4d-a6224caec8bd",
+      "roadType": 6,
+      "magvar": 194,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Av. Ciudad de Cali >(S)",
+      "location": {
+        "x": -76.479911,
+        "y": 3.465117
+      },
+      "pubMillis": 1778450088000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "2f67fbfb-ef1f-4456-af4d-a6224caec8bd"
+    },
+    "f2c76880-459f-4f1d-86ea-2698b586baa6": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "f2c76880-459f-4f1d-86ea-2698b586baa6",
+      "roadType": 6,
+      "magvar": 190,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Av. Ciudad de Cali >(S)",
+      "location": {
+        "x": -76.480024,
+        "y": 3.464601
+      },
+      "pubMillis": 1778450124000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "f2c76880-459f-4f1d-86ea-2698b586baa6"
+    },
+    "1cd73dcd-0da5-4a6f-af5d-60d208adb39b": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "1cd73dcd-0da5-4a6f-af5d-60d208adb39b",
+      "roadType": 6,
+      "magvar": 222,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Carrera 1ª > Sur",
+      "location": {
+        "x": -76.503301,
+        "y": 3.477454
+      },
+      "pubMillis": 1778449424000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "1cd73dcd-0da5-4a6f-af5d-60d208adb39b"
+    },
+    "dd0a7909-880d-4ab3-abed-b0c2607222d6": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "dd0a7909-880d-4ab3-abed-b0c2607222d6",
+      "roadType": 6,
+      "magvar": 199,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Av. 6ª Norte >Sur",
+      "location": {
+        "x": -76.525692,
+        "y": 3.48791
+      },
+      "pubMillis": 1778444919000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "dd0a7909-880d-4ab3-abed-b0c2607222d6"
+    },
+    "9651729a-db7b-435b-9ea9-a0b62d833721": {
+      "country": "CO",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "9651729a-db7b-435b-9ea9-a0b62d833721",
+      "roadType": 6,
+      "magvar": 346,
+      "subtype": "JAM_HEAVY_TRAFFIC",
+      "street": "Alterna a Troncal de Occidente / RN23-01 >Oriente",
+      "location": {
+        "x": -76.485124,
+        "y": 3.571093
+      },
+      "pubMillis": 1778448429000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "9651729a-db7b-435b-9ea9-a0b62d833721"
+    },
+    "ee6704c8-7a76-4eeb-86fe-ed861a5677c5": {
+      "country": "CO",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "ee6704c8-7a76-4eeb-86fe-ed861a5677c5",
+      "roadType": 3,
+      "magvar": 251,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Estambúl-Cali / RN25-05 >(S)",
+      "location": {
+        "x": -76.485233,
+        "y": 3.492549
+      },
+      "pubMillis": 1778448296000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "ee6704c8-7a76-4eeb-86fe-ed861a5677c5"
+    },
+    "e347b407-fd97-47ff-9f08-92520b6b8b9b": {
+      "country": "CO",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 5,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "e347b407-fd97-47ff-9f08-92520b6b8b9b",
+      "roadType": 3,
+      "magvar": 15,
+      "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+      "street": "Jamundí-Cali / RN25-04 >(N)",
+      "location": {
+        "x": -76.525319,
+        "y": 3.285441
+      },
+      "pubMillis": 1778445057000,
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "e347b407-fd97-47ff-9f08-92520b6b8b9b"
+    },
+    "125985666": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.547775,
+          "y": 3.412459
+        },
+        {
+          "x": -76.547818,
+          "y": 3.412741
+        },
+        {
+          "x": -76.548043,
+          "y": 3.41421
+        },
+        {
+          "x": -76.548082,
+          "y": 3.414451
+        },
+        {
+          "x": -76.548137,
+          "y": 3.415003
+        },
+        {
+          "x": -76.548154,
+          "y": 3.415691
+        }
+      ],
+      "speedKMH": 10.27,
+      "length": 360,
+      "turnType": "NONE",
+      "uuid": 125985666,
+      "endNode": "",
+      "speed": 2.852777777777778,
+      "segments": [
+        {
+          "fromNode": 87470540,
+          "ID": 275964347,
+          "toNode": 229618274,
+          "isForward": false
+        },
+        {
+          "fromNode": 229618274,
+          "ID": 275964346,
+          "toNode": 177757968,
+          "isForward": false
+        },
+        {
+          "fromNode": 177757968,
+          "ID": 192133213,
+          "toNode": 173304963,
+          "isForward": true
+        },
+        {
+          "fromNode": 173304963,
+          "ID": 190428085,
+          "toNode": 177758106,
+          "isForward": true
+        },
+        {
+          "fromNode": 177758106,
+          "ID": 192133283,
+          "toNode": 122089855,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 63,
+      "street": "Calle 5ª >Norte",
+      "id": 125985666,
+      "pubMillis": 1778449912814,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125985666"
+    },
+    "126231686": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.524158,
+          "y": 3.401589
+        },
+        {
+          "x": -76.523898,
+          "y": 3.401484
+        },
+        {
+          "x": -76.523695,
+          "y": 3.401448
+        },
+        {
+          "x": -76.523342,
+          "y": 3.401436
+        },
+        {
+          "x": -76.52302,
+          "y": 3.401442
+        },
+        {
+          "x": -76.522966,
+          "y": 3.401457
+        },
+        {
+          "x": -76.522918,
+          "y": 3.401502
+        },
+        {
+          "x": -76.522938,
+          "y": 3.401557
+        },
+        {
+          "x": -76.522985,
+          "y": 3.401599
+        },
+        {
+          "x": -76.523268,
+          "y": 3.401649
+        }
+      ],
+      "speedKMH": 5.08,
+      "length": 187,
+      "turnType": "NONE",
+      "uuid": 126231686,
+      "endNode": "Calle 25 >Sur",
+      "speed": 1.4111111111111112,
+      "segments": [
+        {
+          "fromNode": 87475781,
+          "ID": 430782329,
+          "toNode": 122091435,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091435,
+          "ID": 430782330,
+          "toNode": 330164430,
+          "isForward": true
+        },
+        {
+          "fromNode": 330164430,
+          "ID": 430947155,
+          "toNode": 330164440,
+          "isForward": true
+        }
+      ],
+      "roadType": 4,
+      "delay": 90,
+      "street": "",
+      "id": 126231686,
+      "pubMillis": 1778450066866,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126231686"
+    },
+    "125074800": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.512365,
+          "y": 3.472803
+        },
+        {
+          "x": -76.511737,
+          "y": 3.472093
+        },
+        {
+          "x": -76.511072,
+          "y": 3.471382
+        },
+        {
+          "x": -76.510864,
+          "y": 3.471004
+        },
+        {
+          "x": -76.510786,
+          "y": 3.470832
+        },
+        {
+          "x": -76.510719,
+          "y": 3.47071
+        },
+        {
+          "x": -76.510466,
+          "y": 3.470305
+        }
+      ],
+      "speedKMH": 4.56,
+      "length": 350,
+      "turnType": "NONE",
+      "uuid": 125074800,
+      "endNode": "Carrera 1ª Norte >SurOccidente",
+      "speed": 1.2666666666666666,
+      "segments": [
+        {
+          "fromNode": 122101138,
+          "ID": 116142391,
+          "toNode": 122092136,
+          "isForward": true
+        },
+        {
+          "fromNode": 122092136,
+          "ID": 166124851,
+          "toNode": 122100245,
+          "isForward": true
+        },
+        {
+          "fromNode": 122100245,
+          "ID": 116140854,
+          "toNode": 122093257,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093257,
+          "ID": 116131617,
+          "toNode": 87487463,
+          "isForward": true
+        },
+        {
+          "fromNode": 87487463,
+          "ID": 186866853,
+          "toNode": 175499298,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 228,
+      "street": "Calle 44 Norte > Suroriente",
+      "id": 125074800,
+      "pubMillis": 1778449450606,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125074800"
+    },
+    "125724794": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.495741,
+          "y": 3.417437
+        },
+        {
+          "x": -76.496479,
+          "y": 3.418191
+        },
+        {
+          "x": -76.497667,
+          "y": 3.419426
+        },
+        {
+          "x": -76.498247,
+          "y": 3.420032
+        },
+        {
+          "x": -76.498806,
+          "y": 3.420617
+        },
+        {
+          "x": -76.499074,
+          "y": 3.420911
+        }
+      ],
+      "speedKMH": 12.09,
+      "length": 534,
+      "turnType": "NONE",
+      "uuid": 125724794,
+      "endNode": "Calle 72 I > Norte",
+      "speed": 3.3583333333333334,
+      "segments": [
+        {
+          "fromNode": 122086693,
+          "ID": 116120211,
+          "toNode": 122086190,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086190,
+          "ID": 431629829,
+          "toNode": 122086200,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086200,
+          "ID": 116119500,
+          "toNode": 122086180,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086180,
+          "ID": 116119502,
+          "toNode": 122086170,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 88,
+      "street": "Carrera 29",
+      "id": 125724794,
+      "pubMillis": 1778449758751,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125724794"
+    },
+    "125324144": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.548439,
+          "y": 3.418594
+        },
+        {
+          "x": -76.548428,
+          "y": 3.417862
+        },
+        {
+          "x": -76.548424,
+          "y": 3.417232
+        },
+        {
+          "x": -76.54842,
+          "y": 3.416285
+        },
+        {
+          "x": -76.548458,
+          "y": 3.41568
+        },
+        {
+          "x": -76.548532,
+          "y": 3.414352
+        },
+        {
+          "x": -76.548545,
+          "y": 3.414009
+        },
+        {
+          "x": -76.548483,
+          "y": 3.413787
+        },
+        {
+          "x": -76.54814,
+          "y": 3.413029
+        },
+        {
+          "x": -76.548127,
+          "y": 3.412959
+        },
+        {
+          "x": -76.547864,
+          "y": 3.411526
+        }
+      ],
+      "speedKMH": 14.74,
+      "length": 794,
+      "turnType": "NONE",
+      "uuid": 125324144,
+      "endNode": "Calzada central Calle 5ª >Sur",
+      "speed": 4.094444444444444,
+      "segments": [
+        {
+          "fromNode": 122084044,
+          "ID": 116129183,
+          "toNode": 122089947,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089947,
+          "ID": 116129320,
+          "toNode": 122090373,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090373,
+          "ID": 200501058,
+          "toNode": 182477433,
+          "isForward": true
+        },
+        {
+          "fromNode": 182477433,
+          "ID": 231896705,
+          "toNode": 175125080,
+          "isForward": true
+        },
+        {
+          "fromNode": 175125080,
+          "ID": 168065828,
+          "toNode": 175125078,
+          "isForward": true
+        },
+        {
+          "fromNode": 175125078,
+          "ID": 472149343,
+          "toNode": 356178599,
+          "isForward": true
+        },
+        {
+          "fromNode": 356178599,
+          "ID": 472149344,
+          "toNode": 122082430,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 95,
+      "street": "Calle 5ª >Sur",
+      "id": 125324144,
+      "pubMillis": 1778449602751,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125324144"
+    },
+    "126293902": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.515916,
+          "y": 3.359397
+        },
+        {
+          "x": -76.515953,
+          "y": 3.359979
+        },
+        {
+          "x": -76.515972,
+          "y": 3.360301
+        },
+        {
+          "x": -76.515995,
+          "y": 3.360905
+        }
+      ],
+      "speedKMH": 4.86,
+      "length": 167,
+      "turnType": "NONE",
+      "uuid": 126293902,
+      "speed": 1.35,
+      "segments": [
+        {
+          "fromNode": 357094307,
+          "ID": 465240750,
+          "toNode": 352010398,
+          "isForward": true
+        },
+        {
+          "fromNode": 352010398,
+          "ID": 465883346,
+          "toNode": 352010399,
+          "isForward": true
+        },
+        {
+          "fromNode": 352010399,
+          "ID": 473715759,
+          "toNode": 357094333,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 105,
+      "street": "Calle 48>Norte",
+      "id": 126293902,
+      "pubMillis": 1778450066921,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126293902"
+    },
+    "125565296": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.507318,
+          "y": 3.47298
+        },
+        {
+          "x": -76.507171,
+          "y": 3.473119
+        },
+        {
+          "x": -76.506644,
+          "y": 3.473639
+        },
+        {
+          "x": -76.506358,
+          "y": 3.473921
+        },
+        {
+          "x": -76.506253,
+          "y": 3.474024
+        },
+        {
+          "x": -76.504748,
+          "y": 3.475508
+        },
+        {
+          "x": -76.50465,
+          "y": 3.475591
+        },
+        {
+          "x": -76.504498,
+          "y": 3.475662
+        },
+        {
+          "x": -76.504385,
+          "y": 3.475712
+        },
+        {
+          "x": -76.504251,
+          "y": 3.475808
+        },
+        {
+          "x": -76.504154,
+          "y": 3.475937
+        },
+        {
+          "x": -76.504087,
+          "y": 3.476082
+        }
+      ],
+      "speedKMH": 11.22,
+      "length": 500,
+      "turnType": "NONE",
+      "uuid": 125565296,
+      "endNode": "Calle 52 Norte",
+      "speed": 3.1166666666666667,
+      "segments": [
+        {
+          "fromNode": 336923780,
+          "ID": 441125424,
+          "toNode": 122092150,
+          "isForward": true
+        },
+        {
+          "fromNode": 122092150,
+          "ID": 429425927,
+          "toNode": 329158168,
+          "isForward": false
+        },
+        {
+          "fromNode": 329158168,
+          "ID": 429425930,
+          "toNode": 329158170,
+          "isForward": false
+        },
+        {
+          "fromNode": 329158170,
+          "ID": 472044392,
+          "toNode": 356120274,
+          "isForward": false
+        },
+        {
+          "fromNode": 356120274,
+          "ID": 472044391,
+          "toNode": 206278797,
+          "isForward": false
+        },
+        {
+          "fromNode": 206278797,
+          "ID": 240748125,
+          "toNode": 206278798,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 122,
+      "street": "Carrera 1ª > Norte",
+      "id": 125565296,
+      "pubMillis": 1778449682659,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125565296"
+    },
+    "125530216": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.506605,
+          "y": 3.443275
+        },
+        {
+          "x": -76.507247,
+          "y": 3.443041
+        },
+        {
+          "x": -76.507725,
+          "y": 3.442868
+        },
+        {
+          "x": -76.508268,
+          "y": 3.442709
+        }
+      ],
+      "speedKMH": 4.44,
+      "length": 195,
+      "turnType": "NONE",
+      "uuid": 125530216,
+      "endNode": "Calle 34 >Norte",
+      "speed": 1.2333333333333334,
+      "segments": [
+        {
+          "fromNode": 122087687,
+          "ID": 116130115,
+          "toNode": 122091571,
+          "isForward": false
+        },
+        {
+          "fromNode": 122091571,
+          "ID": 116130113,
+          "toNode": 122087664,
+          "isForward": false
+        },
+        {
+          "fromNode": 122087664,
+          "ID": 116121942,
+          "toNode": 122083042,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 104,
+      "street": "Carrera 17",
+      "id": 125530216,
+      "pubMillis": 1778449682294,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125530216"
+    },
+    "125928338": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.530953,
+          "y": 3.36117
+        },
+        {
+          "x": -76.529414,
+          "y": 3.362069
+        }
+      ],
+      "speedKMH": 5.07,
+      "length": 198,
+      "turnType": "NONE",
+      "uuid": 125928338,
+      "endNode": "Avenida Guali",
+      "speed": 1.4083333333333334,
+      "segments": [
+        {
+          "fromNode": 122092990,
+          "ID": 153443551,
+          "toNode": 122102523,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 107,
+      "street": "Carrera 106 A",
+      "id": 125928338,
+      "pubMillis": 1778449914950,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125928338"
+    },
+    "125783916": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.52857,
+          "y": 3.383452
+        },
+        {
+          "x": -76.528535,
+          "y": 3.384017
+        },
+        {
+          "x": -76.528501,
+          "y": 3.384575
+        },
+        {
+          "x": -76.528467,
+          "y": 3.385128
+        },
+        {
+          "x": -76.528453,
+          "y": 3.385315
+        },
+        {
+          "x": -76.52841,
+          "y": 3.385807
+        },
+        {
+          "x": -76.528401,
+          "y": 3.385952
+        },
+        {
+          "x": -76.528392,
+          "y": 3.386275
+        },
+        {
+          "x": -76.528319,
+          "y": 3.387579
+        },
+        {
+          "x": -76.528329,
+          "y": 3.387911
+        }
+      ],
+      "speedKMH": 8.08,
+      "length": 495,
+      "turnType": "NONE",
+      "uuid": 125783916,
+      "endNode": "Carrera 80 > Occidente",
+      "speed": 2.2444444444444445,
+      "segments": [
+        {
+          "fromNode": 122098281,
+          "ID": 116140125,
+          "toNode": 122093024,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093024,
+          "ID": 116131419,
+          "toNode": 122093022,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093022,
+          "ID": 116131418,
+          "toNode": 122093023,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093023,
+          "ID": 197406933,
+          "toNode": 87474419,
+          "isForward": true
+        },
+        {
+          "fromNode": 87474419,
+          "ID": 116130679,
+          "toNode": 122091947,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091947,
+          "ID": 116140124,
+          "toNode": 122091766,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091766,
+          "ID": 250175486,
+          "toNode": 212223206,
+          "isForward": true
+        },
+        {
+          "fromNode": 212223206,
+          "ID": 276169804,
+          "toNode": 229750742,
+          "isForward": true
+        },
+        {
+          "fromNode": 229750742,
+          "ID": 282092148,
+          "toNode": 152323604,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 168,
+      "street": "Calle 16 > Norte",
+      "id": 125783916,
+      "pubMillis": 1778449835306,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125783916"
+    },
+    "125974426": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.541523,
+          "y": 3.443458
+        },
+        {
+          "x": -76.541798,
+          "y": 3.443424
+        },
+        {
+          "x": -76.542062,
+          "y": 3.443439
+        },
+        {
+          "x": -76.542687,
+          "y": 3.443574
+        },
+        {
+          "x": -76.543152,
+          "y": 3.443699
+        },
+        {
+          "x": -76.543403,
+          "y": 3.443809
+        },
+        {
+          "x": -76.544101,
+          "y": 3.444027
+        },
+        {
+          "x": -76.544246,
+          "y": 3.444047
+        },
+        {
+          "x": -76.544386,
+          "y": 3.444033
+        },
+        {
+          "x": -76.544569,
+          "y": 3.444045
+        },
+        {
+          "x": -76.544733,
+          "y": 3.444124
+        },
+        {
+          "x": -76.544983,
+          "y": 3.444341
+        },
+        {
+          "x": -76.545088,
+          "y": 3.444374
+        },
+        {
+          "x": -76.545187,
+          "y": 3.44435
+        },
+        {
+          "x": -76.545278,
+          "y": 3.444256
+        },
+        {
+          "x": -76.54543,
+          "y": 3.444168
+        },
+        {
+          "x": -76.545642,
+          "y": 3.444101
+        },
+        {
+          "x": -76.545711,
+          "y": 3.444096
+        },
+        {
+          "x": -76.54603,
+          "y": 3.444154
+        }
+      ],
+      "speedKMH": 6.02,
+      "length": 532,
+      "turnType": "NONE",
+      "uuid": 125974426,
+      "endNode": "Calle 7ª Oeste",
+      "speed": 1.6722222222222223,
+      "segments": [
+        {
+          "fromNode": 122090252,
+          "ID": 471772357,
+          "toNode": 355962832,
+          "isForward": true
+        },
+        {
+          "fromNode": 355962832,
+          "ID": 471772358,
+          "toNode": 122090188,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090188,
+          "ID": 275964906,
+          "toNode": 229618655,
+          "isForward": false
+        },
+        {
+          "fromNode": 229618655,
+          "ID": 275964959,
+          "toNode": 229618696,
+          "isForward": false
+        },
+        {
+          "fromNode": 229618696,
+          "ID": 275964958,
+          "toNode": 210857145,
+          "isForward": false
+        },
+        {
+          "fromNode": 210857145,
+          "ID": 247978982,
+          "toNode": 204206108,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 175,
+      "street": "Carrera 14",
+      "id": 125974426,
+      "pubMillis": 1778449914428,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125974426"
+    },
+    "125394020": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.516262,
+          "y": 3.411878
+        },
+        {
+          "x": -76.516554,
+          "y": 3.411601
+        },
+        {
+          "x": -76.517289,
+          "y": 3.410859
+        },
+        {
+          "x": -76.517482,
+          "y": 3.410676
+        },
+        {
+          "x": -76.517781,
+          "y": 3.410391
+        },
+        {
+          "x": -76.518193,
+          "y": 3.409987
+        },
+        {
+          "x": -76.518494,
+          "y": 3.409705
+        },
+        {
+          "x": -76.518862,
+          "y": 3.409338
+        }
+      ],
+      "speedKMH": 9.4,
+      "length": 405,
+      "turnType": "NONE",
+      "uuid": 125394020,
+      "endNode": "Calle 36 / Calz Derecha >Norte",
+      "speed": 2.611111111111111,
+      "segments": [
+        {
+          "fromNode": 202254331,
+          "ID": 234502034,
+          "toNode": 122083525,
+          "isForward": true
+        },
+        {
+          "fromNode": 122083525,
+          "ID": 251967551,
+          "toNode": 87477144,
+          "isForward": false
+        },
+        {
+          "fromNode": 87477144,
+          "ID": 243702463,
+          "toNode": 208153989,
+          "isForward": true
+        },
+        {
+          "fromNode": 208153989,
+          "ID": 243702464,
+          "toNode": 87477145,
+          "isForward": true
+        },
+        {
+          "fromNode": 87477145,
+          "ID": 188521520,
+          "toNode": 176223351,
+          "isForward": true
+        },
+        {
+          "fromNode": 176223351,
+          "ID": 384137773,
+          "toNode": 122083813,
+          "isForward": true
+        },
+        {
+          "fromNode": 122083813,
+          "ID": 116116858,
+          "toNode": 122083814,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 107,
+      "street": "Calle 36 / Calz Derecha >Sur",
+      "id": 125394020,
+      "pubMillis": 1778449603401,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125394020"
+    },
+    "124132676": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.499606,
+          "y": 3.466088
+        },
+        {
+          "x": -76.500574,
+          "y": 3.465781
+        },
+        {
+          "x": -76.501193,
+          "y": 3.465592
+        },
+        {
+          "x": -76.501425,
+          "y": 3.465525
+        },
+        {
+          "x": -76.50233,
+          "y": 3.465254
+        },
+        {
+          "x": -76.503075,
+          "y": 3.465004
+        }
+      ],
+      "speedKMH": 5.19,
+      "length": 404,
+      "turnType": "NONE",
+      "uuid": 124132676,
+      "endNode": "Calle 47",
+      "speed": 1.4416666666666667,
+      "segments": [
+        {
+          "fromNode": 122083361,
+          "ID": 367726862,
+          "toNode": 288763066,
+          "isForward": true
+        },
+        {
+          "fromNode": 288763066,
+          "ID": 367726863,
+          "toNode": 152599079,
+          "isForward": true
+        },
+        {
+          "fromNode": 152599079,
+          "ID": 164156696,
+          "toNode": 122090505,
+          "isForward": false
+        },
+        {
+          "fromNode": 122090505,
+          "ID": 116126990,
+          "toNode": 122090506,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090506,
+          "ID": 116128125,
+          "toNode": 122083321,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 214,
+      "street": "Carrera 3ª",
+      "id": 124132676,
+      "pubMillis": 1778448910440,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124132676"
+    },
+    "126332836": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.498767,
+          "y": 3.435645
+        },
+        {
+          "x": -76.498891,
+          "y": 3.435428
+        },
+        {
+          "x": -76.499088,
+          "y": 3.435009
+        },
+        {
+          "x": -76.499294,
+          "y": 3.434582
+        },
+        {
+          "x": -76.499501,
+          "y": 3.434184
+        },
+        {
+          "x": -76.499718,
+          "y": 3.433756
+        },
+        {
+          "x": -76.499928,
+          "y": 3.433333
+        },
+        {
+          "x": -76.500133,
+          "y": 3.432908
+        },
+        {
+          "x": -76.50034,
+          "y": 3.432512
+        },
+        {
+          "x": -76.500404,
+          "y": 3.432382
+        },
+        {
+          "x": -76.500601,
+          "y": 3.431968
+        },
+        {
+          "x": -76.5008,
+          "y": 3.431547
+        },
+        {
+          "x": -76.501042,
+          "y": 3.431067
+        },
+        {
+          "x": -76.501282,
+          "y": 3.430593
+        },
+        {
+          "x": -76.501533,
+          "y": 3.430119
+        },
+        {
+          "x": -76.501769,
+          "y": 3.429713
+        }
+      ],
+      "speedKMH": 12.85,
+      "length": 736,
+      "turnType": "NONE",
+      "uuid": 126332836,
+      "endNode": "Transversal 28 D",
+      "speed": 3.5694444444444446,
+      "segments": [
+        {
+          "fromNode": 122083577,
+          "ID": 162498811,
+          "toNode": 122083049,
+          "isForward": false
+        },
+        {
+          "fromNode": 122083049,
+          "ID": 116116274,
+          "toNode": 122083050,
+          "isForward": true
+        },
+        {
+          "fromNode": 122083050,
+          "ID": 162498810,
+          "toNode": 163013009,
+          "isForward": false
+        },
+        {
+          "fromNode": 163013009,
+          "ID": 162498807,
+          "toNode": 122087208,
+          "isForward": false
+        },
+        {
+          "fromNode": 122087208,
+          "ID": 116121234,
+          "toNode": 122087204,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087204,
+          "ID": 116121233,
+          "toNode": 122087207,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087207,
+          "ID": 116121232,
+          "toNode": 122087238,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087238,
+          "ID": 116121231,
+          "toNode": 122087181,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087181,
+          "ID": 475301028,
+          "toNode": 122083853,
+          "isForward": true
+        },
+        {
+          "fromNode": 122083853,
+          "ID": 116120922,
+          "toNode": 122087071,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087071,
+          "ID": 116121354,
+          "toNode": 122087070,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087070,
+          "ID": 116121353,
+          "toNode": 122083863,
+          "isForward": true
+        },
+        {
+          "fromNode": 122083863,
+          "ID": 116121697,
+          "toNode": 122084793,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084793,
+          "ID": 116121696,
+          "toNode": 122087296,
+          "isForward": true
+        },
+        {
+          "fromNode": 122087296,
+          "ID": 116123696,
+          "toNode": 122088706,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 74,
+      "street": "Calle 50",
+      "id": 126332836,
+      "pubMillis": 1778450067444,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126332836"
+    },
+    "122497640": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.522608,
+          "y": 3.479399
+        },
+        {
+          "x": -76.522823,
+          "y": 3.478816
+        }
+      ],
+      "speedKMH": 0,
+      "length": 69,
+      "turnType": "NONE",
+      "uuid": 122497640,
+      "endNode": "Calle 41 Norte",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 122092196,
+          "ID": 116143239,
+          "toNode": 122093386,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "587a2be6-97e0-4733-b248-bb608b216d51",
+      "roadType": 7,
+      "delay": -1,
+      "street": "Av. 4ª Norte",
+      "id": 122497640,
+      "pubMillis": 1778448061724,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "122497640"
+    },
+    "126285992": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.518462,
+          "y": 3.407149
+        },
+        {
+          "x": -76.518816,
+          "y": 3.406807
+        },
+        {
+          "x": -76.519116,
+          "y": 3.406528
+        },
+        {
+          "x": -76.519459,
+          "y": 3.406199
+        }
+      ],
+      "speedKMH": 3.16,
+      "length": 153,
+      "turnType": "NONE",
+      "uuid": 126285992,
+      "endNode": "Carrera 48",
+      "speed": 0.8777777777777778,
+      "segments": [
+        {
+          "fromNode": 173145834,
+          "ID": 181220826,
+          "toNode": 122088901,
+          "isForward": false
+        },
+        {
+          "fromNode": 122088901,
+          "ID": 116124057,
+          "toNode": 122088900,
+          "isForward": false
+        },
+        {
+          "fromNode": 122088900,
+          "ID": 116124058,
+          "toNode": 122088902,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 134,
+      "street": "Calle 38 A",
+      "id": 126285992,
+      "pubMillis": 1778450067798,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126285992"
+    },
+    "124194632": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.526983,
+          "y": 3.460236
+        },
+        {
+          "x": -76.526603,
+          "y": 3.459479
+        }
+      ],
+      "speedKMH": 0,
+      "length": 94,
+      "turnType": "NONE",
+      "uuid": 124194632,
+      "endNode": "Carrera 4ª Norte",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 122085567,
+          "ID": 244158984,
+          "toNode": 208435234,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "7964cc9a-0104-4265-97ac-1cb68040dd6b",
+      "roadType": 2,
+      "delay": -1,
+      "street": "Calle 21 Norte",
+      "id": 124194632,
+      "pubMillis": 1778448989119,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124194632"
+    },
+    "124810056": {
+      "country": "CO",
+      "level": 3,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.48748,
+          "y": 3.583374
+        },
+        {
+          "x": -76.487303,
+          "y": 3.582561
+        },
+        {
+          "x": -76.487097,
+          "y": 3.581667
+        }
+      ],
+      "speedKMH": 4.98,
+      "length": 193,
+      "turnType": "NONE",
+      "uuid": 124810056,
+      "endNode": "Carrera 5ª",
+      "speed": 1.3833333333333333,
+      "segments": [
+        {
+          "fromNode": 171269031,
+          "ID": 104026414,
+          "toNode": 171268917,
+          "isForward": false
+        },
+        {
+          "fromNode": 171268917,
+          "ID": 177210279,
+          "toNode": 171487613,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 111,
+      "street": "Calle 15",
+      "id": 124810056,
+      "pubMillis": 1778449295336,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124810056"
+    },
+    "122030718": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.51416,
+          "y": 3.419758
+        },
+        {
+          "x": -76.516018,
+          "y": 3.419636
+        },
+        {
+          "x": -76.51728,
+          "y": 3.419543
+        }
+      ],
+      "speedKMH": 7.25,
+      "length": 348,
+      "turnType": "NONE",
+      "uuid": 122030718,
+      "endNode": "Calle 27",
+      "speed": 2.013888888888889,
+      "segments": [
+        {
+          "fromNode": 122088975,
+          "ID": 143986955,
+          "toNode": 152790973,
+          "isForward": true
+        },
+        {
+          "fromNode": 152790973,
+          "ID": 281111288,
+          "toNode": 232864808,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 130,
+      "street": "Carrera 39 > Occidente",
+      "id": 122030718,
+      "pubMillis": 1778447827009,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "122030718"
+    },
+    "124443690": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.486403,
+          "y": 3.420513
+        },
+        {
+          "x": -76.486397,
+          "y": 3.419912
+        },
+        {
+          "x": -76.486459,
+          "y": 3.418358
+        }
+      ],
+      "speedKMH": 2.5,
+      "length": 238,
+      "turnType": "NONE",
+      "uuid": 124443690,
+      "endNode": "Carrera 28 D",
+      "speed": 0.6944444444444444,
+      "segments": [
+        {
+          "fromNode": 175789555,
+          "ID": 187521587,
+          "toNode": 152593234,
+          "isForward": true
+        },
+        {
+          "fromNode": 152593234,
+          "ID": 143584939,
+          "toNode": 122085783,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 291,
+      "street": "Av. Ciudad de Cali >Sur",
+      "id": 124443690,
+      "pubMillis": 1778449142158,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124443690"
+    },
+    "124615464": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.553132,
+          "y": 3.42041
+        },
+        {
+          "x": -76.553062,
+          "y": 3.420965
+        },
+        {
+          "x": -76.553048,
+          "y": 3.421127
+        },
+        {
+          "x": -76.553001,
+          "y": 3.42154
+        },
+        {
+          "x": -76.552709,
+          "y": 3.423865
+        },
+        {
+          "x": -76.552685,
+          "y": 3.424047
+        },
+        {
+          "x": -76.552398,
+          "y": 3.424668
+        },
+        {
+          "x": -76.552182,
+          "y": 3.425397
+        }
+      ],
+      "speedKMH": 14.17,
+      "length": 565,
+      "turnType": "NONE",
+      "uuid": 124615464,
+      "endNode": "Av. de Los Cerros > (N)",
+      "speed": 3.936111111111111,
+      "segments": [
+        {
+          "fromNode": 178209830,
+          "ID": 193192339,
+          "toNode": 122090388,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090388,
+          "ID": 188688692,
+          "toNode": 176297940,
+          "isForward": true
+        },
+        {
+          "fromNode": 176297940,
+          "ID": 188688693,
+          "toNode": 175489335,
+          "isForward": true
+        },
+        {
+          "fromNode": 175489335,
+          "ID": 186844323,
+          "toNode": 122093357,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093357,
+          "ID": 116131718,
+          "toNode": 122093358,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093358,
+          "ID": 193432914,
+          "toNode": 122090434,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 78,
+      "street": "Calle 1ª > Norte",
+      "id": 124615464,
+      "pubMillis": 1778449219240,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124615464"
+    },
+    "124685606": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.545434,
+          "y": 3.427725
+        },
+        {
+          "x": -76.545719,
+          "y": 3.427157
+        },
+        {
+          "x": -76.545907,
+          "y": 3.426702
+        },
+        {
+          "x": -76.546065,
+          "y": 3.426268
+        },
+        {
+          "x": -76.546556,
+          "y": 3.424925
+        },
+        {
+          "x": -76.546768,
+          "y": 3.424423
+        },
+        {
+          "x": -76.54718,
+          "y": 3.423386
+        },
+        {
+          "x": -76.54755,
+          "y": 3.42233
+        },
+        {
+          "x": -76.547593,
+          "y": 3.4222
+        },
+        {
+          "x": -76.548349,
+          "y": 3.420058
+        }
+      ],
+      "speedKMH": 16.77,
+      "length": 907,
+      "turnType": "NONE",
+      "uuid": 124685606,
+      "endNode": "",
+      "speed": 4.658333333333333,
+      "segments": [
+        {
+          "fromNode": 324006663,
+          "ID": 421655367,
+          "toNode": 176304720,
+          "isForward": false
+        },
+        {
+          "fromNode": 176304720,
+          "ID": 190363249,
+          "toNode": 122084043,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084043,
+          "ID": 116129321,
+          "toNode": 122090629,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090629,
+          "ID": 116127372,
+          "toNode": 122084047,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084047,
+          "ID": 475052777,
+          "toNode": 357866033,
+          "isForward": false
+        },
+        {
+          "fromNode": 357866033,
+          "ID": 475052776,
+          "toNode": 212015909,
+          "isForward": false
+        },
+        {
+          "fromNode": 212015909,
+          "ID": 460625059,
+          "toNode": 122084951,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 107,
+      "street": "Calle 5ª >Sur",
+      "id": 124685606,
+      "pubMillis": 1778449218674,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124685606"
+    },
+    "126309326": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.535345,
+          "y": 3.437287
+        },
+        {
+          "x": -76.535547,
+          "y": 3.436575
+        },
+        {
+          "x": -76.53583,
+          "y": 3.435594
+        },
+        {
+          "x": -76.535915,
+          "y": 3.435287
+        },
+        {
+          "x": -76.536002,
+          "y": 3.434849
+        },
+        {
+          "x": -76.536152,
+          "y": 3.434085
+        }
+      ],
+      "speedKMH": 9.53,
+      "length": 365,
+      "turnType": "NONE",
+      "uuid": 126309326,
+      "endNode": "Carrera 27",
+      "speed": 2.647222222222222,
+      "segments": [
+        {
+          "fromNode": 151109581,
+          "ID": 141155445,
+          "toNode": 122102487,
+          "isForward": true
+        },
+        {
+          "fromNode": 122102487,
+          "ID": 242337352,
+          "toNode": 207302347,
+          "isForward": false
+        },
+        {
+          "fromNode": 207302347,
+          "ID": 242337351,
+          "toNode": 151109285,
+          "isForward": false
+        },
+        {
+          "fromNode": 151109285,
+          "ID": 141154958,
+          "toNode": 151109281,
+          "isForward": false
+        },
+        {
+          "fromNode": 151109281,
+          "ID": 116116058,
+          "toNode": 122082736,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 93,
+      "street": "Calle 8ª",
+      "id": 126309326,
+      "pubMillis": 1778450065209,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126309326"
+    },
+    "120575078": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.545774,
+          "y": 3.392044
+        },
+        {
+          "x": -76.545512,
+          "y": 3.390326
+        },
+        {
+          "x": -76.545372,
+          "y": 3.389557
+        },
+        {
+          "x": -76.545311,
+          "y": 3.389151
+        },
+        {
+          "x": -76.545281,
+          "y": 3.388882
+        },
+        {
+          "x": -76.54512,
+          "y": 3.387898
+        },
+        {
+          "x": -76.545012,
+          "y": 3.387182
+        },
+        {
+          "x": -76.544844,
+          "y": 3.386076
+        },
+        {
+          "x": -76.544823,
+          "y": 3.385945
+        },
+        {
+          "x": -76.5448,
+          "y": 3.385799
+        },
+        {
+          "x": -76.544499,
+          "y": 3.383761
+        },
+        {
+          "x": -76.544344,
+          "y": 3.383051
+        },
+        {
+          "x": -76.543805,
+          "y": 3.380676
+        }
+      ],
+      "speedKMH": 14.09,
+      "length": 1275,
+      "turnType": "NONE",
+      "uuid": 120575078,
+      "endNode": "Calle 5ª / Calz Central >Sur",
+      "speed": 3.9138888888888888,
+      "segments": [
+        {
+          "fromNode": 173145307,
+          "ID": 181448678,
+          "toNode": 172960863,
+          "isForward": true
+        },
+        {
+          "fromNode": 172960863,
+          "ID": 191189648,
+          "toNode": 188971472,
+          "isForward": true
+        },
+        {
+          "fromNode": 188971472,
+          "ID": 191189649,
+          "toNode": 174220050,
+          "isForward": true
+        },
+        {
+          "fromNode": 174220050,
+          "ID": 254567935,
+          "toNode": 214947661,
+          "isForward": true
+        },
+        {
+          "fromNode": 214947661,
+          "ID": 472148586,
+          "toNode": 356178154,
+          "isForward": true
+        },
+        {
+          "fromNode": 356178154,
+          "ID": 472148587,
+          "toNode": 122091849,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091849,
+          "ID": 319650547,
+          "toNode": 258387651,
+          "isForward": true
+        },
+        {
+          "fromNode": 258387651,
+          "ID": 319650548,
+          "toNode": 207791416,
+          "isForward": true
+        },
+        {
+          "fromNode": 207791416,
+          "ID": 319650129,
+          "toNode": 152582317,
+          "isForward": true
+        },
+        {
+          "fromNode": 152582317,
+          "ID": 242129273,
+          "toNode": 207172205,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 218,
+      "street": "Calle 5ª >Sur",
+      "id": 120575078,
+      "pubMillis": 1778446981378,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120575078"
+    },
+    "125269052": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.532834,
+          "y": 3.368761
+        },
+        {
+          "x": -76.531135,
+          "y": 3.367892
+        },
+        {
+          "x": -76.53049,
+          "y": 3.36757
+        },
+        {
+          "x": -76.529888,
+          "y": 3.367244
+        },
+        {
+          "x": -76.529391,
+          "y": 3.366975
+        }
+      ],
+      "speedKMH": 11.77,
+      "length": 431,
+      "turnType": "NONE",
+      "uuid": 125269052,
+      "endNode": "Carrera 100 >SurOriente",
+      "speed": 3.2694444444444444,
+      "segments": [
+        {
+          "fromNode": 229279565,
+          "ID": 275412505,
+          "toNode": 122098158,
+          "isForward": true
+        },
+        {
+          "fromNode": 122098158,
+          "ID": 176095731,
+          "toNode": 171039619,
+          "isForward": true
+        },
+        {
+          "fromNode": 171039619,
+          "ID": 471778017,
+          "toNode": 355967263,
+          "isForward": false
+        },
+        {
+          "fromNode": 355967263,
+          "ID": 471778016,
+          "toNode": 164461643,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 88,
+      "street": "Carrera 100 / Calz Derecha >SurOriente",
+      "id": 125269052,
+      "pubMillis": 1778449527608,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125269052"
+    },
+    "125981646": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.495162,
+          "y": 3.412732
+        },
+        {
+          "x": -76.495409,
+          "y": 3.412973
+        },
+        {
+          "x": -76.495641,
+          "y": 3.413207
+        },
+        {
+          "x": -76.495874,
+          "y": 3.413456
+        },
+        {
+          "x": -76.496116,
+          "y": 3.413699
+        },
+        {
+          "x": -76.496353,
+          "y": 3.413971
+        },
+        {
+          "x": -76.496598,
+          "y": 3.414204
+        },
+        {
+          "x": -76.496955,
+          "y": 3.414568
+        }
+      ],
+      "speedKMH": 4.05,
+      "length": 285,
+      "turnType": "NONE",
+      "uuid": 125981646,
+      "endNode": "Calle 48",
+      "speed": 1.125,
+      "segments": [
+        {
+          "fromNode": 182757912,
+          "ID": 201130810,
+          "toNode": 155789544,
+          "isForward": false
+        },
+        {
+          "fromNode": 155789544,
+          "ID": 176782244,
+          "toNode": 171315956,
+          "isForward": false
+        },
+        {
+          "fromNode": 171315956,
+          "ID": 176782246,
+          "toNode": 122086460,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086460,
+          "ID": 176782245,
+          "toNode": 171315712,
+          "isForward": false
+        },
+        {
+          "fromNode": 171315712,
+          "ID": 176781495,
+          "toNode": 122086598,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086598,
+          "ID": 176781494,
+          "toNode": 171315715,
+          "isForward": false
+        },
+        {
+          "fromNode": 171315715,
+          "ID": 176781492,
+          "toNode": 122086328,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 206,
+      "street": "Carrera 32 A",
+      "id": 125981646,
+      "pubMillis": 1778449912895,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125981646"
+    },
+    "125296442": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.506455,
+          "y": 3.403476
+        },
+        {
+          "x": -76.507651,
+          "y": 3.402377
+        }
+      ],
+      "speedKMH": 4.19,
+      "length": 180,
+      "turnType": "NONE",
+      "uuid": 125296442,
+      "endNode": "Carrera 43",
+      "speed": 1.163888888888889,
+      "segments": [
+        {
+          "fromNode": 122089089,
+          "ID": 251147353,
+          "toNode": 122089238,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 94,
+      "street": "Calle 50",
+      "id": 125296442,
+      "pubMillis": 1778449527747,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125296442"
+    },
+    "126157268": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.503685,
+          "y": 3.464759
+        },
+        {
+          "x": -76.503371,
+          "y": 3.464891
+        },
+        {
+          "x": -76.503075,
+          "y": 3.465004
+        },
+        {
+          "x": -76.50233,
+          "y": 3.465254
+        },
+        {
+          "x": -76.501425,
+          "y": 3.465525
+        },
+        {
+          "x": -76.501193,
+          "y": 3.465592
+        },
+        {
+          "x": -76.500574,
+          "y": 3.465781
+        },
+        {
+          "x": -76.499606,
+          "y": 3.466088
+        }
+      ],
+      "speedKMH": 8.86,
+      "length": 477,
+      "turnType": "NONE",
+      "uuid": 126157268,
+      "endNode": "Calle 56 >Sur",
+      "speed": 2.4611111111111112,
+      "segments": [
+        {
+          "fromNode": 122083318,
+          "ID": 116116473,
+          "toNode": 122083320,
+          "isForward": false
+        },
+        {
+          "fromNode": 122083320,
+          "ID": 116116474,
+          "toNode": 122083321,
+          "isForward": false
+        },
+        {
+          "fromNode": 122083321,
+          "ID": 116128125,
+          "toNode": 122090506,
+          "isForward": false
+        },
+        {
+          "fromNode": 122090506,
+          "ID": 116126990,
+          "toNode": 122090505,
+          "isForward": false
+        },
+        {
+          "fromNode": 122090505,
+          "ID": 164156696,
+          "toNode": 152599079,
+          "isForward": true
+        },
+        {
+          "fromNode": 152599079,
+          "ID": 367726863,
+          "toNode": 288763066,
+          "isForward": false
+        },
+        {
+          "fromNode": 288763066,
+          "ID": 367726862,
+          "toNode": 122083361,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 107,
+      "street": "Carrera 3ª",
+      "id": 126157268,
+      "pubMillis": 1778449989404,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126157268"
+    },
+    "124731966": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.497711,
+          "y": 3.441654
+        },
+        {
+          "x": -76.499024,
+          "y": 3.441188
+        },
+        {
+          "x": -76.499116,
+          "y": 3.441156
+        },
+        {
+          "x": -76.500976,
+          "y": 3.440499
+        },
+        {
+          "x": -76.501149,
+          "y": 3.440432
+        },
+        {
+          "x": -76.501371,
+          "y": 3.440364
+        }
+      ],
+      "speedKMH": 8.88,
+      "length": 432,
+      "turnType": "NONE",
+      "uuid": 124731966,
+      "endNode": "Acceso Carril Central",
+      "speed": 2.466666666666667,
+      "segments": [
+        {
+          "fromNode": 87480968,
+          "ID": 412339654,
+          "toNode": 317999875,
+          "isForward": false
+        },
+        {
+          "fromNode": 317999875,
+          "ID": 412339653,
+          "toNode": 230865109,
+          "isForward": false
+        },
+        {
+          "fromNode": 230865109,
+          "ID": 277929586,
+          "toNode": 87480360,
+          "isForward": false
+        },
+        {
+          "fromNode": 87480360,
+          "ID": 162499105,
+          "toNode": 163013132,
+          "isForward": true
+        },
+        {
+          "fromNode": 163013132,
+          "ID": 260263225,
+          "toNode": 218712794,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 93,
+      "street": "AP Suroriental > SurOccidente",
+      "id": 124731966,
+      "pubMillis": 1778449295869,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124731966"
+    },
+    "125736744": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.536258,
+          "y": 3.41027
+        },
+        {
+          "x": -76.536205,
+          "y": 3.410421
+        },
+        {
+          "x": -76.535987,
+          "y": 3.411075
+        },
+        {
+          "x": -76.535833,
+          "y": 3.41154
+        },
+        {
+          "x": -76.535691,
+          "y": 3.41197
+        },
+        {
+          "x": -76.535546,
+          "y": 3.412401
+        }
+      ],
+      "speedKMH": 6.28,
+      "length": 248,
+      "turnType": "NONE",
+      "uuid": 125736744,
+      "endNode": "Carrera 47",
+      "speed": 1.7444444444444445,
+      "segments": [
+        {
+          "fromNode": 122103118,
+          "ID": 181959075,
+          "toNode": 173432607,
+          "isForward": true
+        },
+        {
+          "fromNode": 173432607,
+          "ID": 181959076,
+          "toNode": 122089540,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089540,
+          "ID": 116125248,
+          "toNode": 122089581,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089581,
+          "ID": 116127076,
+          "toNode": 122089537,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089537,
+          "ID": 116127078,
+          "toNode": 122089620,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 102,
+      "street": "Calle 12",
+      "id": 125736744,
+      "pubMillis": 1778449758848,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125736744"
+    },
+    "122812682": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.523713,
+          "y": 3.34907
+        },
+        {
+          "x": -76.523576,
+          "y": 3.349799
+        },
+        {
+          "x": -76.523515,
+          "y": 3.350241
+        },
+        {
+          "x": -76.523403,
+          "y": 3.351057
+        },
+        {
+          "x": -76.523372,
+          "y": 3.351706
+        },
+        {
+          "x": -76.523355,
+          "y": 3.352943
+        },
+        {
+          "x": -76.523348,
+          "y": 3.353288
+        },
+        {
+          "x": -76.523339,
+          "y": 3.353735
+        },
+        {
+          "x": -76.523353,
+          "y": 3.354009
+        },
+        {
+          "x": -76.523381,
+          "y": 3.354275
+        },
+        {
+          "x": -76.523413,
+          "y": 3.354583
+        },
+        {
+          "x": -76.5235,
+          "y": 3.355538
+        },
+        {
+          "x": -76.523576,
+          "y": 3.356183
+        },
+        {
+          "x": -76.523616,
+          "y": 3.356746
+        },
+        {
+          "x": -76.523724,
+          "y": 3.357792
+        },
+        {
+          "x": -76.523867,
+          "y": 3.359029
+        }
+      ],
+      "speedKMH": 10.16,
+      "length": 1107,
+      "turnType": "NONE",
+      "uuid": 122812682,
+      "endNode": "Cali",
+      "speed": 2.8222222222222224,
+      "segments": [
+        {
+          "fromNode": 310422377,
+          "ID": 443902768,
+          "toNode": 338718690,
+          "isForward": false
+        },
+        {
+          "fromNode": 338718690,
+          "ID": 443902767,
+          "toNode": 122091827,
+          "isForward": false
+        },
+        {
+          "fromNode": 122091827,
+          "ID": 189413822,
+          "toNode": 178479017,
+          "isForward": true
+        },
+        {
+          "fromNode": 178479017,
+          "ID": 471777682,
+          "toNode": 355967036,
+          "isForward": true
+        },
+        {
+          "fromNode": 355967036,
+          "ID": 471777683,
+          "toNode": 182839113,
+          "isForward": true
+        },
+        {
+          "fromNode": 182839113,
+          "ID": 201313547,
+          "toNode": 177871992,
+          "isForward": true
+        },
+        {
+          "fromNode": 177871992,
+          "ID": 243053528,
+          "toNode": 207747350,
+          "isForward": true
+        },
+        {
+          "fromNode": 207747350,
+          "ID": 243053529,
+          "toNode": 203623818,
+          "isForward": true
+        },
+        {
+          "fromNode": 203623818,
+          "ID": 236639905,
+          "toNode": 177302247,
+          "isForward": true
+        },
+        {
+          "fromNode": 177302247,
+          "ID": 230418113,
+          "toNode": 200189006,
+          "isForward": true
+        },
+        {
+          "fromNode": 200189006,
+          "ID": 471777820,
+          "toNode": 122098002,
+          "isForward": false
+        }
+      ],
+      "roadType": 3,
+      "delay": 300,
+      "startNode": "Cali",
+      "street": "Jamundí-Cali / RN25-04 >(N)",
+      "id": 122812682,
+      "pubMillis": 1778448214712,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "122812682"
+    },
+    "125881054": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.493313,
+          "y": 3.496979
+        },
+        {
+          "x": -76.493453,
+          "y": 3.496734
+        },
+        {
+          "x": -76.494026,
+          "y": 3.49572
+        }
+      ],
+      "speedKMH": 4.49,
+      "length": 160,
+      "turnType": "NONE",
+      "uuid": 125881054,
+      "endNode": "Calle 73 Norte",
+      "speed": 1.2472222222222222,
+      "segments": [
+        {
+          "fromNode": 122096499,
+          "ID": 116135284,
+          "toNode": 122092410,
+          "isForward": false
+        },
+        {
+          "fromNode": 122092410,
+          "ID": 281111988,
+          "toNode": 122096496,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 96,
+      "street": "Carrera 4ª Norte",
+      "id": 125881054,
+      "pubMillis": 1778449836415,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125881054"
+    },
+    "120501324": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.537125,
+          "y": 3.373476
+        },
+        {
+          "x": -76.537187,
+          "y": 3.375029
+        },
+        {
+          "x": -76.537221,
+          "y": 3.375889
+        },
+        {
+          "x": -76.537241,
+          "y": 3.376403
+        },
+        {
+          "x": -76.537304,
+          "y": 3.377983
+        },
+        {
+          "x": -76.537529,
+          "y": 3.379463
+        },
+        {
+          "x": -76.537737,
+          "y": 3.380787
+        },
+        {
+          "x": -76.537878,
+          "y": 3.381723
+        },
+        {
+          "x": -76.538007,
+          "y": 3.382532
+        }
+      ],
+      "speedKMH": 12.57,
+      "length": 1008,
+      "turnType": "NONE",
+      "uuid": 120501324,
+      "endNode": "Carrera 83 > Occidente",
+      "speed": 3.4916666666666667,
+      "segments": [
+        {
+          "fromNode": 313317568,
+          "ID": 471783033,
+          "toNode": 355970180,
+          "isForward": false
+        },
+        {
+          "fromNode": 355970180,
+          "ID": 471783032,
+          "toNode": 313317550,
+          "isForward": false
+        },
+        {
+          "fromNode": 313317550,
+          "ID": 405141441,
+          "toNode": 173327603,
+          "isForward": false
+        },
+        {
+          "fromNode": 173327603,
+          "ID": 183855760,
+          "toNode": 122093079,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093079,
+          "ID": 309886797,
+          "toNode": 122101710,
+          "isForward": true
+        },
+        {
+          "fromNode": 122101710,
+          "ID": 183863441,
+          "toNode": 174223700,
+          "isForward": true
+        },
+        {
+          "fromNode": 174223700,
+          "ID": 190599361,
+          "toNode": 152788820,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 222,
+      "street": "Av. Pasoancho >Norte",
+      "id": 120501324,
+      "pubMillis": 1778446903407,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120501324"
+    },
+    "126121952": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.486624,
+          "y": 3.486033
+        },
+        {
+          "x": -76.486182,
+          "y": 3.484624
+        }
+      ],
+      "speedKMH": 3.93,
+      "length": 163,
+      "turnType": "NONE",
+      "uuid": 126121952,
+      "endNode": "Carrera 1ª A 6",
+      "speed": 1.0916666666666666,
+      "segments": [
+        {
+          "fromNode": 122092470,
+          "ID": 116131030,
+          "toNode": 201431062,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 134,
+      "street": "Av. Ciudad de Cali >(S)",
+      "id": 126121952,
+      "pubMillis": 1778449989901,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126121952"
+    },
+    "126076394": {
+      "country": "CO",
+      "level": 3,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.485436,
+          "y": 3.583866
+        },
+        {
+          "x": -76.485585,
+          "y": 3.583517
+        },
+        {
+          "x": -76.485759,
+          "y": 3.583061
+        },
+        {
+          "x": -76.485899,
+          "y": 3.582694
+        },
+        {
+          "x": -76.486005,
+          "y": 3.582361
+        },
+        {
+          "x": -76.48608,
+          "y": 3.582116
+        },
+        {
+          "x": -76.486114,
+          "y": 3.581815
+        },
+        {
+          "x": -76.486125,
+          "y": 3.581489
+        },
+        {
+          "x": -76.48613,
+          "y": 3.581268
+        },
+        {
+          "x": -76.486182,
+          "y": 3.580689
+        },
+        {
+          "x": -76.486284,
+          "y": 3.579079
+        },
+        {
+          "x": -76.486385,
+          "y": 3.578834
+        }
+      ],
+      "speedKMH": 14.53,
+      "length": 572,
+      "turnType": "NONE",
+      "uuid": 126076394,
+      "endNode": "Yumbo",
+      "speed": 4.036111111111111,
+      "segments": [
+        {
+          "fromNode": 111699661,
+          "ID": 104026422,
+          "toNode": 111699660,
+          "isForward": false
+        },
+        {
+          "fromNode": 111699660,
+          "ID": 104237375,
+          "toNode": 111698300,
+          "isForward": false
+        },
+        {
+          "fromNode": 111698300,
+          "ID": 177210273,
+          "toNode": 171487535,
+          "isForward": false
+        },
+        {
+          "fromNode": 171487535,
+          "ID": 177211646,
+          "toNode": 171488088,
+          "isForward": false
+        },
+        {
+          "fromNode": 171488088,
+          "ID": 177211645,
+          "toNode": 171487710,
+          "isForward": false
+        },
+        {
+          "fromNode": 171487710,
+          "ID": 177211595,
+          "toNode": 171488066,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 67,
+      "startNode": "Yumbo",
+      "street": "Panorama / RN23-01",
+      "id": 126076394,
+      "pubMillis": 1778449990692,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126076394"
+    },
+    "124747264": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.526114,
+          "y": 3.436894
+        },
+        {
+          "x": -76.526623,
+          "y": 3.436904
+        },
+        {
+          "x": -76.527568,
+          "y": 3.436933
+        }
+      ],
+      "speedKMH": 2.81,
+      "length": 162,
+      "turnType": "NONE",
+      "uuid": 124747264,
+      "endNode": "Calle 13 A",
+      "speed": 0.7805555555555556,
+      "segments": [
+        {
+          "fromNode": 122084856,
+          "ID": 116126187,
+          "toNode": 122090095,
+          "isForward": false
+        },
+        {
+          "fromNode": 122090095,
+          "ID": 193517930,
+          "toNode": 178349165,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 94,
+      "street": "Carrera 22 A",
+      "id": 124747264,
+      "pubMillis": 1778449295837,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124747264"
+    },
+    "124062484": {
+      "country": "CO",
+      "level": 2,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.532049,
+          "y": 3.534066
+        },
+        {
+          "x": -76.531966,
+          "y": 3.534044
+        },
+        {
+          "x": -76.531829,
+          "y": 3.533975
+        },
+        {
+          "x": -76.531698,
+          "y": 3.533875
+        },
+        {
+          "x": -76.531593,
+          "y": 3.533729
+        },
+        {
+          "x": -76.531558,
+          "y": 3.533597
+        },
+        {
+          "x": -76.531526,
+          "y": 3.533364
+        },
+        {
+          "x": -76.531486,
+          "y": 3.533161
+        },
+        {
+          "x": -76.531443,
+          "y": 3.533008
+        },
+        {
+          "x": -76.531362,
+          "y": 3.532829
+        },
+        {
+          "x": -76.531282,
+          "y": 3.532674
+        },
+        {
+          "x": -76.531204,
+          "y": 3.5325
+        },
+        {
+          "x": -76.531196,
+          "y": 3.532371
+        },
+        {
+          "x": -76.531193,
+          "y": 3.532216
+        },
+        {
+          "x": -76.531236,
+          "y": 3.53205
+        },
+        {
+          "x": -76.531322,
+          "y": 3.531895
+        },
+        {
+          "x": -76.531601,
+          "y": 3.531689
+        },
+        {
+          "x": -76.53185,
+          "y": 3.531584
+        },
+        {
+          "x": -76.531915,
+          "y": 3.531498
+        },
+        {
+          "x": -76.531931,
+          "y": 3.531386
+        },
+        {
+          "x": -76.531861,
+          "y": 3.531341
+        },
+        {
+          "x": -76.530818,
+          "y": 3.531033
+        },
+        {
+          "x": -76.530504,
+          "y": 3.53084
+        },
+        {
+          "x": -76.530332,
+          "y": 3.530754
+        },
+        {
+          "x": -76.530203,
+          "y": 3.53071
+        }
+      ],
+      "speedKMH": 15.53,
+      "length": 577,
+      "turnType": "NONE",
+      "uuid": 124062484,
+      "endNode": "Yumbo",
+      "speed": 4.313888888888889,
+      "segments": [
+        {
+          "fromNode": 214054954,
+          "ID": 253111190,
+          "toNode": 214054919,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 81,
+      "startNode": "Yumbo",
+      "street": "Yumbo-Dapa",
+      "id": 124062484,
+      "pubMillis": 1778448912580,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124062484"
+    },
+    "126309620": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.490075,
+          "y": 3.475549
+        },
+        {
+          "x": -76.489218,
+          "y": 3.475825
+        },
+        {
+          "x": -76.488143,
+          "y": 3.476151
+        }
+      ],
+      "speedKMH": 6.64,
+      "length": 225,
+      "turnType": "NONE",
+      "uuid": 126309620,
+      "endNode": "AP Oriental / Calz Derecha",
+      "speed": 1.8444444444444446,
+      "segments": [
+        {
+          "fromNode": 122093632,
+          "ID": 292334772,
+          "toNode": 122099970,
+          "isForward": false
+        },
+        {
+          "fromNode": 122099970,
+          "ID": 444622119,
+          "toNode": 204908744,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 94,
+      "street": "Carrera 1ª D",
+      "id": 126309620,
+      "pubMillis": 1778450068247,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126309620"
+    },
+    "122136004": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.500851,
+          "y": 3.479473
+        },
+        {
+          "x": -76.501878,
+          "y": 3.478707
+        },
+        {
+          "x": -76.50221,
+          "y": 3.478459
+        },
+        {
+          "x": -76.502656,
+          "y": 3.478126
+        },
+        {
+          "x": -76.502763,
+          "y": 3.478046
+        },
+        {
+          "x": -76.502937,
+          "y": 3.477885
+        },
+        {
+          "x": -76.504113,
+          "y": 3.476555
+        },
+        {
+          "x": -76.504349,
+          "y": 3.476399
+        },
+        {
+          "x": -76.5045,
+          "y": 3.476314
+        },
+        {
+          "x": -76.504619,
+          "y": 3.476214
+        },
+        {
+          "x": -76.504669,
+          "y": 3.47615
+        },
+        {
+          "x": -76.504769,
+          "y": 3.475955
+        }
+      ],
+      "speedKMH": 8.17,
+      "length": 589,
+      "turnType": "NONE",
+      "uuid": 122136004,
+      "endNode": "Calle 52 Norte",
+      "speed": 2.2694444444444444,
+      "segments": [
+        {
+          "fromNode": 122091627,
+          "ID": 143749398,
+          "toNode": 152678434,
+          "isForward": true
+        },
+        {
+          "fromNode": 152678434,
+          "ID": 440101941,
+          "toNode": 336261215,
+          "isForward": true
+        },
+        {
+          "fromNode": 336261215,
+          "ID": 440101948,
+          "toNode": 336261220,
+          "isForward": true
+        },
+        {
+          "fromNode": 336261220,
+          "ID": 440101949,
+          "toNode": 122091628,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091628,
+          "ID": 240748114,
+          "toNode": 206278794,
+          "isForward": true
+        },
+        {
+          "fromNode": 206278794,
+          "ID": 240748116,
+          "toNode": 206278796,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 211,
+      "street": "Carrera 1ª > Sur",
+      "id": 122136004,
+      "pubMillis": 1778447904530,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "122136004"
+    },
+    "126227970": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.505821,
+          "y": 3.42492
+        },
+        {
+          "x": -76.50537,
+          "y": 3.425805
+        },
+        {
+          "x": -76.50492,
+          "y": 3.426691
+        }
+      ],
+      "speedKMH": 6.54,
+      "length": 220,
+      "turnType": "NONE",
+      "uuid": 126227970,
+      "endNode": "Calle 44 > Norte",
+      "speed": 1.8166666666666667,
+      "segments": [
+        {
+          "fromNode": 122088674,
+          "ID": 116123733,
+          "toNode": 122085299,
+          "isForward": true
+        },
+        {
+          "fromNode": 122085299,
+          "ID": 116123732,
+          "toNode": 122083881,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 91,
+      "street": "Diagonal 30 >(N)",
+      "id": 126227970,
+      "pubMillis": 1778450067017,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126227970"
+    },
+    "121308094": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.516187,
+          "y": 3.384941
+        },
+        {
+          "x": -76.51619,
+          "y": 3.386034
+        },
+        {
+          "x": -76.516193,
+          "y": 3.386361
+        },
+        {
+          "x": -76.516182,
+          "y": 3.387105
+        },
+        {
+          "x": -76.516181,
+          "y": 3.387284
+        },
+        {
+          "x": -76.51619,
+          "y": 3.388049
+        },
+        {
+          "x": -76.51619,
+          "y": 3.388474
+        }
+      ],
+      "speedKMH": 5.66,
+      "length": 391,
+      "turnType": "NONE",
+      "uuid": 121308094,
+      "endNode": "Carrera 80",
+      "speed": 1.5722222222222222,
+      "segments": [
+        {
+          "fromNode": 164945116,
+          "ID": 116137891,
+          "toNode": 122097974,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097974,
+          "ID": 250807093,
+          "toNode": 122094813,
+          "isForward": true
+        },
+        {
+          "fromNode": 122094813,
+          "ID": 198208088,
+          "toNode": 181504449,
+          "isForward": true
+        },
+        {
+          "fromNode": 181504449,
+          "ID": 198208089,
+          "toNode": 164945117,
+          "isForward": true
+        },
+        {
+          "fromNode": 164945117,
+          "ID": 250807097,
+          "toNode": 164945118,
+          "isForward": true
+        },
+        {
+          "fromNode": 164945118,
+          "ID": 167265874,
+          "toNode": 122097914,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 193,
+      "street": "Calle 48>Norte",
+      "id": 121308094,
+      "pubMillis": 1778447442607,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "121308094"
+    },
+    "125928198": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.506939,
+          "y": 3.41204
+        },
+        {
+          "x": -76.506617,
+          "y": 3.412365
+        },
+        {
+          "x": -76.506287,
+          "y": 3.412666
+        },
+        {
+          "x": -76.50596,
+          "y": 3.412985
+        },
+        {
+          "x": -76.505638,
+          "y": 3.413287
+        }
+      ],
+      "speedKMH": 4.53,
+      "length": 201,
+      "turnType": "NONE",
+      "uuid": 125928198,
+      "endNode": "Carrera 39 C",
+      "speed": 1.2583333333333333,
+      "segments": [
+        {
+          "fromNode": 122088387,
+          "ID": 116123115,
+          "toNode": 122088247,
+          "isForward": false
+        },
+        {
+          "fromNode": 122088247,
+          "ID": 116123116,
+          "toNode": 122088334,
+          "isForward": false
+        },
+        {
+          "fromNode": 122088334,
+          "ID": 116123117,
+          "toNode": 122085188,
+          "isForward": false
+        },
+        {
+          "fromNode": 122085188,
+          "ID": 116118161,
+          "toNode": 122085187,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 134,
+      "street": "Calle 43",
+      "id": 125928198,
+      "pubMillis": 1778449912830,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125928198"
+    },
+    "125788136": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.490129,
+          "y": 3.444047
+        },
+        {
+          "x": -76.489325,
+          "y": 3.444373
+        },
+        {
+          "x": -76.487875,
+          "y": 3.444889
+        },
+        {
+          "x": -76.486114,
+          "y": 3.445518
+        },
+        {
+          "x": -76.484614,
+          "y": 3.446055
+        },
+        {
+          "x": -76.484146,
+          "y": 3.446198
+        }
+      ],
+      "speedKMH": 18.73,
+      "length": 706,
+      "turnType": "NONE",
+      "uuid": 125788136,
+      "endNode": "Av. Ciudad de Cali >(S)",
+      "speed": 5.2027777777777775,
+      "segments": [
+        {
+          "fromNode": 252279916,
+          "ID": 310219283,
+          "toNode": 122086913,
+          "isForward": false
+        },
+        {
+          "fromNode": 122086913,
+          "ID": 116120789,
+          "toNode": 122086938,
+          "isForward": true
+        },
+        {
+          "fromNode": 122086938,
+          "ID": 116120790,
+          "toNode": 122086990,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 74,
+      "street": "Carrera 15>NorOriente",
+      "id": 125788136,
+      "pubMillis": 1778449836290,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125788136"
+    },
+    "125561580": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.479503,
+          "y": 3.427456
+        },
+        {
+          "x": -76.480323,
+          "y": 3.427456
+        },
+        {
+          "x": -76.481147,
+          "y": 3.427432
+        },
+        {
+          "x": -76.481361,
+          "y": 3.427428
+        }
+      ],
+      "speedKMH": 5.15,
+      "length": 207,
+      "turnType": "NONE",
+      "uuid": 125561580,
+      "endNode": "Calle 80",
+      "speed": 1.4305555555555556,
+      "segments": [
+        {
+          "fromNode": 122097563,
+          "ID": 116136988,
+          "toNode": 122097586,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097586,
+          "ID": 116136987,
+          "toNode": 122097578,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097578,
+          "ID": 116136986,
+          "toNode": 122097571,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 74,
+      "street": "Carrera 26 K",
+      "id": 125561580,
+      "pubMillis": 1778449681961,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125561580"
+    },
+    "120512946": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.486526,
+          "y": 3.471374
+        },
+        {
+          "x": -76.486209,
+          "y": 3.47036
+        },
+        {
+          "x": -76.486156,
+          "y": 3.470187
+        },
+        {
+          "x": -76.485753,
+          "y": 3.468881
+        },
+        {
+          "x": -76.485304,
+          "y": 3.46743
+        },
+        {
+          "x": -76.48528,
+          "y": 3.467351
+        },
+        {
+          "x": -76.484996,
+          "y": 3.466435
+        },
+        {
+          "x": -76.484965,
+          "y": 3.466336
+        },
+        {
+          "x": -76.484405,
+          "y": 3.464616
+        }
+      ],
+      "speedKMH": 13.28,
+      "length": 783,
+      "turnType": "NONE",
+      "uuid": 120512946,
+      "endNode": "Cali",
+      "speed": 3.688888888888889,
+      "segments": [
+        {
+          "fromNode": 201401843,
+          "ID": 432784883,
+          "toNode": 331433395,
+          "isForward": false
+        },
+        {
+          "fromNode": 331433395,
+          "ID": 432784893,
+          "toNode": 331433399,
+          "isForward": false
+        },
+        {
+          "fromNode": 331433399,
+          "ID": 471891196,
+          "toNode": 356032440,
+          "isForward": false
+        },
+        {
+          "fromNode": 356032440,
+          "ID": 471891195,
+          "toNode": 328802425,
+          "isForward": false
+        },
+        {
+          "fromNode": 328802425,
+          "ID": 428859094,
+          "toNode": 328802501,
+          "isForward": false
+        },
+        {
+          "fromNode": 328802501,
+          "ID": 428859093,
+          "toNode": 202413038,
+          "isForward": false
+        },
+        {
+          "fromNode": 202413038,
+          "ID": 234749729,
+          "toNode": 122082141,
+          "isForward": false
+        },
+        {
+          "fromNode": 122082141,
+          "ID": 234749731,
+          "toNode": 178461658,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 140,
+      "startNode": "Cali",
+      "street": "AP Oriental / Calz Central >Sur",
+      "id": 120512946,
+      "pubMillis": 1778446902916,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120512946"
+    },
+    "126258470": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.553755,
+          "y": 3.387196
+        },
+        {
+          "x": -76.555009,
+          "y": 3.387185
+        },
+        {
+          "x": -76.555885,
+          "y": 3.387189
+        }
+      ],
+      "speedKMH": 3.43,
+      "length": 236,
+      "turnType": "NONE",
+      "uuid": 126258470,
+      "endNode": "Calle 1ª A",
+      "speed": 0.9527777777777777,
+      "segments": [
+        {
+          "fromNode": 122098526,
+          "ID": 116138466,
+          "toNode": 122098589,
+          "isForward": true
+        },
+        {
+          "fromNode": 122098589,
+          "ID": 116138465,
+          "toNode": 188360558,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 95,
+      "street": "Carrera 77 A",
+      "id": 126258470,
+      "pubMillis": 1778450067749,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126258470"
+    },
+    "121798112": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.528801,
+          "y": 3.370778
+        },
+        {
+          "x": -76.528173,
+          "y": 3.370778
+        },
+        {
+          "x": -76.526784,
+          "y": 3.371094
+        },
+        {
+          "x": -76.525515,
+          "y": 3.371085
+        }
+      ],
+      "speedKMH": 3.26,
+      "length": 369,
+      "turnType": "NONE",
+      "uuid": 121798112,
+      "endNode": "",
+      "speed": 0.9055555555555556,
+      "segments": [
+        {
+          "fromNode": 172694748,
+          "ID": 197407937,
+          "toNode": 122101868,
+          "isForward": true
+        },
+        {
+          "fromNode": 122101868,
+          "ID": 361570589,
+          "toNode": 122101866,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 365,
+      "street": "Carrera 98 > Oriente",
+      "id": 121798112,
+      "pubMillis": 1778447673998,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "121798112"
+    },
+    "125483990": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.540396,
+          "y": 3.36728
+        },
+        {
+          "x": -76.540082,
+          "y": 3.367285
+        },
+        {
+          "x": -76.539973,
+          "y": 3.36724
+        },
+        {
+          "x": -76.53982,
+          "y": 3.367105
+        },
+        {
+          "x": -76.539701,
+          "y": 3.367054
+        },
+        {
+          "x": -76.539566,
+          "y": 3.367045
+        },
+        {
+          "x": -76.53932,
+          "y": 3.367018
+        },
+        {
+          "x": -76.538815,
+          "y": 3.366996
+        },
+        {
+          "x": -76.538619,
+          "y": 3.366996
+        }
+      ],
+      "speedKMH": 5.69,
+      "length": 205,
+      "turnType": "NONE",
+      "uuid": 125483990,
+      "speed": 1.5805555555555555,
+      "segments": [
+        {
+          "fromNode": 226854000,
+          "ID": 271459977,
+          "toNode": 122094063,
+          "isForward": false
+        },
+        {
+          "fromNode": 122094063,
+          "ID": 197255383,
+          "toNode": 181105906,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 99,
+      "street": "Carrera 103",
+      "id": 125483990,
+      "pubMillis": 1778449683098,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125483990"
+    },
+    "125265370": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.525914,
+          "y": 3.486
+        },
+        {
+          "x": -76.525953,
+          "y": 3.485198
+        },
+        {
+          "x": -76.525943,
+          "y": 3.484394
+        }
+      ],
+      "speedKMH": 5.05,
+      "length": 178,
+      "turnType": "NONE",
+      "uuid": 125265370,
+      "endNode": "Calle 47 Norte",
+      "speed": 1.4027777777777777,
+      "segments": [
+        {
+          "fromNode": 165045137,
+          "ID": 427508434,
+          "toNode": 203301996,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 91,
+      "street": "Av. 6ª Norte / Calz Central >Sur",
+      "id": 125265370,
+      "pubMillis": 1778449526989,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125265370"
+    },
+    "126040620": {
+      "country": "CO",
+      "level": 3,
+      "city": "Pance",
+      "line": [
+        {
+          "x": -76.537241,
+          "y": 3.342799
+        },
+        {
+          "x": -76.535462,
+          "y": 3.34292
+        },
+        {
+          "x": -76.534899,
+          "y": 3.342947
+        },
+        {
+          "x": -76.534599,
+          "y": 3.342963
+        },
+        {
+          "x": -76.534175,
+          "y": 3.342985
+        }
+      ],
+      "speedKMH": 8.56,
+      "length": 341,
+      "turnType": "NONE",
+      "uuid": 126040620,
+      "endNode": "",
+      "speed": 2.3777777777777778,
+      "segments": [
+        {
+          "fromNode": 225247642,
+          "ID": 270477605,
+          "toNode": 122101957,
+          "isForward": true
+        },
+        {
+          "fromNode": 122101957,
+          "ID": 119226189,
+          "toNode": 122099597,
+          "isForward": true
+        },
+        {
+          "fromNode": 122099597,
+          "ID": 198116332,
+          "toNode": 181464885,
+          "isForward": true
+        },
+        {
+          "fromNode": 181464885,
+          "ID": 256367574,
+          "toNode": 216098259,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 102,
+      "street": "Carrera 122",
+      "id": 126040620,
+      "pubMillis": 1778449911591,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126040620"
+    },
+    "124541404": {
+      "country": "CO",
+      "level": 4,
+      "city": "Pance",
+      "line": [
+        {
+          "x": -76.5305,
+          "y": 3.349304
+        },
+        {
+          "x": -76.530608,
+          "y": 3.347863
+        },
+        {
+          "x": -76.530804,
+          "y": 3.344858
+        },
+        {
+          "x": -76.53082,
+          "y": 3.344677
+        },
+        {
+          "x": -76.530906,
+          "y": 3.343732
+        },
+        {
+          "x": -76.530947,
+          "y": 3.343429
+        }
+      ],
+      "speedKMH": 8.47,
+      "length": 652,
+      "turnType": "NONE",
+      "uuid": 124541404,
+      "endNode": "Pance",
+      "speed": 2.352777777777778,
+      "segments": [
+        {
+          "fromNode": 174484644,
+          "ID": 184458275,
+          "toNode": 155634662,
+          "isForward": false
+        },
+        {
+          "fromNode": 155634662,
+          "ID": 275405457,
+          "toNode": 212548269,
+          "isForward": false
+        },
+        {
+          "fromNode": 212548269,
+          "ID": 443549197,
+          "toNode": 338489853,
+          "isForward": false
+        },
+        {
+          "fromNode": 338489853,
+          "ID": 443549196,
+          "toNode": 174037266,
+          "isForward": false
+        },
+        {
+          "fromNode": 174037266,
+          "ID": 250692333,
+          "toNode": 212547906,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 228,
+      "startNode": "Pance",
+      "street": "Av. Cañasgordas >(S)",
+      "id": 124541404,
+      "pubMillis": 1778449141209,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124541404"
+    },
+    "120016020": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.500499,
+          "y": 3.463069
+        },
+        {
+          "x": -76.500836,
+          "y": 3.46424
+        },
+        {
+          "x": -76.501193,
+          "y": 3.465592
+        }
+      ],
+      "speedKMH": 6.26,
+      "length": 290,
+      "turnType": "NONE",
+      "uuid": 120016020,
+      "endNode": "Carrera 3ª",
+      "speed": 1.738888888888889,
+      "segments": [
+        {
+          "fromNode": 254447373,
+          "ID": 116117508,
+          "toNode": 87487938,
+          "isForward": true
+        },
+        {
+          "fromNode": 87487938,
+          "ID": 116127627,
+          "toNode": 152599079,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 134,
+      "street": "Calle 52 >Norte",
+      "id": 120016020,
+      "pubMillis": 1778446746392,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120016020"
+    },
+    "123517672": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.505822,
+          "y": 3.455105
+        },
+        {
+          "x": -76.505337,
+          "y": 3.453312
+        }
+      ],
+      "speedKMH": 4.65,
+      "length": 203,
+      "turnType": "NONE",
+      "uuid": 123517672,
+      "endNode": "Calle 44 Norte > Sur",
+      "speed": 1.2916666666666667,
+      "segments": [
+        {
+          "fromNode": 171407967,
+          "ID": 361553880,
+          "toNode": 122082519,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 131,
+      "street": "Calle 44 >Sur",
+      "id": 123517672,
+      "pubMillis": 1778448603968,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "123517672"
+    },
+    "125674688": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.492191,
+          "y": 3.422913
+        },
+        {
+          "x": -76.492971,
+          "y": 3.423582
+        },
+        {
+          "x": -76.493732,
+          "y": 3.424273
+        },
+        {
+          "x": -76.494446,
+          "y": 3.42494
+        },
+        {
+          "x": -76.494772,
+          "y": 3.425207
+        },
+        {
+          "x": -76.494886,
+          "y": 3.4253
+        },
+        {
+          "x": -76.495197,
+          "y": 3.425573
+        },
+        {
+          "x": -76.496555,
+          "y": 3.426827
+        },
+        {
+          "x": -76.497227,
+          "y": 3.427609
+        },
+        {
+          "x": -76.497439,
+          "y": 3.427801
+        },
+        {
+          "x": -76.498256,
+          "y": 3.428298
+        }
+      ],
+      "speedKMH": 14.18,
+      "length": 902,
+      "turnType": "NONE",
+      "uuid": 125674688,
+      "endNode": "AP Simón Bolívar >(N)",
+      "speed": 3.938888888888889,
+      "segments": [
+        {
+          "fromNode": 178554692,
+          "ID": 116118956,
+          "toNode": 122085890,
+          "isForward": true
+        },
+        {
+          "fromNode": 122085890,
+          "ID": 116118955,
+          "toNode": 122085891,
+          "isForward": true
+        },
+        {
+          "fromNode": 122085891,
+          "ID": 116119296,
+          "toNode": 122086083,
+          "isForward": true
+        },
+        {
+          "fromNode": 122086083,
+          "ID": 116119712,
+          "toNode": 122086080,
+          "isForward": true
+        },
+        {
+          "fromNode": 122086080,
+          "ID": 116119711,
+          "toNode": 122086092,
+          "isForward": true
+        },
+        {
+          "fromNode": 122086092,
+          "ID": 116119710,
+          "toNode": 122086387,
+          "isForward": true
+        },
+        {
+          "fromNode": 122086387,
+          "ID": 116119709,
+          "toNode": 178554533,
+          "isForward": true
+        },
+        {
+          "fromNode": 178554533,
+          "ID": 471894897,
+          "toNode": 356035145,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 153,
+      "street": "Carrera 28 D",
+      "id": 125674688,
+      "pubMillis": 1778449758061,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125674688"
+    },
+    "122832620": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.519173,
+          "y": 3.479259
+        },
+        {
+          "x": -76.517411,
+          "y": 3.478147
+        }
+      ],
+      "speedKMH": 3.57,
+      "length": 231,
+      "turnType": "NONE",
+      "uuid": 122832620,
+      "endNode": "Av. 3ª Norte > Sur",
+      "speed": 0.9916666666666667,
+      "segments": [
+        {
+          "fromNode": 122096677,
+          "ID": 193886060,
+          "toNode": 122092112,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 186,
+      "street": "Calle 44 Norte > Oriente",
+      "id": 122832620,
+      "pubMillis": 1778448217446,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "122832620"
+    },
+    "121063560": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.527162,
+          "y": 3.379454
+        },
+        {
+          "x": -76.526802,
+          "y": 3.379426
+        },
+        {
+          "x": -76.526722,
+          "y": 3.37942
+        },
+        {
+          "x": -76.526664,
+          "y": 3.379415
+        },
+        {
+          "x": -76.525741,
+          "y": 3.379355
+        },
+        {
+          "x": -76.525342,
+          "y": 3.379334
+        },
+        {
+          "x": -76.525111,
+          "y": 3.379314
+        },
+        {
+          "x": -76.524674,
+          "y": 3.379268
+        }
+      ],
+      "speedKMH": 5,
+      "length": 277,
+      "turnType": "NONE",
+      "uuid": 121063560,
+      "endNode": "Calle 25 >(N)",
+      "speed": 1.3888888888888888,
+      "segments": [
+        {
+          "fromNode": 338719393,
+          "ID": 443903788,
+          "toNode": 279842944,
+          "isForward": false
+        },
+        {
+          "fromNode": 279842944,
+          "ID": 353978381,
+          "toNode": 279842873,
+          "isForward": false
+        },
+        {
+          "fromNode": 279842873,
+          "ID": 445000006,
+          "toNode": 339407479,
+          "isForward": true
+        },
+        {
+          "fromNode": 339407479,
+          "ID": 445000007,
+          "toNode": 204482049,
+          "isForward": true
+        },
+        {
+          "fromNode": 204482049,
+          "ID": 279337334,
+          "toNode": 122093095,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093095,
+          "ID": 116131479,
+          "toNode": 122093088,
+          "isForward": true
+        },
+        {
+          "fromNode": 122093088,
+          "ID": 237966069,
+          "toNode": 204482050,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 149,
+      "street": "Carrera 86",
+      "id": 121063560,
+      "pubMillis": 1778447287126,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "121063560"
+    },
+    "124529580": {
+      "country": "CO",
+      "level": 3,
+      "city": "Pance",
+      "line": [
+        {
+          "x": -76.531191,
+          "y": 3.339798
+        },
+        {
+          "x": -76.531017,
+          "y": 3.341408
+        },
+        {
+          "x": -76.530937,
+          "y": 3.342269
+        },
+        {
+          "x": -76.530898,
+          "y": 3.342637
+        }
+      ],
+      "speedKMH": 8.87,
+      "length": 316,
+      "turnType": "NONE",
+      "uuid": 124529580,
+      "endNode": "Pance",
+      "speed": 2.463888888888889,
+      "segments": [
+        {
+          "fromNode": 164946088,
+          "ID": 167268229,
+          "toNode": 152324610,
+          "isForward": true
+        },
+        {
+          "fromNode": 152324610,
+          "ID": 184001223,
+          "toNode": 174282686,
+          "isForward": true
+        },
+        {
+          "fromNode": 174282686,
+          "ID": 184001225,
+          "toNode": 155634935,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 102,
+      "startNode": "Pance",
+      "street": "Av. Cañasgordas >(N)",
+      "id": 124529580,
+      "pubMillis": 1778449142251,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124529580"
+    },
+    "123969192": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.540065,
+          "y": 3.36826
+        },
+        {
+          "x": -76.539843,
+          "y": 3.36823
+        },
+        {
+          "x": -76.539214,
+          "y": 3.368021
+        },
+        {
+          "x": -76.538542,
+          "y": 3.368062
+        },
+        {
+          "x": -76.5378,
+          "y": 3.368153
+        },
+        {
+          "x": -76.53726,
+          "y": 3.36842
+        }
+      ],
+      "speedKMH": 8.38,
+      "length": 323,
+      "turnType": "NONE",
+      "uuid": 123969192,
+      "endNode": "Av. Pasoancho >Sur",
+      "speed": 2.327777777777778,
+      "segments": [
+        {
+          "fromNode": 209490114,
+          "ID": 338009751,
+          "toNode": 122098277,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 98,
+      "street": "Carrera 102",
+      "id": 123969192,
+      "pubMillis": 1778448835368,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "123969192"
+    },
+    "126052430": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.545692,
+          "y": 3.394002
+        },
+        {
+          "x": -76.545711,
+          "y": 3.394152
+        },
+        {
+          "x": -76.545782,
+          "y": 3.394639
+        },
+        {
+          "x": -76.545883,
+          "y": 3.39535
+        },
+        {
+          "x": -76.5461,
+          "y": 3.396776
+        },
+        {
+          "x": -76.546152,
+          "y": 3.397102
+        },
+        {
+          "x": -76.546185,
+          "y": 3.398081
+        }
+      ],
+      "speedKMH": 11.17,
+      "length": 454,
+      "turnType": "NONE",
+      "uuid": 126052430,
+      "endNode": "",
+      "speed": 3.102777777777778,
+      "segments": [
+        {
+          "fromNode": 178702273,
+          "ID": 194337472,
+          "toNode": 152705877,
+          "isForward": true
+        },
+        {
+          "fromNode": 152705877,
+          "ID": 471979100,
+          "toNode": 356084068,
+          "isForward": true
+        },
+        {
+          "fromNode": 356084068,
+          "ID": 471979101,
+          "toNode": 152705878,
+          "isForward": true
+        },
+        {
+          "fromNode": 152705878,
+          "ID": 143805658,
+          "toNode": 122091665,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091665,
+          "ID": 116131611,
+          "toNode": 122091661,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 104,
+      "street": "Calle 5ª >Norte",
+      "id": 126052430,
+      "pubMillis": 1778449988195,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126052430"
+    },
+    "126313288": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.521827,
+          "y": 3.483381
+        },
+        {
+          "x": -76.522413,
+          "y": 3.483589
+        },
+        {
+          "x": -76.523276,
+          "y": 3.483886
+        }
+      ],
+      "speedKMH": 3.58,
+      "length": 170,
+      "turnType": "NONE",
+      "uuid": 126313288,
+      "endNode": "Av. 5ª A Norte",
+      "speed": 0.9944444444444445,
+      "segments": [
+        {
+          "fromNode": 122099852,
+          "ID": 313670534,
+          "toNode": 122101290,
+          "isForward": false
+        },
+        {
+          "fromNode": 122101290,
+          "ID": 282093611,
+          "toNode": 122100554,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 131,
+      "street": "Calle 47 Norte",
+      "id": 126313288,
+      "pubMillis": 1778450065963,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126313288"
+    },
+    "124311738": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.52632,
+          "y": 3.4589
+        },
+        {
+          "x": -76.526069,
+          "y": 3.458406
+        }
+      ],
+      "speedKMH": 0,
+      "length": 61,
+      "turnType": "NONE",
+      "uuid": 124311738,
+      "endNode": "Calle 21",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 122083172,
+          "ID": 193137870,
+          "toNode": 178186686,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "4659b84e-2ecf-41e0-83a3-68b5b96d5dc7",
+      "roadType": 2,
+      "delay": -1,
+      "street": "Calle 21 Norte",
+      "id": 124311738,
+      "pubMillis": 1778449065067,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124311738"
+    },
+    "123225740": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.487196,
+          "y": 3.473111
+        },
+        {
+          "x": -76.487085,
+          "y": 3.472746
+        },
+        {
+          "x": -76.48706,
+          "y": 3.472664
+        },
+        {
+          "x": -76.487009,
+          "y": 3.472495
+        },
+        {
+          "x": -76.486927,
+          "y": 3.47223
+        },
+        {
+          "x": -76.486313,
+          "y": 3.470327
+        },
+        {
+          "x": -76.486265,
+          "y": 3.470156
+        },
+        {
+          "x": -76.485853,
+          "y": 3.468847
+        },
+        {
+          "x": -76.485403,
+          "y": 3.467405
+        }
+      ],
+      "speedKMH": 16.52,
+      "length": 662,
+      "turnType": "NONE",
+      "uuid": 123225740,
+      "endNode": "AP Oriental / Calz Central >Sur",
+      "speed": 4.588888888888889,
+      "segments": [
+        {
+          "fromNode": 204908785,
+          "ID": 259247943,
+          "toNode": 201401540,
+          "isForward": false
+        },
+        {
+          "fromNode": 201401540,
+          "ID": 233137599,
+          "toNode": 201401542,
+          "isForward": true
+        },
+        {
+          "fromNode": 201401542,
+          "ID": 236136944,
+          "toNode": 203302113,
+          "isForward": true
+        },
+        {
+          "fromNode": 203302113,
+          "ID": 260034150,
+          "toNode": 218568246,
+          "isForward": true
+        },
+        {
+          "fromNode": 218568246,
+          "ID": 260034387,
+          "toNode": 201401847,
+          "isForward": true
+        },
+        {
+          "fromNode": 201401847,
+          "ID": 233138195,
+          "toNode": 201401846,
+          "isForward": true
+        },
+        {
+          "fromNode": 201401846,
+          "ID": 233138556,
+          "toNode": 201402032,
+          "isForward": true
+        },
+        {
+          "fromNode": 201402032,
+          "ID": 233138809,
+          "toNode": 201402149,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 79,
+      "street": "AP Oriental / Calz Derecha",
+      "id": 123225740,
+      "pubMillis": 1778448449910,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "123225740"
+    },
+    "125288866": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.526603,
+          "y": 3.459479
+        },
+        {
+          "x": -76.526409,
+          "y": 3.459082
+        },
+        {
+          "x": -76.526386,
+          "y": 3.459036
+        },
+        {
+          "x": -76.52632,
+          "y": 3.4589
+        }
+      ],
+      "speedKMH": 0,
+      "length": 71,
+      "turnType": "NONE",
+      "uuid": 125288866,
+      "endNode": "Carrera 2ª Norte",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 208435234,
+          "ID": 461706378,
+          "toNode": 122083172,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "d7f58124-a683-437b-beda-4ad88e568bba",
+      "roadType": 2,
+      "delay": -1,
+      "street": "Calle 21 Norte",
+      "id": 125288866,
+      "pubMillis": 1778449528352,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125288866"
+    },
+    "126328912": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.471927,
+          "y": 3.436142
+        },
+        {
+          "x": -76.469936,
+          "y": 3.435228
+        }
+      ],
+      "speedKMH": 4.28,
+      "length": 243,
+      "turnType": "NONE",
+      "uuid": 126328912,
+      "endNode": "Calle 84",
+      "speed": 1.1888888888888889,
+      "segments": [
+        {
+          "fromNode": 188742511,
+          "ID": 285521651,
+          "toNode": 122093989,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 143,
+      "street": "carrera 24 F",
+      "id": 126328912,
+      "pubMillis": 1778450068075,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126328912"
+    },
+    "124755896": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.54436,
+          "y": 3.448116
+        },
+        {
+          "x": -76.544221,
+          "y": 3.448128
+        },
+        {
+          "x": -76.542885,
+          "y": 3.448713
+        },
+        {
+          "x": -76.542377,
+          "y": 3.448912
+        },
+        {
+          "x": -76.542037,
+          "y": 3.449039
+        },
+        {
+          "x": -76.541804,
+          "y": 3.449074
+        },
+        {
+          "x": -76.541694,
+          "y": 3.449065
+        },
+        {
+          "x": -76.541515,
+          "y": 3.449014
+        },
+        {
+          "x": -76.540741,
+          "y": 3.448838
+        },
+        {
+          "x": -76.54056,
+          "y": 3.448823
+        },
+        {
+          "x": -76.540048,
+          "y": 3.448962
+        }
+      ],
+      "speedKMH": 7.58,
+      "length": 504,
+      "turnType": "NONE",
+      "uuid": 124755896,
+      "endNode": "Calle 2ª A",
+      "speed": 2.1055555555555556,
+      "segments": [
+        {
+          "fromNode": 175851126,
+          "ID": 358843251,
+          "toNode": 122090225,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090225,
+          "ID": 294941836,
+          "toNode": 242437836,
+          "isForward": true
+        },
+        {
+          "fromNode": 242437836,
+          "ID": 294941834,
+          "toNode": 122090685,
+          "isForward": true
+        },
+        {
+          "fromNode": 122090685,
+          "ID": 358843299,
+          "toNode": 254692011,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 191,
+      "street": "Carrera 4ª",
+      "id": 124755896,
+      "pubMillis": 1778449298073,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124755896"
+    },
+    "126348632": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.494345,
+          "y": 3.488958
+        },
+        {
+          "x": -76.494523,
+          "y": 3.488671
+        },
+        {
+          "x": -76.494646,
+          "y": 3.488426
+        },
+        {
+          "x": -76.495059,
+          "y": 3.48753
+        },
+        {
+          "x": -76.495396,
+          "y": 3.486828
+        },
+        {
+          "x": -76.495455,
+          "y": 3.486744
+        },
+        {
+          "x": -76.49555,
+          "y": 3.486674
+        },
+        {
+          "x": -76.495807,
+          "y": 3.486622
+        }
+      ],
+      "speedKMH": 4.72,
+      "length": 317,
+      "turnType": "NONE",
+      "uuid": 126348632,
+      "endNode": "",
+      "speed": 1.3111111111111111,
+      "segments": [
+        {
+          "fromNode": 122100604,
+          "ID": 310634247,
+          "toNode": 122100731,
+          "isForward": true
+        },
+        {
+          "fromNode": 122100731,
+          "ID": 116141553,
+          "toNode": 122091762,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 176,
+      "street": "Carrera 3ª Norte",
+      "id": 126348632,
+      "pubMillis": 1778450068366,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126348632"
+    },
+    "125175956": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.508545,
+          "y": 3.472182
+        },
+        {
+          "x": -76.509236,
+          "y": 3.47151
+        },
+        {
+          "x": -76.509485,
+          "y": 3.471215
+        },
+        {
+          "x": -76.509815,
+          "y": 3.470852
+        },
+        {
+          "x": -76.509989,
+          "y": 3.470727
+        },
+        {
+          "x": -76.510265,
+          "y": 3.470527
+        },
+        {
+          "x": -76.510359,
+          "y": 3.470455
+        },
+        {
+          "x": -76.510432,
+          "y": 3.470372
+        },
+        {
+          "x": -76.510466,
+          "y": 3.470305
+        }
+      ],
+      "speedKMH": 5.03,
+      "length": 300,
+      "turnType": "NONE",
+      "uuid": 125175956,
+      "endNode": "Carrera 1ª Norte >SurOccidente",
+      "speed": 1.3972222222222221,
+      "segments": [
+        {
+          "fromNode": 122091790,
+          "ID": 116144416,
+          "toNode": 122100045,
+          "isForward": true
+        },
+        {
+          "fromNode": 122100045,
+          "ID": 427419061,
+          "toNode": 327864689,
+          "isForward": false
+        },
+        {
+          "fromNode": 327864689,
+          "ID": 427419060,
+          "toNode": 175499332,
+          "isForward": false
+        },
+        {
+          "fromNode": 175499332,
+          "ID": 182848195,
+          "toNode": 175499298,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 185,
+      "street": "Carrera 1ª > Sur",
+      "id": 125175956,
+      "pubMillis": 1778449526630,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125175956"
+    },
+    "124954000": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.517994,
+          "y": 3.446583
+        },
+        {
+          "x": -76.517931,
+          "y": 3.447257
+        },
+        {
+          "x": -76.517864,
+          "y": 3.447963
+        },
+        {
+          "x": -76.517797,
+          "y": 3.448745
+        },
+        {
+          "x": -76.517778,
+          "y": 3.449589
+        },
+        {
+          "x": -76.517792,
+          "y": 3.449921
+        },
+        {
+          "x": -76.517845,
+          "y": 3.450403
+        }
+      ],
+      "speedKMH": 10.07,
+      "length": 424,
+      "turnType": "NONE",
+      "uuid": 124954000,
+      "endNode": "",
+      "speed": 2.797222222222222,
+      "segments": [
+        {
+          "fromNode": 152745621,
+          "ID": 143887610,
+          "toNode": 122084381,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084381,
+          "ID": 116117354,
+          "toNode": 122084382,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084382,
+          "ID": 116117356,
+          "toNode": 122084384,
+          "isForward": true
+        },
+        {
+          "fromNode": 122084384,
+          "ID": 180337413,
+          "toNode": 122090595,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 109,
+      "street": "Calle 26",
+      "id": 124954000,
+      "pubMillis": 1778449372938,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "124954000"
+    },
+    "126247268": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.543165,
+          "y": 3.355926
+        },
+        {
+          "x": -76.543091,
+          "y": 3.355815
+        },
+        {
+          "x": -76.543024,
+          "y": 3.355607
+        },
+        {
+          "x": -76.542764,
+          "y": 3.354935
+        },
+        {
+          "x": -76.542514,
+          "y": 3.354584
+        },
+        {
+          "x": -76.542224,
+          "y": 3.35436
+        },
+        {
+          "x": -76.541889,
+          "y": 3.354185
+        },
+        {
+          "x": -76.541589,
+          "y": 3.35415
+        },
+        {
+          "x": -76.540864,
+          "y": 3.354247
+        },
+        {
+          "x": -76.540626,
+          "y": 3.354296
+        },
+        {
+          "x": -76.540159,
+          "y": 3.354429
+        },
+        {
+          "x": -76.539861,
+          "y": 3.354598
+        }
+      ],
+      "speedKMH": 11.27,
+      "length": 483,
+      "turnType": "NONE",
+      "uuid": 126247268,
+      "endNode": "Calle 13",
+      "speed": 3.1305555555555555,
+      "segments": [
+        {
+          "fromNode": 152584590,
+          "ID": 311894434,
+          "toNode": 202978732,
+          "isForward": true
+        },
+        {
+          "fromNode": 202978732,
+          "ID": 235625871,
+          "toNode": 202978692,
+          "isForward": true
+        },
+        {
+          "fromNode": 202978692,
+          "ID": 235625820,
+          "toNode": 181160195,
+          "isForward": true
+        },
+        {
+          "fromNode": 181160195,
+          "ID": 197383344,
+          "toNode": 122102283,
+          "isForward": true
+        },
+        {
+          "fromNode": 122102283,
+          "ID": 394050659,
+          "toNode": 239283773,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 95,
+      "street": "Carrera 115",
+      "id": 126247268,
+      "pubMillis": 1778450066449,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126247268"
+    },
+    "125732758": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.551047,
+          "y": 3.414835
+        },
+        {
+          "x": -76.549725,
+          "y": 3.414398
+        },
+        {
+          "x": -76.549227,
+          "y": 3.414236
+        },
+        {
+          "x": -76.548545,
+          "y": 3.414009
+        }
+      ],
+      "speedKMH": 6.96,
+      "length": 293,
+      "turnType": "NONE",
+      "uuid": 125732758,
+      "endNode": "Calle 5ª >Sur",
+      "speed": 1.9333333333333333,
+      "segments": [
+        {
+          "fromNode": 201920300,
+          "ID": 233984969,
+          "toNode": 201920521,
+          "isForward": true
+        },
+        {
+          "fromNode": 201920521,
+          "ID": 233984970,
+          "toNode": 201919859,
+          "isForward": true
+        },
+        {
+          "fromNode": 201919859,
+          "ID": 233983949,
+          "toNode": 175125078,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 113,
+      "street": "Carrera 52 > Oriente",
+      "id": 125732758,
+      "pubMillis": 1778449758218,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125732758"
+    },
+    "120330436": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.514045,
+          "y": 3.40523
+        },
+        {
+          "x": -76.513376,
+          "y": 3.404543
+        },
+        {
+          "x": -76.512715,
+          "y": 3.403839
+        },
+        {
+          "x": -76.512061,
+          "y": 3.403127
+        },
+        {
+          "x": -76.511372,
+          "y": 3.402388
+        },
+        {
+          "x": -76.511008,
+          "y": 3.402015
+        }
+      ],
+      "speedKMH": 9.13,
+      "length": 490,
+      "turnType": "NONE",
+      "uuid": 120330436,
+      "endNode": "Calle 48",
+      "speed": 2.536111111111111,
+      "segments": [
+        {
+          "fromNode": 122084196,
+          "ID": 116124891,
+          "toNode": 122089337,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089337,
+          "ID": 116124890,
+          "toNode": 122089195,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089195,
+          "ID": 116124568,
+          "toNode": 122089194,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089194,
+          "ID": 116124567,
+          "toNode": 122089097,
+          "isForward": true
+        },
+        {
+          "fromNode": 122089097,
+          "ID": 116124410,
+          "toNode": 122089098,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 141,
+      "street": "Carrera 46 >SurOriente",
+      "id": 120330436,
+      "pubMillis": 1778446825161,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120330436"
+    },
+    "120040140": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.484645,
+          "y": 3.460022
+        },
+        {
+          "x": -76.484728,
+          "y": 3.460486
+        }
+      ],
+      "speedKMH": 0,
+      "length": 52,
+      "turnType": "NONE",
+      "uuid": 120040140,
+      "endNode": "Carrera 7ª E Bis",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 178342354,
+          "ID": 201367461,
+          "toNode": 176575156,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "08a7f758-5b6d-4b21-90fc-7db0e86aae34",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 69",
+      "id": 120040140,
+      "pubMillis": 1778446670334,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "120040140"
+    },
+    "125690252": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.523367,
+          "y": 3.396541
+        },
+        {
+          "x": -76.523247,
+          "y": 3.397535
+        },
+        {
+          "x": -76.523095,
+          "y": 3.399029
+        },
+        {
+          "x": -76.523073,
+          "y": 3.399246
+        },
+        {
+          "x": -76.523031,
+          "y": 3.399816
+        },
+        {
+          "x": -76.522977,
+          "y": 3.400585
+        },
+        {
+          "x": -76.522956,
+          "y": 3.400856
+        },
+        {
+          "x": -76.52294,
+          "y": 3.401135
+        },
+        {
+          "x": -76.52292,
+          "y": 3.401431
+        },
+        {
+          "x": -76.522918,
+          "y": 3.401502
+        },
+        {
+          "x": -76.522882,
+          "y": 3.401692
+        },
+        {
+          "x": -76.52287,
+          "y": 3.40175
+        },
+        {
+          "x": -76.522778,
+          "y": 3.402058
+        },
+        {
+          "x": -76.522657,
+          "y": 3.40232
+        },
+        {
+          "x": -76.522533,
+          "y": 3.402524
+        },
+        {
+          "x": -76.522351,
+          "y": 3.402825
+        },
+        {
+          "x": -76.522138,
+          "y": 3.403196
+        },
+        {
+          "x": -76.521919,
+          "y": 3.404059
+        },
+        {
+          "x": -76.521782,
+          "y": 3.404615
+        },
+        {
+          "x": -76.521655,
+          "y": 3.405328
+        },
+        {
+          "x": -76.521382,
+          "y": 3.406273
+        }
+      ],
+      "speedKMH": 24.95,
+      "length": 1109,
+      "turnType": "NONE",
+      "uuid": 125690252,
+      "endNode": "Calle 36 / Calz Central >Norte",
+      "speed": 6.930555555555555,
+      "segments": [
+        {
+          "fromNode": 319212843,
+          "ID": 472108219,
+          "toNode": 356156501,
+          "isForward": false
+        },
+        {
+          "fromNode": 356156501,
+          "ID": 472108218,
+          "toNode": 304965036,
+          "isForward": false
+        },
+        {
+          "fromNode": 304965036,
+          "ID": 392745490,
+          "toNode": 182066281,
+          "isForward": true
+        },
+        {
+          "fromNode": 182066281,
+          "ID": 460662396,
+          "toNode": 349289889,
+          "isForward": true
+        },
+        {
+          "fromNode": 349289889,
+          "ID": 460662448,
+          "toNode": 349289920,
+          "isForward": true
+        },
+        {
+          "fromNode": 349289920,
+          "ID": 472108272,
+          "toNode": 330164430,
+          "isForward": true
+        },
+        {
+          "fromNode": 330164430,
+          "ID": 430947121,
+          "toNode": 122091344,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091344,
+          "ID": 460662236,
+          "toNode": 349289796,
+          "isForward": false
+        },
+        {
+          "fromNode": 349289796,
+          "ID": 460662320,
+          "toNode": 349289838,
+          "isForward": false
+        },
+        {
+          "fromNode": 349289838,
+          "ID": 460662535,
+          "toNode": 349289974,
+          "isForward": false
+        },
+        {
+          "fromNode": 349289974,
+          "ID": 460662534,
+          "toNode": 87475739,
+          "isForward": false
+        },
+        {
+          "fromNode": 87475739,
+          "ID": 116129426,
+          "toNode": 87475948,
+          "isForward": true
+        },
+        {
+          "fromNode": 87475948,
+          "ID": 116129425,
+          "toNode": 87475958,
+          "isForward": true
+        },
+        {
+          "fromNode": 87475958,
+          "ID": 116129430,
+          "toNode": 122082437,
+          "isForward": true
+        },
+        {
+          "fromNode": 122082437,
+          "ID": 435700381,
+          "toNode": 333341637,
+          "isForward": false
+        },
+        {
+          "fromNode": 333341637,
+          "ID": 435700382,
+          "toNode": 122082345,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 71,
+      "street": "Calle 25 >Norte",
+      "id": 125690252,
+      "pubMillis": 1778449760022,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125690252"
+    },
+    "123794324": {
+      "country": "CO",
+      "level": 4,
+      "city": "Pance",
+      "line": [
+        {
+          "x": -76.512992,
+          "y": 3.315483
+        },
+        {
+          "x": -76.512992,
+          "y": 3.315745
+        },
+        {
+          "x": -76.512835,
+          "y": 3.317305
+        },
+        {
+          "x": -76.512834,
+          "y": 3.317385
+        },
+        {
+          "x": -76.512831,
+          "y": 3.317721
+        },
+        {
+          "x": -76.512876,
+          "y": 3.318255
+        },
+        {
+          "x": -76.512909,
+          "y": 3.319421
+        }
+      ],
+      "speedKMH": 7.09,
+      "length": 435,
+      "turnType": "NONE",
+      "uuid": 123794324,
+      "endNode": "Cali",
+      "speed": 1.9694444444444446,
+      "segments": [
+        {
+          "fromNode": 358236241,
+          "ID": 475704584,
+          "toNode": 358236239,
+          "isForward": true
+        },
+        {
+          "fromNode": 358236239,
+          "ID": 475704581,
+          "toNode": 356364686,
+          "isForward": true
+        },
+        {
+          "fromNode": 356364686,
+          "ID": 475704101,
+          "toNode": 358235986,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 149,
+      "startNode": "Pance",
+      "street": "Av. Bicentenario",
+      "id": 123794324,
+      "pubMillis": 1778448758146,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "123794324"
+    },
+    "125756550": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.532586,
+          "y": 3.385146
+        },
+        {
+          "x": -76.531829,
+          "y": 3.385416
+        },
+        {
+          "x": -76.531303,
+          "y": 3.385618
+        },
+        {
+          "x": -76.53047,
+          "y": 3.385902
+        },
+        {
+          "x": -76.530088,
+          "y": 3.385885
+        },
+        {
+          "x": -76.528903,
+          "y": 3.385839
+        }
+      ],
+      "speedKMH": 9.9,
+      "length": 424,
+      "turnType": "NONE",
+      "uuid": 125756550,
+      "endNode": "Calle 16 > Sur",
+      "speed": 2.75,
+      "segments": [
+        {
+          "fromNode": 207082499,
+          "ID": 241993003,
+          "toNode": 122091828,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091828,
+          "ID": 143510329,
+          "toNode": 152555058,
+          "isForward": true
+        },
+        {
+          "fromNode": 152555058,
+          "ID": 143510330,
+          "toNode": 122091705,
+          "isForward": true
+        },
+        {
+          "fromNode": 122091705,
+          "ID": 197406806,
+          "toNode": 175238878,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 116,
+      "street": "Carrera 83 > Oriente",
+      "id": 125756550,
+      "pubMillis": 1778449759004,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "125756550"
+    },
+    "126255482": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.477832,
+          "y": 3.428561
+        },
+        {
+          "x": -76.47782,
+          "y": 3.428187
+        },
+        {
+          "x": -76.477806,
+          "y": 3.427839
+        },
+        {
+          "x": -76.477799,
+          "y": 3.427474
+        },
+        {
+          "x": -76.47779,
+          "y": 3.427106
+        },
+        {
+          "x": -76.47784,
+          "y": 3.426757
+        }
+      ],
+      "speedKMH": 5.81,
+      "length": 200,
+      "turnType": "NONE",
+      "uuid": 126255482,
+      "endNode": "Carrera 26 M2",
+      "speed": 1.613888888888889,
+      "segments": [
+        {
+          "fromNode": 122097533,
+          "ID": 116136862,
+          "toNode": 122097532,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097532,
+          "ID": 116136861,
+          "toNode": 122097531,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097531,
+          "ID": 116136860,
+          "toNode": 122097530,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097530,
+          "ID": 116136859,
+          "toNode": 122097529,
+          "isForward": true
+        },
+        {
+          "fromNode": 122097529,
+          "ID": 116136858,
+          "toNode": 122097528,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 94,
+      "street": "Calle 101",
+      "id": 126255482,
+      "pubMillis": 1778450068711,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126255482"
+    },
+    "126309498": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.500979,
+          "y": 3.440196
+        },
+        {
+          "x": -76.499023,
+          "y": 3.440909
+        }
+      ],
+      "speedKMH": 5.98,
+      "length": 231,
+      "turnType": "NONE",
+      "uuid": 126309498,
+      "endNode": "Calle 52 > Sur",
+      "speed": 1.6611111111111112,
+      "segments": [
+        {
+          "fromNode": 87480359,
+          "ID": 277929644,
+          "toNode": 230865130,
+          "isForward": false
+        }
+      ],
+      "roadType": 6,
+      "delay": 109,
+      "street": "AP Suroriental > NorOriente",
+      "id": 126309498,
+      "pubMillis": 1778450066819,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T21:55:27.984621+00:00",
+      "_record_id": "126309498"
     }
   }
 }
