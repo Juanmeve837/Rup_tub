@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-10T04:00:18.368550+00:00",
-    "total_records": 2992,
+    "last_updated": "2026-05-10T08:19:07.468750+00:00",
+    "total_records": 2993,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -372649,6 +372649,27 @@
       "type": "JAM",
       "_collected_at": "2026-05-10T04:00:17.766349+00:00",
       "_record_id": "35659868"
+    },
+    "7076d4ec-decc-45cf-8588-a739ec0bdbb9": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "7076d4ec-decc-45cf-8588-a739ec0bdbb9",
+      "roadType": 2,
+      "magvar": 128,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Av. El Lago",
+      "location": {
+        "x": -75.529617,
+        "y": 10.413008
+      },
+      "pubMillis": 1778400575000,
+      "_collected_at": "2026-05-10T08:19:06.637598+00:00",
+      "_record_id": "7076d4ec-decc-45cf-8588-a739ec0bdbb9"
     }
   }
 }
