@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-10T08:19:07.468750+00:00",
-    "total_records": 2993,
+    "last_updated": "2026-05-10T10:20:25.773102+00:00",
+    "total_records": 2995,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -372670,6 +372670,122 @@
       "pubMillis": 1778400575000,
       "_collected_at": "2026-05-10T08:19:06.637598+00:00",
       "_record_id": "7076d4ec-decc-45cf-8588-a739ec0bdbb9"
+    },
+    "50372946": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.495637,
+          "y": 10.389653
+        },
+        {
+          "x": -75.495955,
+          "y": 10.391307
+        }
+      ],
+      "speedKMH": 3.87,
+      "length": 186,
+      "turnType": "NONE",
+      "uuid": 50372946,
+      "speed": 1.075,
+      "segments": [
+        {
+          "fromNode": 162664214,
+          "ID": 161434177,
+          "toNode": 162594079,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 141,
+      "street": "",
+      "id": 50372946,
+      "pubMillis": 1778408049290,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T10:20:25.106973+00:00",
+      "_record_id": "50372946"
+    },
+    "50617756": {
+      "country": "CO",
+      "level": 1,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.469727,
+          "y": 10.358968
+        },
+        {
+          "x": -75.470729,
+          "y": 10.358296
+        },
+        {
+          "x": -75.480419,
+          "y": 10.351748
+        },
+        {
+          "x": -75.480982,
+          "y": 10.351301
+        },
+        {
+          "x": -75.481256,
+          "y": 10.351035
+        },
+        {
+          "x": -75.48151,
+          "y": 10.350753
+        },
+        {
+          "x": -75.481755,
+          "y": 10.35043
+        },
+        {
+          "x": -75.482037,
+          "y": 10.349989
+        },
+        {
+          "x": -75.48227,
+          "y": 10.349537
+        },
+        {
+          "x": -75.48276,
+          "y": 10.348408
+        },
+        {
+          "x": -75.483841,
+          "y": 10.345651
+        }
+      ],
+      "speedKMH": 46.47,
+      "length": 2202,
+      "turnType": "NONE",
+      "uuid": 50617756,
+      "endNode": "Cartagena de Indias",
+      "speed": 12.908333333333333,
+      "segments": [
+        {
+          "fromNode": 243616582,
+          "ID": 296734569,
+          "toNode": 205600966,
+          "isForward": true
+        },
+        {
+          "fromNode": 205600966,
+          "ID": 296734570,
+          "toNode": 224101248,
+          "isForward": true
+        }
+      ],
+      "roadType": 3,
+      "delay": 65,
+      "startNode": "Cartagena de Indias",
+      "street": "Cartagena-Mamonal / RD90 Ramal C >(S)",
+      "id": 50617756,
+      "pubMillis": 1778408319248,
+      "type": "JAM",
+      "_collected_at": "2026-05-10T10:20:25.106973+00:00",
+      "_record_id": "50617756"
     }
   }
 }
