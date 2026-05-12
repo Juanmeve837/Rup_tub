@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-12T03:55:17.538869+00:00",
-    "total_records": 3414,
+    "last_updated": "2026-05-12T08:50:13.256498+00:00",
+    "total_records": 3415,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -427631,6 +427631,93 @@
       "type": "JAM",
       "_collected_at": "2026-05-12T03:55:16.977463+00:00",
       "_record_id": "45422662"
+    },
+    "83899552": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.50786,
+          "y": 10.407318
+        },
+        {
+          "x": -75.506876,
+          "y": 10.407142
+        },
+        {
+          "x": -75.505419,
+          "y": 10.406883
+        },
+        {
+          "x": -75.505111,
+          "y": 10.406818
+        },
+        {
+          "x": -75.504942,
+          "y": 10.406789
+        },
+        {
+          "x": -75.504298,
+          "y": 10.406677
+        },
+        {
+          "x": -75.501993,
+          "y": 10.406243
+        }
+      ],
+      "speedKMH": 16.12,
+      "length": 655,
+      "turnType": "NONE",
+      "uuid": 83899552,
+      "endNode": "",
+      "speed": 4.477777777777778,
+      "segments": [
+        {
+          "fromNode": 164057025,
+          "ID": 475230376,
+          "toNode": 357967755,
+          "isForward": true
+        },
+        {
+          "fromNode": 357967755,
+          "ID": 475230379,
+          "toNode": 162717507,
+          "isForward": true
+        },
+        {
+          "fromNode": 162717507,
+          "ID": 161748633,
+          "toNode": 162717509,
+          "isForward": false
+        },
+        {
+          "fromNode": 162717509,
+          "ID": 241342495,
+          "toNode": 206670823,
+          "isForward": false
+        },
+        {
+          "fromNode": 206670823,
+          "ID": 303044128,
+          "toNode": 206670824,
+          "isForward": true
+        },
+        {
+          "fromNode": 206670824,
+          "ID": 244731847,
+          "toNode": 162716922,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 94,
+      "street": "Av. Pedro de Heredia >(S)",
+      "id": 83899552,
+      "pubMillis": 1778575272846,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:12.655305+00:00",
+      "_record_id": "83899552"
     }
   }
 }

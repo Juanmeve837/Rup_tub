@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-05T13:57:27.020122+00:00",
-    "last_updated": "2026-05-12T03:55:18.874589+00:00",
-    "total_records": 10309,
+    "last_updated": "2026-05-12T08:50:14.601202+00:00",
+    "total_records": 10322,
     "source": "data/waze_partnerhub_gdo.json"
   },
   "records": {
@@ -551304,6 +551304,875 @@
       "type": "JAM",
       "_collected_at": "2026-05-12T03:55:18.118923+00:00",
       "_record_id": "45461388"
+    },
+    "93b34d96-9a15-472f-be37-a67858e145eb": {
+      "country": "CO",
+      "city": "Jamundí",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "93b34d96-9a15-472f-be37-a67858e145eb",
+      "roadType": 1,
+      "magvar": 30,
+      "subtype": "HAZARD_WEATHER_FLOOD",
+      "street": "Carrera 11",
+      "location": {
+        "x": -76.547186,
+        "y": 3.256209
+      },
+      "pubMillis": 1778574271000,
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "93b34d96-9a15-472f-be37-a67858e145eb"
+    },
+    "4f291a81-18fb-4c70-94e0-1404bbb253bb": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "4f291a81-18fb-4c70-94e0-1404bbb253bb",
+      "roadType": 1,
+      "magvar": 182,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 26",
+      "location": {
+        "x": -76.523695,
+        "y": 3.382329
+      },
+      "pubMillis": 1778568464000,
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "4f291a81-18fb-4c70-94e0-1404bbb253bb"
+    },
+    "080b6013-22cd-4dcd-9ba4-5f721a26ea3d": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "080b6013-22cd-4dcd-9ba4-5f721a26ea3d",
+      "roadType": 2,
+      "magvar": 77,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 99 > Oriente",
+      "location": {
+        "x": -76.520642,
+        "y": 3.368213
+      },
+      "pubMillis": 1778562528000,
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "080b6013-22cd-4dcd-9ba4-5f721a26ea3d"
+    },
+    "998fa90e-a075-446b-9c94-3af44e0cd76f": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "998fa90e-a075-446b-9c94-3af44e0cd76f",
+      "roadType": 7,
+      "magvar": 310,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 50 > Occidente",
+      "location": {
+        "x": -76.542239,
+        "y": 3.41196
+      },
+      "pubMillis": 1778561287000,
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "998fa90e-a075-446b-9c94-3af44e0cd76f"
+    },
+    "be06b8cf-4c56-4ac4-a922-bfe346c42d22": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "be06b8cf-4c56-4ac4-a922-bfe346c42d22",
+      "roadType": 7,
+      "magvar": 310,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 50 > Occidente",
+      "location": {
+        "x": -76.543499,
+        "y": 3.41306
+      },
+      "pubMillis": 1778561302000,
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "be06b8cf-4c56-4ac4-a922-bfe346c42d22"
+    },
+    "82290788": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.519539,
+          "y": 3.446555
+        },
+        {
+          "x": -76.519705,
+          "y": 3.447385
+        }
+      ],
+      "speedKMH": 0,
+      "length": 94,
+      "turnType": "NONE",
+      "uuid": 82290788,
+      "endNode": "Carrera 11 D",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 176223169,
+          "ID": 188521076,
+          "toNode": 122087757,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "6da6a3b2-39d6-427c-b58f-980e6a0927d9",
+      "roadType": 2,
+      "delay": -1,
+      "street": "Calle 23",
+      "id": 82290788,
+      "pubMillis": 1778574394687,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "82290788"
+    },
+    "84501450": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.518349,
+          "y": 3.42899
+        },
+        {
+          "x": -76.519923,
+          "y": 3.42915
+        },
+        {
+          "x": -76.520266,
+          "y": 3.429195
+        },
+        {
+          "x": -76.520899,
+          "y": 3.429282
+        },
+        {
+          "x": -76.522334,
+          "y": 3.429428
+        }
+      ],
+      "speedKMH": 7.88,
+      "length": 445,
+      "turnType": "NONE",
+      "uuid": 84501450,
+      "endNode": "Calle 19",
+      "speed": 2.188888888888889,
+      "segments": [
+        {
+          "fromNode": 232863850,
+          "ID": 116115990,
+          "toNode": 122082653,
+          "isForward": true
+        },
+        {
+          "fromNode": 122082653,
+          "ID": 116115991,
+          "toNode": 122082654,
+          "isForward": true
+        },
+        {
+          "fromNode": 122082654,
+          "ID": 188295650,
+          "toNode": 176128053,
+          "isForward": true
+        },
+        {
+          "fromNode": 176128053,
+          "ID": 116123756,
+          "toNode": 122088737,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 131,
+      "street": "Carrera 29",
+      "id": 84501450,
+      "pubMillis": 1778575583169,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "84501450"
+    },
+    "82361262": {
+      "country": "CO",
+      "level": 5,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.509753,
+          "y": 3.589847
+        },
+        {
+          "x": -76.509506,
+          "y": 3.590214
+        }
+      ],
+      "speedKMH": 0,
+      "length": 49,
+      "turnType": "NONE",
+      "uuid": 82361262,
+      "endNode": "Carrera 4ª Oeste",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 230037577,
+          "ID": 276618254,
+          "toNode": 230037662,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "23f09852-f0b5-4d24-b31a-42afa35f66e8",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 15 Oeste",
+      "id": 82361262,
+      "pubMillis": 1778574394559,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "82361262"
+    },
+    "83694836": {
+      "country": "CO",
+      "level": 1,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.493442,
+          "y": 3.562144
+        },
+        {
+          "x": -76.49335,
+          "y": 3.562431
+        },
+        {
+          "x": -76.493248,
+          "y": 3.562645
+        },
+        {
+          "x": -76.493111,
+          "y": 3.562768
+        },
+        {
+          "x": -76.492953,
+          "y": 3.562854
+        },
+        {
+          "x": -76.492731,
+          "y": 3.562946
+        },
+        {
+          "x": -76.492569,
+          "y": 3.562991
+        },
+        {
+          "x": -76.492402,
+          "y": 3.562998
+        },
+        {
+          "x": -76.490486,
+          "y": 3.562993
+        },
+        {
+          "x": -76.490258,
+          "y": 3.563065
+        },
+        {
+          "x": -76.489529,
+          "y": 3.563517
+        },
+        {
+          "x": -76.489137,
+          "y": 3.5637
+        },
+        {
+          "x": -76.488629,
+          "y": 3.563837
+        },
+        {
+          "x": -76.488359,
+          "y": 3.563892
+        },
+        {
+          "x": -76.488075,
+          "y": 3.563887
+        },
+        {
+          "x": -76.487378,
+          "y": 3.563625
+        },
+        {
+          "x": -76.487304,
+          "y": 3.563612
+        },
+        {
+          "x": -76.487072,
+          "y": 3.563571
+        },
+        {
+          "x": -76.486777,
+          "y": 3.56356
+        },
+        {
+          "x": -76.485886,
+          "y": 3.563609
+        },
+        {
+          "x": -76.484991,
+          "y": 3.563582
+        },
+        {
+          "x": -76.484808,
+          "y": 3.563596
+        },
+        {
+          "x": -76.484722,
+          "y": 3.563618
+        },
+        {
+          "x": -76.484532,
+          "y": 3.563744
+        },
+        {
+          "x": -76.484456,
+          "y": 3.563815
+        },
+        {
+          "x": -76.484307,
+          "y": 3.564072
+        },
+        {
+          "x": -76.484236,
+          "y": 3.564327
+        },
+        {
+          "x": -76.484155,
+          "y": 3.564844
+        },
+        {
+          "x": -76.484128,
+          "y": 3.565199
+        },
+        {
+          "x": -76.484141,
+          "y": 3.565357
+        },
+        {
+          "x": -76.48457,
+          "y": 3.567969
+        },
+        {
+          "x": -76.484584,
+          "y": 3.568063
+        },
+        {
+          "x": -76.484899,
+          "y": 3.570134
+        },
+        {
+          "x": -76.485014,
+          "y": 3.57077
+        },
+        {
+          "x": -76.485095,
+          "y": 3.571142
+        },
+        {
+          "x": -76.485174,
+          "y": 3.57139
+        },
+        {
+          "x": -76.485464,
+          "y": 3.572548
+        }
+      ],
+      "speedKMH": 33.1,
+      "length": 2069,
+      "turnType": "NONE",
+      "uuid": 83694836,
+      "endNode": "Yumbo",
+      "speed": 9.194444444444445,
+      "segments": [
+        {
+          "fromNode": 172666258,
+          "ID": 180001679,
+          "toNode": 172378561,
+          "isForward": true
+        },
+        {
+          "fromNode": 172378561,
+          "ID": 352293616,
+          "toNode": 278765224,
+          "isForward": true
+        },
+        {
+          "fromNode": 278765224,
+          "ID": 352293621,
+          "toNode": 278765226,
+          "isForward": true
+        },
+        {
+          "fromNode": 278765226,
+          "ID": 352293624,
+          "toNode": 249058151,
+          "isForward": true
+        },
+        {
+          "fromNode": 249058151,
+          "ID": 305178104,
+          "toNode": 172666485,
+          "isForward": true
+        },
+        {
+          "fromNode": 172666485,
+          "ID": 237077117,
+          "toNode": 203905768,
+          "isForward": true
+        },
+        {
+          "fromNode": 203905768,
+          "ID": 406477359,
+          "toNode": 314200323,
+          "isForward": true
+        },
+        {
+          "fromNode": 314200323,
+          "ID": 406477360,
+          "toNode": 171258923,
+          "isForward": true
+        },
+        {
+          "fromNode": 171258923,
+          "ID": 181852020,
+          "toNode": 173395695,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 75,
+      "startNode": "Yumbo",
+      "street": "Alterna a Troncal de Occidente / RN23-01 >Oriente",
+      "id": 83694836,
+      "pubMillis": 1778575149186,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "83694836"
+    },
+    "82623230": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.513541,
+          "y": 3.437427
+        },
+        {
+          "x": -76.51303,
+          "y": 3.438192
+        }
+      ],
+      "speedKMH": 0,
+      "length": 102,
+      "turnType": "NONE",
+      "uuid": 82623230,
+      "endNode": "Carrera 17 F2",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 122091503,
+          "ID": 116130125,
+          "toNode": 122087514,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "d15f9147-f2dc-4415-bef5-db85d848a6cb",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 33 C",
+      "id": 82623230,
+      "pubMillis": 1778574585617,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "82623230"
+    },
+    "82442044": {
+      "country": "CO",
+      "level": 5,
+      "city": "Jamundí",
+      "line": [
+        {
+          "x": -76.537668,
+          "y": 3.26966
+        },
+        {
+          "x": -76.537832,
+          "y": 3.26948
+        }
+      ],
+      "speedKMH": 0,
+      "length": 27,
+      "turnType": "NONE",
+      "uuid": 82442044,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 153683139,
+          "ID": 145806743,
+          "toNode": 153683474,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "bf821cce-ebc8-4613-a58b-5b1f3890b679",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Transversal 14",
+      "id": 82442044,
+      "pubMillis": 1778574458132,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "82442044"
+    },
+    "84789802": {
+      "country": "CO",
+      "level": 1,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.483714,
+          "y": 3.594389
+        },
+        {
+          "x": -76.483407,
+          "y": 3.595078
+        },
+        {
+          "x": -76.483056,
+          "y": 3.595839
+        },
+        {
+          "x": -76.482848,
+          "y": 3.596468
+        },
+        {
+          "x": -76.482717,
+          "y": 3.597197
+        },
+        {
+          "x": -76.482816,
+          "y": 3.597925
+        },
+        {
+          "x": -76.482875,
+          "y": 3.59847
+        },
+        {
+          "x": -76.482884,
+          "y": 3.598562
+        },
+        {
+          "x": -76.483063,
+          "y": 3.600393
+        },
+        {
+          "x": -76.483229,
+          "y": 3.601809
+        },
+        {
+          "x": -76.483356,
+          "y": 3.603244
+        },
+        {
+          "x": -76.483356,
+          "y": 3.60333
+        },
+        {
+          "x": -76.483358,
+          "y": 3.603621
+        },
+        {
+          "x": -76.483315,
+          "y": 3.603977
+        },
+        {
+          "x": -76.48293,
+          "y": 3.605617
+        },
+        {
+          "x": -76.482594,
+          "y": 3.606503
+        },
+        {
+          "x": -76.482477,
+          "y": 3.606752
+        },
+        {
+          "x": -76.482322,
+          "y": 3.606977
+        },
+        {
+          "x": -76.481263,
+          "y": 3.608225
+        },
+        {
+          "x": -76.480957,
+          "y": 3.608636
+        },
+        {
+          "x": -76.480706,
+          "y": 3.609069
+        },
+        {
+          "x": -76.480579,
+          "y": 3.609506
+        },
+        {
+          "x": -76.480485,
+          "y": 3.609911
+        },
+        {
+          "x": -76.480677,
+          "y": 3.611998
+        },
+        {
+          "x": -76.480642,
+          "y": 3.612725
+        },
+        {
+          "x": -76.480534,
+          "y": 3.613048
+        },
+        {
+          "x": -76.480092,
+          "y": 3.614346
+        },
+        {
+          "x": -76.479425,
+          "y": 3.617739
+        },
+        {
+          "x": -76.478811,
+          "y": 3.619359
+        },
+        {
+          "x": -76.478539,
+          "y": 3.619907
+        }
+      ],
+      "speedKMH": 45.65,
+      "length": 2970,
+      "turnType": "NONE",
+      "uuid": 84789802,
+      "endNode": "Yumbo",
+      "speed": 12.680555555555555,
+      "segments": [
+        {
+          "fromNode": 352091131,
+          "ID": 465360504,
+          "toNode": 230084138,
+          "isForward": false
+        },
+        {
+          "fromNode": 230084138,
+          "ID": 305373124,
+          "toNode": 249183870,
+          "isForward": true
+        },
+        {
+          "fromNode": 249183870,
+          "ID": 305373125,
+          "toNode": 248494084,
+          "isForward": true
+        },
+        {
+          "fromNode": 248494084,
+          "ID": 304299556,
+          "toNode": 241607147,
+          "isForward": true
+        },
+        {
+          "fromNode": 241607147,
+          "ID": 430186021,
+          "toNode": 329667965,
+          "isForward": true
+        },
+        {
+          "fromNode": 329667965,
+          "ID": 430186022,
+          "toNode": 241607298,
+          "isForward": true
+        },
+        {
+          "fromNode": 241607298,
+          "ID": 293643677,
+          "toNode": 239519244,
+          "isForward": true
+        },
+        {
+          "fromNode": 239519244,
+          "ID": 389939021,
+          "toNode": 303120219,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 71,
+      "startNode": "Yumbo",
+      "street": "Panorama / RN23-01",
+      "id": 84789802,
+      "pubMillis": 1778575770754,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "84789802"
+    },
+    "84146472": {
+      "country": "CO",
+      "level": 3,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.486385,
+          "y": 3.578834
+        },
+        {
+          "x": -76.486284,
+          "y": 3.579079
+        },
+        {
+          "x": -76.486182,
+          "y": 3.580689
+        },
+        {
+          "x": -76.48613,
+          "y": 3.581268
+        },
+        {
+          "x": -76.486125,
+          "y": 3.581489
+        },
+        {
+          "x": -76.486114,
+          "y": 3.581815
+        },
+        {
+          "x": -76.48608,
+          "y": 3.582116
+        },
+        {
+          "x": -76.486005,
+          "y": 3.582361
+        },
+        {
+          "x": -76.485899,
+          "y": 3.582694
+        },
+        {
+          "x": -76.485759,
+          "y": 3.583061
+        },
+        {
+          "x": -76.485585,
+          "y": 3.583517
+        },
+        {
+          "x": -76.485436,
+          "y": 3.583866
+        },
+        {
+          "x": -76.485006,
+          "y": 3.58474
+        },
+        {
+          "x": -76.484388,
+          "y": 3.585927
+        }
+      ],
+      "speedKMH": 18.19,
+      "length": 828,
+      "turnType": "NONE",
+      "uuid": 84146472,
+      "endNode": "Yumbo",
+      "speed": 5.052777777777778,
+      "segments": [
+        {
+          "fromNode": 171488066,
+          "ID": 177211595,
+          "toNode": 171487710,
+          "isForward": true
+        },
+        {
+          "fromNode": 171487710,
+          "ID": 177211645,
+          "toNode": 171488088,
+          "isForward": true
+        },
+        {
+          "fromNode": 171488088,
+          "ID": 177211646,
+          "toNode": 171487535,
+          "isForward": true
+        },
+        {
+          "fromNode": 171487535,
+          "ID": 177210273,
+          "toNode": 111698300,
+          "isForward": true
+        },
+        {
+          "fromNode": 111698300,
+          "ID": 104237375,
+          "toNode": 111699660,
+          "isForward": true
+        },
+        {
+          "fromNode": 111699660,
+          "ID": 104026422,
+          "toNode": 111699661,
+          "isForward": true
+        },
+        {
+          "fromNode": 111699661,
+          "ID": 286377762,
+          "toNode": 236132692,
+          "isForward": true
+        },
+        {
+          "fromNode": 236132692,
+          "ID": 304298189,
+          "toNode": 248493086,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 97,
+      "startNode": "Yumbo",
+      "street": "Panorama / RN23-01",
+      "id": 84146472,
+      "pubMillis": 1778575396636,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T08:50:13.831578+00:00",
+      "_record_id": "84146472"
     }
   }
 }
