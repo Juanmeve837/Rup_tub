@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-11T22:13:44.499891+00:00",
-    "total_records": 3410,
+    "last_updated": "2026-05-12T03:55:17.538869+00:00",
+    "total_records": 3414,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -427389,6 +427389,248 @@
       "type": "JAM",
       "_collected_at": "2026-05-11T22:13:43.555945+00:00",
       "_record_id": "11213648"
+    },
+    "706888fa-a4ba-466a-8165-f4891082794e": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "706888fa-a4ba-466a-8165-f4891082794e",
+      "roadType": 1,
+      "magvar": 35,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 81 A",
+      "location": {
+        "x": -75.47079,
+        "y": 10.386298
+      },
+      "pubMillis": 1778545185000,
+      "_collected_at": "2026-05-12T03:55:16.977463+00:00",
+      "_record_id": "706888fa-a4ba-466a-8165-f4891082794e"
+    },
+    "a26b237c-e3e3-4d4d-81fa-cdb04ad64358": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 7,
+      "type": "HAZARD",
+      "uuid": "a26b237c-e3e3-4d4d-81fa-cdb04ad64358",
+      "roadType": 4,
+      "magvar": 26,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -75.528278,
+        "y": 10.441149
+      },
+      "pubMillis": 1778553028000,
+      "_collected_at": "2026-05-12T03:55:16.977463+00:00",
+      "_record_id": "a26b237c-e3e3-4d4d-81fa-cdb04ad64358"
+    },
+    "45343068": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.476336,
+          "y": 10.379136
+        },
+        {
+          "x": -75.476489,
+          "y": 10.378628
+        },
+        {
+          "x": -75.476659,
+          "y": 10.378082
+        },
+        {
+          "x": -75.476701,
+          "y": 10.377958
+        },
+        {
+          "x": -75.476791,
+          "y": 10.377694
+        },
+        {
+          "x": -75.476863,
+          "y": 10.377498
+        },
+        {
+          "x": -75.477017,
+          "y": 10.37709
+        },
+        {
+          "x": -75.477321,
+          "y": 10.376118
+        }
+      ],
+      "speedKMH": 5.47,
+      "length": 350,
+      "turnType": "NONE",
+      "uuid": 45343068,
+      "endNode": "Calle 9 A",
+      "speed": 1.5194444444444444,
+      "segments": [
+        {
+          "fromNode": 163168957,
+          "ID": 162904802,
+          "toNode": 163168528,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168528,
+          "ID": 162905748,
+          "toNode": 163168846,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168846,
+          "ID": 162905749,
+          "toNode": 163168839,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168839,
+          "ID": 162905745,
+          "toNode": 163168845,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168845,
+          "ID": 162905746,
+          "toNode": 163168842,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168842,
+          "ID": 162905737,
+          "toNode": 163168558,
+          "isForward": true
+        },
+        {
+          "fromNode": 163168558,
+          "ID": 162904938,
+          "toNode": 163168577,
+          "isForward": true
+        }
+      ],
+      "roadType": 1,
+      "delay": 185,
+      "street": "Carrera 80 C",
+      "id": 45343068,
+      "pubMillis": 1778557925766,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T03:55:16.977463+00:00",
+      "_record_id": "45343068"
+    },
+    "45422662": {
+      "country": "CO",
+      "level": 1,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.470729,
+          "y": 10.358296
+        },
+        {
+          "x": -75.480419,
+          "y": 10.351748
+        },
+        {
+          "x": -75.480982,
+          "y": 10.351301
+        },
+        {
+          "x": -75.481256,
+          "y": 10.351035
+        },
+        {
+          "x": -75.48151,
+          "y": 10.350753
+        },
+        {
+          "x": -75.481755,
+          "y": 10.35043
+        },
+        {
+          "x": -75.482037,
+          "y": 10.349989
+        },
+        {
+          "x": -75.48227,
+          "y": 10.349537
+        },
+        {
+          "x": -75.48276,
+          "y": 10.348408
+        },
+        {
+          "x": -75.483841,
+          "y": 10.345651
+        },
+        {
+          "x": -75.484029,
+          "y": 10.345187
+        },
+        {
+          "x": -75.484246,
+          "y": 10.344785
+        },
+        {
+          "x": -75.484537,
+          "y": 10.344399
+        },
+        {
+          "x": -75.484658,
+          "y": 10.344286
+        },
+        {
+          "x": -75.484827,
+          "y": 10.344167
+        },
+        {
+          "x": -75.485044,
+          "y": 10.344081
+        },
+        {
+          "x": -75.485332,
+          "y": 10.344049
+        }
+      ],
+      "speedKMH": 46.01,
+      "length": 2326,
+      "turnType": "NONE",
+      "uuid": 45422662,
+      "endNode": "Cartagena de Indias",
+      "speed": 12.780555555555555,
+      "segments": [
+        {
+          "fromNode": 205600966,
+          "ID": 296734570,
+          "toNode": 224101248,
+          "isForward": true
+        },
+        {
+          "fromNode": 224101248,
+          "ID": 142373762,
+          "toNode": 295182467,
+          "isForward": true
+        }
+      ],
+      "roadType": 3,
+      "delay": 63,
+      "startNode": "Cartagena de Indias",
+      "street": "Cartagena-Mamonal / RD90 Ramal C >(S)",
+      "id": 45422662,
+      "pubMillis": 1778558062291,
+      "type": "JAM",
+      "_collected_at": "2026-05-12T03:55:16.977463+00:00",
+      "_record_id": "45422662"
     }
   }
 }
