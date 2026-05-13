@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-05T13:57:27.020122+00:00",
-    "last_updated": "2026-05-13T04:03:50.132137+00:00",
-    "total_records": 11874,
+    "last_updated": "2026-05-13T08:54:05.118857+00:00",
+    "total_records": 11882,
     "source": "data/waze_partnerhub_gdo.json"
   },
   "records": {
@@ -637473,6 +637473,405 @@
       "type": "JAM",
       "_collected_at": "2026-05-13T04:03:49.323501+00:00",
       "_record_id": "241380124"
+    },
+    "2f5293cf-f247-4aa7-9c0c-0d7e658be530": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 4,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "2f5293cf-f247-4aa7-9c0c-0d7e658be530",
+      "roadType": 7,
+      "magvar": 269,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 66 > Occidente",
+      "location": {
+        "x": -76.541944,
+        "y": 3.39824
+      },
+      "pubMillis": 1778648140000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "2f5293cf-f247-4aa7-9c0c-0d7e658be530"
+    },
+    "9eb541df-e322-4824-9784-df21ff5cb837": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 3,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "9eb541df-e322-4824-9784-df21ff5cb837",
+      "roadType": 7,
+      "magvar": 276,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 66 > Occidente",
+      "location": {
+        "x": -76.529169,
+        "y": 3.397756
+      },
+      "pubMillis": 1778647992000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "9eb541df-e322-4824-9784-df21ff5cb837"
+    },
+    "c67ee558-c853-459d-aab2-bbccdb3a3fb3": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "c67ee558-c853-459d-aab2-bbccdb3a3fb3",
+      "roadType": 7,
+      "magvar": 276,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 66 > Occidente",
+      "location": {
+        "x": -76.530868,
+        "y": 3.39795
+      },
+      "pubMillis": 1778648007000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "c67ee558-c853-459d-aab2-bbccdb3a3fb3"
+    },
+    "ad8e7287-0b82-404b-b6de-b09ded6f876a": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "ad8e7287-0b82-404b-b6de-b09ded6f876a",
+      "roadType": 7,
+      "magvar": 16,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 9ª / Calz Izquierda>Norte",
+      "location": {
+        "x": -76.542723,
+        "y": 3.407693
+      },
+      "pubMillis": 1778648304000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "ad8e7287-0b82-404b-b6de-b09ded6f876a"
+    },
+    "2e746c56-8a4d-493c-af84-e4a817036ac4": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 3,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "2e746c56-8a4d-493c-af84-e4a817036ac4",
+      "roadType": 6,
+      "magvar": 346,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 5ª / Calz Derecha >Norte",
+      "location": {
+        "x": -76.542565,
+        "y": 3.377322
+      },
+      "pubMillis": 1778647440000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "2e746c56-8a4d-493c-af84-e4a817036ac4"
+    },
+    "05c226bd-761c-423c-8e53-4b385d5774fa": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "05c226bd-761c-423c-8e53-4b385d5774fa",
+      "roadType": 6,
+      "magvar": 107,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "AP Oriental / Calz Central >SurOriente",
+      "location": {
+        "x": -76.504224,
+        "y": 3.4887
+      },
+      "pubMillis": 1778645820000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "05c226bd-761c-423c-8e53-4b385d5774fa"
+    },
+    "35cba000-4795-40fa-bc98-1bbf11c2640f": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 3,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "35cba000-4795-40fa-bc98-1bbf11c2640f",
+      "roadType": 6,
+      "magvar": 107,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "AP Oriental / Calz Central >SurOriente",
+      "location": {
+        "x": -76.504972,
+        "y": 3.488941
+      },
+      "pubMillis": 1778645805000,
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "35cba000-4795-40fa-bc98-1bbf11c2640f"
+    },
+    "540469446": {
+      "country": "CO",
+      "level": 2,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.485987,
+          "y": 3.571229
+        },
+        {
+          "x": -76.485916,
+          "y": 3.571008
+        },
+        {
+          "x": -76.485275,
+          "y": 3.569447
+        },
+        {
+          "x": -76.484946,
+          "y": 3.568218
+        },
+        {
+          "x": -76.484751,
+          "y": 3.567353
+        },
+        {
+          "x": -76.484562,
+          "y": 3.566517
+        },
+        {
+          "x": -76.484312,
+          "y": 3.565648
+        },
+        {
+          "x": -76.484261,
+          "y": 3.565334
+        },
+        {
+          "x": -76.484255,
+          "y": 3.565222
+        },
+        {
+          "x": -76.484245,
+          "y": 3.564986
+        },
+        {
+          "x": -76.484255,
+          "y": 3.564702
+        },
+        {
+          "x": -76.484314,
+          "y": 3.564311
+        },
+        {
+          "x": -76.484384,
+          "y": 3.564113
+        },
+        {
+          "x": -76.484464,
+          "y": 3.563985
+        },
+        {
+          "x": -76.484556,
+          "y": 3.563883
+        },
+        {
+          "x": -76.484679,
+          "y": 3.563781
+        },
+        {
+          "x": -76.484819,
+          "y": 3.563722
+        },
+        {
+          "x": -76.484979,
+          "y": 3.563712
+        },
+        {
+          "x": -76.4855,
+          "y": 3.563712
+        },
+        {
+          "x": -76.485961,
+          "y": 3.563728
+        },
+        {
+          "x": -76.486512,
+          "y": 3.563713
+        },
+        {
+          "x": -76.486865,
+          "y": 3.563689
+        },
+        {
+          "x": -76.487101,
+          "y": 3.56371
+        },
+        {
+          "x": -76.487402,
+          "y": 3.56379
+        },
+        {
+          "x": -76.488019,
+          "y": 3.564021
+        },
+        {
+          "x": -76.488161,
+          "y": 3.564042
+        },
+        {
+          "x": -76.488483,
+          "y": 3.563999
+        },
+        {
+          "x": -76.489288,
+          "y": 3.563761
+        },
+        {
+          "x": -76.489717,
+          "y": 3.563528
+        },
+        {
+          "x": -76.490072,
+          "y": 3.563301
+        },
+        {
+          "x": -76.490465,
+          "y": 3.563159
+        },
+        {
+          "x": -76.490626,
+          "y": 3.563137
+        },
+        {
+          "x": -76.491106,
+          "y": 3.563086
+        },
+        {
+          "x": -76.491493,
+          "y": 3.563107
+        },
+        {
+          "x": -76.492146,
+          "y": 3.563088
+        },
+        {
+          "x": -76.492771,
+          "y": 3.563096
+        },
+        {
+          "x": -76.492954,
+          "y": 3.563086
+        },
+        {
+          "x": -76.493416,
+          "y": 3.562981
+        },
+        {
+          "x": -76.493636,
+          "y": 3.562931
+        }
+      ],
+      "speedKMH": 21.42,
+      "length": 1894,
+      "turnType": "NONE",
+      "uuid": 540469446,
+      "endNode": "Yumbo",
+      "speed": 5.95,
+      "segments": [
+        {
+          "fromNode": 171235804,
+          "ID": 359841715,
+          "toNode": 171235805,
+          "isForward": true
+        },
+        {
+          "fromNode": 171235805,
+          "ID": 266747714,
+          "toNode": 222845008,
+          "isForward": true
+        },
+        {
+          "fromNode": 222845008,
+          "ID": 266748284,
+          "toNode": 222845350,
+          "isForward": true
+        },
+        {
+          "fromNode": 222845350,
+          "ID": 436175254,
+          "toNode": 333672491,
+          "isForward": true
+        },
+        {
+          "fromNode": 333672491,
+          "ID": 436175255,
+          "toNode": 333672487,
+          "isForward": true
+        },
+        {
+          "fromNode": 333672487,
+          "ID": 436175250,
+          "toNode": 283681088,
+          "isForward": true
+        },
+        {
+          "fromNode": 283681088,
+          "ID": 359841895,
+          "toNode": 242750564,
+          "isForward": true
+        },
+        {
+          "fromNode": 242750564,
+          "ID": 295418897,
+          "toNode": 242750518,
+          "isForward": true
+        },
+        {
+          "fromNode": 242750518,
+          "ID": 295418834,
+          "toNode": 242750516,
+          "isForward": true
+        },
+        {
+          "fromNode": 242750516,
+          "ID": 295418832,
+          "toNode": 242750514,
+          "isForward": true
+        },
+        {
+          "fromNode": 242750514,
+          "ID": 295418830,
+          "toNode": 242750512,
+          "isForward": true
+        },
+        {
+          "fromNode": 242750512,
+          "ID": 295418828,
+          "toNode": 172666256,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 146,
+      "startNode": "Yumbo",
+      "street": "Alterna a Troncal de Occidente / RN23-01 >Occidente",
+      "id": 540469446,
+      "pubMillis": 1778661907799,
+      "type": "JAM",
+      "_collected_at": "2026-05-13T08:54:04.277799+00:00",
+      "_record_id": "540469446"
     }
   }
 }
