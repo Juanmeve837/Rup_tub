@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-05T13:57:27.020122+00:00",
-    "last_updated": "2026-05-14T04:02:44.068032+00:00",
-    "total_records": 13452,
+    "last_updated": "2026-05-14T08:47:30.858172+00:00",
+    "total_records": 13458,
     "source": "data/waze_partnerhub_gdo.json"
   },
   "records": {
@@ -726559,6 +726559,219 @@
       "type": "JAM",
       "_collected_at": "2026-05-14T04:02:43.205776+00:00",
       "_record_id": "731858208"
+    },
+    "4ea7b3d2-1428-47e5-a7b5-02dbd4121eab": {
+      "country": "CO",
+      "city": "Cali",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "4ea7b3d2-1428-47e5-a7b5-02dbd4121eab",
+      "roadType": 1,
+      "magvar": 24,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Calle 32 B",
+      "location": {
+        "x": -76.512767,
+        "y": 3.441925
+      },
+      "pubMillis": 1778738543000,
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "4ea7b3d2-1428-47e5-a7b5-02dbd4121eab"
+    },
+    "760420570": {
+      "country": "CO",
+      "level": 5,
+      "city": "Jamundí",
+      "line": [
+        {
+          "x": -76.535981,
+          "y": 3.271562
+        },
+        {
+          "x": -76.536368,
+          "y": 3.271031
+        }
+      ],
+      "speedKMH": 0,
+      "length": 73,
+      "turnType": "NONE",
+      "uuid": 760420570,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 345898503,
+          "ID": 455265627,
+          "toNode": 345898168,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "932c1562-3be6-4116-94df-8cfc78886d27",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Transversal 14",
+      "id": 760420570,
+      "pubMillis": 1778747872777,
+      "type": "JAM",
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "760420570"
+    },
+    "760914198": {
+      "country": "CO",
+      "level": 1,
+      "city": "Palmaseca",
+      "line": [
+        {
+          "x": -76.443881,
+          "y": 3.500543
+        },
+        {
+          "x": -76.442332,
+          "y": 3.50095
+        }
+      ],
+      "speedKMH": 4.04,
+      "length": 178,
+      "turnType": "NONE",
+      "uuid": 760914198,
+      "endNode": "Palmaseca",
+      "speed": 1.1222222222222222,
+      "segments": [
+        {
+          "fromNode": 178458718,
+          "ID": 322136725,
+          "toNode": 178458716,
+          "isForward": false
+        }
+      ],
+      "roadType": 3,
+      "delay": 69,
+      "startNode": "Palmaseca",
+      "street": "Peaje Estambul: Tarifa 13700 pesos",
+      "id": 760914198,
+      "pubMillis": 1778748195460,
+      "type": "JAM",
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "760914198"
+    },
+    "760420508": {
+      "country": "CO",
+      "level": 5,
+      "city": "Jamundí",
+      "line": [
+        {
+          "x": -76.536368,
+          "y": 3.271031
+        },
+        {
+          "x": -76.536483,
+          "y": 3.270878
+        }
+      ],
+      "speedKMH": 0,
+      "length": 21,
+      "turnType": "NONE",
+      "uuid": 760420508,
+      "endNode": "",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 345898168,
+          "ID": 455267352,
+          "toNode": 345899692,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "91816b51-88f9-420e-9f08-7199e675929d",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Transversal 14",
+      "id": 760420508,
+      "pubMillis": 1778747872765,
+      "type": "JAM",
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "760420508"
+    },
+    "761265984": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cali",
+      "line": [
+        {
+          "x": -76.527405,
+          "y": 3.459639
+        },
+        {
+          "x": -76.528119,
+          "y": 3.458509
+        },
+        {
+          "x": -76.528212,
+          "y": 3.458412
+        }
+      ],
+      "speedKMH": 4.04,
+      "length": 163,
+      "turnType": "NONE",
+      "uuid": 761265984,
+      "endNode": "Calle 19 Norte",
+      "speed": 1.1222222222222222,
+      "segments": [
+        {
+          "fromNode": 122083070,
+          "ID": 286666099,
+          "toNode": 236104905,
+          "isForward": true
+        }
+      ],
+      "roadType": 6,
+      "delay": 130,
+      "street": "Av. 2ª Norte",
+      "id": 761265984,
+      "pubMillis": 1778748388621,
+      "type": "JAM",
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "761265984"
+    },
+    "760354678": {
+      "country": "CO",
+      "level": 5,
+      "city": "Yumbo",
+      "line": [
+        {
+          "x": -76.509506,
+          "y": 3.590214
+        },
+        {
+          "x": -76.509753,
+          "y": 3.589847
+        }
+      ],
+      "speedKMH": 0,
+      "length": 49,
+      "turnType": "NONE",
+      "uuid": 760354678,
+      "endNode": "Carrera 3ª N",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 230037662,
+          "ID": 276618254,
+          "toNode": 230037577,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "563f489e-f1f9-4a4a-bf42-19336cb834a3",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 15 Oeste",
+      "id": 760354678,
+      "pubMillis": 1778747872753,
+      "type": "JAM",
+      "_collected_at": "2026-05-14T08:47:30.064974+00:00",
+      "_record_id": "760354678"
     }
   }
 }
