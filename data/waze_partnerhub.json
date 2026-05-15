@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-15T04:07:24.986189+00:00",
-    "total_records": 4875,
+    "last_updated": "2026-05-15T09:19:51.832404+00:00",
+    "total_records": 4877,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -618508,6 +618508,133 @@
       "type": "JAM",
       "_collected_at": "2026-05-15T04:07:24.306029+00:00",
       "_record_id": "655774022"
+    },
+    "a7f325f5-8a87-4c06-9eef-489670879c1c": {
+      "country": "CO",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "a7f325f5-8a87-4c06-9eef-489670879c1c",
+      "roadType": 7,
+      "magvar": 88,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Mamonal-Gambote",
+      "location": {
+        "x": -75.490743,
+        "y": 10.342307
+      },
+      "pubMillis": 1778829302000,
+      "_collected_at": "2026-05-15T09:19:51.197478+00:00",
+      "_record_id": "a7f325f5-8a87-4c06-9eef-489670879c1c"
+    },
+    "677575222": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.537107,
+          "y": 10.430199
+        },
+        {
+          "x": -75.53738,
+          "y": 10.429708
+        },
+        {
+          "x": -75.537492,
+          "y": 10.429383
+        },
+        {
+          "x": -75.537827,
+          "y": 10.428413
+        },
+        {
+          "x": -75.538543,
+          "y": 10.426994
+        },
+        {
+          "x": -75.538756,
+          "y": 10.426706
+        },
+        {
+          "x": -75.538797,
+          "y": 10.426638
+        },
+        {
+          "x": -75.538945,
+          "y": 10.426393
+        },
+        {
+          "x": -75.539585,
+          "y": 10.425335
+        }
+      ],
+      "speedKMH": 15.65,
+      "length": 604,
+      "turnType": "NONE",
+      "uuid": 677575222,
+      "endNode": "Av. Pedro de Heredia >(N)",
+      "speed": 4.347222222222222,
+      "segments": [
+        {
+          "fromNode": 87312414,
+          "ID": 78943751,
+          "toNode": 87312415,
+          "isForward": true
+        },
+        {
+          "fromNode": 87312415,
+          "ID": 164732610,
+          "toNode": 87312417,
+          "isForward": true
+        },
+        {
+          "fromNode": 87312417,
+          "ID": 78943754,
+          "toNode": 87312418,
+          "isForward": true
+        },
+        {
+          "fromNode": 87312418,
+          "ID": 383079778,
+          "toNode": 87312420,
+          "isForward": false
+        },
+        {
+          "fromNode": 87312420,
+          "ID": 284894753,
+          "toNode": 151817277,
+          "isForward": true
+        },
+        {
+          "fromNode": 151817277,
+          "ID": 418938350,
+          "toNode": 322232509,
+          "isForward": true
+        },
+        {
+          "fromNode": 322232509,
+          "ID": 418938351,
+          "toNode": 151827181,
+          "isForward": true
+        },
+        {
+          "fromNode": 151827181,
+          "ID": 198002270,
+          "toNode": 154142800,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 72,
+      "street": "Carrera 14",
+      "id": 677575222,
+      "pubMillis": 1778836510999,
+      "type": "JAM",
+      "_collected_at": "2026-05-15T09:19:51.197478+00:00",
+      "_record_id": "677575222"
     }
   }
 }
