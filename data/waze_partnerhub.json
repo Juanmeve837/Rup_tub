@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-14T22:16:28.889441+00:00",
-    "total_records": 4871,
+    "last_updated": "2026-05-15T04:07:24.986189+00:00",
+    "total_records": 4875,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -618364,6 +618364,150 @@
       "type": "JAM",
       "_collected_at": "2026-05-14T22:16:27.916966+00:00",
       "_record_id": "625454512"
+    },
+    "50f768c2-3e33-44d6-8b86-f62a13a5a869": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "50f768c2-3e33-44d6-8b86-f62a13a5a869",
+      "roadType": 1,
+      "magvar": 35,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Carrera 81 A",
+      "location": {
+        "x": -75.470789,
+        "y": 10.3863
+      },
+      "pubMillis": 1778801411000,
+      "_collected_at": "2026-05-15T04:07:24.306029+00:00",
+      "_record_id": "50f768c2-3e33-44d6-8b86-f62a13a5a869"
+    },
+    "2a31f343-3bd2-45e8-81ac-f0a602ba23c8": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "2a31f343-3bd2-45e8-81ac-f0a602ba23c8",
+      "roadType": 2,
+      "magvar": 319,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Transversal 52",
+      "location": {
+        "x": -75.514066,
+        "y": 10.391512
+      },
+      "pubMillis": 1778808619000,
+      "_collected_at": "2026-05-15T04:07:24.306029+00:00",
+      "_record_id": "2a31f343-3bd2-45e8-81ac-f0a602ba23c8"
+    },
+    "655989428": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.526259,
+          "y": 10.412336
+        },
+        {
+          "x": -75.524748,
+          "y": 10.411237
+        },
+        {
+          "x": -75.524174,
+          "y": 10.410832
+        },
+        {
+          "x": -75.523804,
+          "y": 10.410529
+        }
+      ],
+      "speedKMH": 8.19,
+      "length": 335,
+      "turnType": "NONE",
+      "uuid": 655989428,
+      "endNode": "Transversal 26",
+      "speed": 2.275,
+      "segments": [
+        {
+          "fromNode": 87314353,
+          "ID": 164915789,
+          "toNode": 163977304,
+          "isForward": false
+        },
+        {
+          "fromNode": 163977304,
+          "ID": 197289907,
+          "toNode": 163977414,
+          "isForward": true
+        },
+        {
+          "fromNode": 163977414,
+          "ID": 164916064,
+          "toNode": 151927954,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 112,
+      "street": "Av. El Lago",
+      "id": 655989428,
+      "pubMillis": 1778818014372,
+      "type": "JAM",
+      "_collected_at": "2026-05-15T04:07:24.306029+00:00",
+      "_record_id": "655989428"
+    },
+    "655774022": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.546749,
+          "y": 10.419304
+        },
+        {
+          "x": -75.545905,
+          "y": 10.420075
+        },
+        {
+          "x": -75.545582,
+          "y": 10.42048
+        },
+        {
+          "x": -75.545487,
+          "y": 10.420729
+        }
+      ],
+      "speedKMH": 3,
+      "length": 212,
+      "turnType": "NONE",
+      "uuid": 655774022,
+      "endNode": "Calle de la Sierpe",
+      "speed": 0.8333333333333334,
+      "segments": [
+        {
+          "fromNode": 175629498,
+          "ID": 78946288,
+          "toNode": 87314227,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 147,
+      "street": "Calle San Antonio",
+      "id": 655774022,
+      "pubMillis": 1778817663666,
+      "type": "JAM",
+      "_collected_at": "2026-05-15T04:07:24.306029+00:00",
+      "_record_id": "655774022"
     }
   }
 }
