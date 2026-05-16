@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-16T08:13:40.656106+00:00",
-    "total_records": 5264,
+    "last_updated": "2026-05-16T10:22:14.506793+00:00",
+    "total_records": 5267,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -669545,6 +669545,215 @@
       "type": "JAM",
       "_collected_at": "2026-05-16T08:13:39.985831+00:00",
       "_record_id": "1135730848"
+    },
+    "1144349588": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.562429,
+          "y": 10.395003
+        },
+        {
+          "x": -75.56203,
+          "y": 10.394499
+        },
+        {
+          "x": -75.561867,
+          "y": 10.394365
+        },
+        {
+          "x": -75.561496,
+          "y": 10.394178
+        },
+        {
+          "x": -75.560668,
+          "y": 10.394129
+        }
+      ],
+      "speedKMH": 5.61,
+      "length": 230,
+      "turnType": "NONE",
+      "uuid": 1144349588,
+      "endNode": "Diagonal 1ª",
+      "speed": 1.5583333333333333,
+      "segments": [
+        {
+          "fromNode": 321893204,
+          "ID": 418417435,
+          "toNode": 177999392,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 101,
+      "street": "Av. Almirante Brión / Calle 1ª",
+      "id": 1144349588,
+      "pubMillis": 1778926884425,
+      "type": "JAM",
+      "_collected_at": "2026-05-16T10:22:13.841399+00:00",
+      "_record_id": "1144349588"
+    },
+    "1143716832": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.526811,
+          "y": 10.412541
+        },
+        {
+          "x": -75.526672,
+          "y": 10.412522
+        },
+        {
+          "x": -75.526542,
+          "y": 10.412485
+        },
+        {
+          "x": -75.526259,
+          "y": 10.412336
+        },
+        {
+          "x": -75.524748,
+          "y": 10.411237
+        },
+        {
+          "x": -75.524174,
+          "y": 10.410832
+        },
+        {
+          "x": -75.523804,
+          "y": 10.410529
+        },
+        {
+          "x": -75.523641,
+          "y": 10.410232
+        },
+        {
+          "x": -75.523541,
+          "y": 10.409944
+        },
+        {
+          "x": -75.52319,
+          "y": 10.408485
+        },
+        {
+          "x": -75.523135,
+          "y": 10.407666
+        }
+      ],
+      "speedKMH": 11.6,
+      "length": 728,
+      "turnType": "NONE",
+      "uuid": 1143716832,
+      "endNode": "Salida Av. El Bosque",
+      "speed": 3.2222222222222223,
+      "segments": [
+        {
+          "fromNode": 163976812,
+          "ID": 334236058,
+          "toNode": 87314353,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314353,
+          "ID": 164915789,
+          "toNode": 163977304,
+          "isForward": false
+        },
+        {
+          "fromNode": 163977304,
+          "ID": 197289907,
+          "toNode": 163977414,
+          "isForward": true
+        },
+        {
+          "fromNode": 163977414,
+          "ID": 164916064,
+          "toNode": 151927954,
+          "isForward": false
+        },
+        {
+          "fromNode": 151927954,
+          "ID": 164915289,
+          "toNode": 155078589,
+          "isForward": false
+        },
+        {
+          "fromNode": 155078589,
+          "ID": 346680679,
+          "toNode": 275267784,
+          "isForward": false
+        },
+        {
+          "fromNode": 275267784,
+          "ID": 346680678,
+          "toNode": 87314437,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 159,
+      "street": "Av. El Lago",
+      "id": 1143716832,
+      "pubMillis": 1778926415795,
+      "type": "JAM",
+      "_collected_at": "2026-05-16T10:22:13.841399+00:00",
+      "_record_id": "1143716832"
+    },
+    "1144144302": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.493406,
+          "y": 10.382318
+        },
+        {
+          "x": -75.493253,
+          "y": 10.382653
+        },
+        {
+          "x": -75.493061,
+          "y": 10.383429
+        },
+        {
+          "x": -75.492946,
+          "y": 10.383868
+        }
+      ],
+      "speedKMH": 4.12,
+      "length": 179,
+      "turnType": "NONE",
+      "uuid": 1144144302,
+      "endNode": "Calle 19",
+      "speed": 1.1444444444444444,
+      "segments": [
+        {
+          "fromNode": 162745565,
+          "ID": 161815993,
+          "toNode": 162745459,
+          "isForward": false
+        },
+        {
+          "fromNode": 162745459,
+          "ID": 161815819,
+          "toNode": 162745403,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 130,
+      "street": "Transversal 60",
+      "id": 1144144302,
+      "pubMillis": 1778926818212,
+      "type": "JAM",
+      "_collected_at": "2026-05-16T10:22:13.841399+00:00",
+      "_record_id": "1144144302"
     }
   }
 }
