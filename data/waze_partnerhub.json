@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-18T04:20:15.730694+00:00",
-    "total_records": 5831,
+    "last_updated": "2026-05-18T10:20:51.114004+00:00",
+    "total_records": 5833,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -737805,6 +737805,222 @@
       "type": "JAM",
       "_collected_at": "2026-05-18T04:20:15.026037+00:00",
       "_record_id": "1124108666"
+    },
+    "1166672910": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.528827,
+          "y": 10.412718
+        },
+        {
+          "x": -75.52848,
+          "y": 10.412667
+        },
+        {
+          "x": -75.528032,
+          "y": 10.412604
+        },
+        {
+          "x": -75.527403,
+          "y": 10.412566
+        },
+        {
+          "x": -75.526811,
+          "y": 10.412541
+        },
+        {
+          "x": -75.526672,
+          "y": 10.412522
+        },
+        {
+          "x": -75.526542,
+          "y": 10.412485
+        },
+        {
+          "x": -75.526259,
+          "y": 10.412336
+        },
+        {
+          "x": -75.524748,
+          "y": 10.411237
+        },
+        {
+          "x": -75.524174,
+          "y": 10.410832
+        },
+        {
+          "x": -75.523804,
+          "y": 10.410529
+        },
+        {
+          "x": -75.523641,
+          "y": 10.410232
+        },
+        {
+          "x": -75.523541,
+          "y": 10.409944
+        },
+        {
+          "x": -75.52319,
+          "y": 10.408485
+        },
+        {
+          "x": -75.523135,
+          "y": 10.407666
+        },
+        {
+          "x": -75.523158,
+          "y": 10.407032
+        }
+      ],
+      "speedKMH": 12.73,
+      "length": 1020,
+      "turnType": "NONE",
+      "uuid": 1166672910,
+      "endNode": "Salida Av. El Bosque",
+      "speed": 3.536111111111111,
+      "segments": [
+        {
+          "fromNode": 151827261,
+          "ID": 142279095,
+          "toNode": 87314348,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314348,
+          "ID": 78946499,
+          "toNode": 87314349,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314349,
+          "ID": 78946500,
+          "toNode": 87314350,
+          "isForward": true
+        },
+        {
+          "fromNode": 87314350,
+          "ID": 164914562,
+          "toNode": 163976812,
+          "isForward": false
+        },
+        {
+          "fromNode": 163976812,
+          "ID": 334236058,
+          "toNode": 87314353,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314353,
+          "ID": 164915789,
+          "toNode": 163977304,
+          "isForward": false
+        },
+        {
+          "fromNode": 163977304,
+          "ID": 197289907,
+          "toNode": 163977414,
+          "isForward": true
+        },
+        {
+          "fromNode": 163977414,
+          "ID": 164916064,
+          "toNode": 151927954,
+          "isForward": false
+        },
+        {
+          "fromNode": 151927954,
+          "ID": 164915289,
+          "toNode": 155078589,
+          "isForward": false
+        },
+        {
+          "fromNode": 155078589,
+          "ID": 346680679,
+          "toNode": 275267784,
+          "isForward": false
+        },
+        {
+          "fromNode": 275267784,
+          "ID": 346680678,
+          "toNode": 87314437,
+          "isForward": false
+        },
+        {
+          "fromNode": 87314437,
+          "ID": 78947454,
+          "toNode": 87314920,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 205,
+      "street": "Av. El Lago",
+      "id": 1166672910,
+      "pubMillis": 1779099587703,
+      "type": "JAM",
+      "_collected_at": "2026-05-18T10:20:50.467682+00:00",
+      "_record_id": "1166672910"
+    },
+    "1165792666": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.51788,
+          "y": 10.443499
+        },
+        {
+          "x": -75.517756,
+          "y": 10.444497
+        },
+        {
+          "x": -75.51767,
+          "y": 10.445474
+        },
+        {
+          "x": -75.517568,
+          "y": 10.446436
+        }
+      ],
+      "speedKMH": 9.32,
+      "length": 326,
+      "turnType": "NONE",
+      "uuid": 1165792666,
+      "endNode": "Carrera 5ª",
+      "speed": 2.588888888888889,
+      "segments": [
+        {
+          "fromNode": 151844811,
+          "ID": 142275391,
+          "toNode": 87312316,
+          "isForward": false
+        },
+        {
+          "fromNode": 87312316,
+          "ID": 78943655,
+          "toNode": 87312315,
+          "isForward": false
+        },
+        {
+          "fromNode": 87312315,
+          "ID": 78943654,
+          "toNode": 87312314,
+          "isForward": false
+        }
+      ],
+      "roadType": 7,
+      "delay": 83,
+      "street": "Calle 70",
+      "id": 1165792666,
+      "pubMillis": 1779099182011,
+      "type": "JAM",
+      "_collected_at": "2026-05-18T10:20:50.467682+00:00",
+      "_record_id": "1165792666"
     }
   }
 }
