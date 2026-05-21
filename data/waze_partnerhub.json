@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-21T04:24:36.324919+00:00",
-    "total_records": 6633,
+    "last_updated": "2026-05-21T09:57:24.015918+00:00",
+    "total_records": 6643,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -835113,6 +835113,456 @@
       "type": "JAM",
       "_collected_at": "2026-05-21T04:24:35.627801+00:00",
       "_record_id": "1659234882"
+    },
+    "b08e19de-472f-4e74-b2ed-2c1fd39bcd6a": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "b08e19de-472f-4e74-b2ed-2c1fd39bcd6a",
+      "roadType": 1,
+      "magvar": 296,
+      "subtype": "",
+      "reportDescription": "",
+      "location": {
+        "x": -75.45358,
+        "y": 10.396964
+      },
+      "pubMillis": 1779340968000,
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "b08e19de-472f-4e74-b2ed-2c1fd39bcd6a"
+    },
+    "486a4ffa-da1e-4f01-910f-9ce54c8f24d0": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "486a4ffa-da1e-4f01-910f-9ce54c8f24d0",
+      "roadType": 1,
+      "magvar": 26,
+      "subtype": "",
+      "reportDescription": "",
+      "location": {
+        "x": -75.454117,
+        "y": 10.395877
+      },
+      "pubMillis": 1779340968000,
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "486a4ffa-da1e-4f01-910f-9ce54c8f24d0"
+    },
+    "f598f2d2-4425-48d2-b9d4-f02a44876229": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "f598f2d2-4425-48d2-b9d4-f02a44876229",
+      "roadType": 1,
+      "magvar": 116,
+      "subtype": "",
+      "reportDescription": "",
+      "location": {
+        "x": -75.45465,
+        "y": 10.397487
+      },
+      "pubMillis": 1779340968000,
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "f598f2d2-4425-48d2-b9d4-f02a44876229"
+    },
+    "de41162a-a747-43ed-ac5b-9dbffbcc4cb9": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 5,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "de41162a-a747-43ed-ac5b-9dbffbcc4cb9",
+      "roadType": 1,
+      "magvar": 206,
+      "subtype": "",
+      "reportDescription": "",
+      "location": {
+        "x": -75.45358,
+        "y": 10.396964
+      },
+      "pubMillis": 1779340968000,
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "de41162a-a747-43ed-ac5b-9dbffbcc4cb9"
+    },
+    "1667945834": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.454117,
+          "y": 10.395877
+        },
+        {
+          "x": -75.45358,
+          "y": 10.396964
+        }
+      ],
+      "speedKMH": 0,
+      "length": 134,
+      "turnType": "NONE",
+      "uuid": 1667945834,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 332744774,
+          "ID": 434759463,
+          "toNode": 332744814,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "486a4ffa-da1e-4f01-910f-9ce54c8f24d0",
+      "roadType": 1,
+      "delay": -1,
+      "street": "",
+      "id": 1667945834,
+      "pubMillis": 1779341120060,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1667945834"
+    },
+    "1667945832": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.45358,
+          "y": 10.396964
+        },
+        {
+          "x": -75.454117,
+          "y": 10.395877
+        }
+      ],
+      "speedKMH": 0,
+      "length": 134,
+      "turnType": "NONE",
+      "uuid": 1667945832,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 332744814,
+          "ID": 434759463,
+          "toNode": 332744774,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "de41162a-a747-43ed-ac5b-9dbffbcc4cb9",
+      "roadType": 1,
+      "delay": -1,
+      "street": "",
+      "id": 1667945832,
+      "pubMillis": 1779341120066,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1667945832"
+    },
+    "1667961312": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.45358,
+          "y": 10.396964
+        },
+        {
+          "x": -75.45465,
+          "y": 10.397487
+        }
+      ],
+      "speedKMH": 0,
+      "length": 131,
+      "turnType": "NONE",
+      "uuid": 1667961312,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 332744814,
+          "ID": 454394332,
+          "toNode": 345370919,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "b08e19de-472f-4e74-b2ed-2c1fd39bcd6a",
+      "roadType": 1,
+      "delay": -1,
+      "street": "",
+      "id": 1667961312,
+      "pubMillis": 1779341120262,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1667961312"
+    },
+    "1703708288": {
+      "country": "CO",
+      "level": 1,
+      "city": "La Boquilla",
+      "line": [
+        {
+          "x": -75.497156,
+          "y": 10.469877
+        },
+        {
+          "x": -75.497877,
+          "y": 10.468902
+        },
+        {
+          "x": -75.498087,
+          "y": 10.468612
+        },
+        {
+          "x": -75.498349,
+          "y": 10.468266
+        },
+        {
+          "x": -75.498679,
+          "y": 10.467817
+        },
+        {
+          "x": -75.499134,
+          "y": 10.467244
+        },
+        {
+          "x": -75.502465,
+          "y": 10.463606
+        },
+        {
+          "x": -75.502857,
+          "y": 10.463151
+        },
+        {
+          "x": -75.503424,
+          "y": 10.462524
+        },
+        {
+          "x": -75.505357,
+          "y": 10.46046
+        },
+        {
+          "x": -75.506044,
+          "y": 10.459663
+        },
+        {
+          "x": -75.506263,
+          "y": 10.459436
+        },
+        {
+          "x": -75.506468,
+          "y": 10.459248
+        },
+        {
+          "x": -75.506822,
+          "y": 10.458964
+        },
+        {
+          "x": -75.507013,
+          "y": 10.458838
+        },
+        {
+          "x": -75.507297,
+          "y": 10.458671
+        },
+        {
+          "x": -75.508158,
+          "y": 10.458209
+        },
+        {
+          "x": -75.508924,
+          "y": 10.457769
+        }
+      ],
+      "speedKMH": 37.7,
+      "length": 1873,
+      "turnType": "NONE",
+      "uuid": 1703708288,
+      "endNode": "La Boquilla",
+      "speed": 10.472222222222221,
+      "segments": [
+        {
+          "fromNode": 267518357,
+          "ID": 334374525,
+          "toNode": 174725740,
+          "isForward": true
+        },
+        {
+          "fromNode": 174725740,
+          "ID": 186294291,
+          "toNode": 175256051,
+          "isForward": false
+        },
+        {
+          "fromNode": 175256051,
+          "ID": 339052488,
+          "toNode": 270464562,
+          "isForward": false
+        },
+        {
+          "fromNode": 270464562,
+          "ID": 383768664,
+          "toNode": 305024454,
+          "isForward": false
+        }
+      ],
+      "roadType": 3,
+      "delay": 72,
+      "startNode": "La Boquilla",
+      "street": "Vía al Mar / RN90A-01 >Occidente",
+      "id": 1703708288,
+      "pubMillis": 1779357406578,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1703708288"
+    },
+    "1702228132": {
+      "country": "CO",
+      "level": 2,
+      "city": "Tierra Baja",
+      "line": [
+        {
+          "x": -75.480319,
+          "y": 10.494131
+        },
+        {
+          "x": -75.483036,
+          "y": 10.489977
+        },
+        {
+          "x": -75.483727,
+          "y": 10.488949
+        },
+        {
+          "x": -75.484155,
+          "y": 10.488242
+        },
+        {
+          "x": -75.485672,
+          "y": 10.485586
+        },
+        {
+          "x": -75.486261,
+          "y": 10.484605
+        },
+        {
+          "x": -75.486815,
+          "y": 10.483589
+        },
+        {
+          "x": -75.487212,
+          "y": 10.48289
+        },
+        {
+          "x": -75.489429,
+          "y": 10.479082
+        },
+        {
+          "x": -75.489618,
+          "y": 10.478796
+        },
+        {
+          "x": -75.48981,
+          "y": 10.478543
+        },
+        {
+          "x": -75.490017,
+          "y": 10.478296
+        },
+        {
+          "x": -75.490692,
+          "y": 10.477593
+        },
+        {
+          "x": -75.491085,
+          "y": 10.477213
+        }
+      ],
+      "speedKMH": 42.13,
+      "length": 2215,
+      "turnType": "NONE",
+      "uuid": 1702228132,
+      "endNode": "Tierra Baja",
+      "speed": 11.702777777777778,
+      "segments": [
+        {
+          "fromNode": 284469672,
+          "ID": 383765559,
+          "toNode": 291071494,
+          "isForward": false
+        },
+        {
+          "fromNode": 291071494,
+          "ID": 371243821,
+          "toNode": 175227211,
+          "isForward": false
+        },
+        {
+          "fromNode": 175227211,
+          "ID": 245218367,
+          "toNode": 209119643,
+          "isForward": true
+        }
+      ],
+      "roadType": 3,
+      "delay": 70,
+      "startNode": "Tierra Baja",
+      "street": "Vía al Mar / RN90A-01 >Occidente",
+      "id": 1702228132,
+      "pubMillis": 1779356675851,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1702228132"
+    },
+    "1667957370": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.45465,
+          "y": 10.397487
+        },
+        {
+          "x": -75.45358,
+          "y": 10.396964
+        }
+      ],
+      "speedKMH": 0,
+      "length": 131,
+      "turnType": "NONE",
+      "uuid": 1667957370,
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 345370919,
+          "ID": 454394332,
+          "toNode": 332744814,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "f598f2d2-4425-48d2-b9d4-f02a44876229",
+      "roadType": 1,
+      "delay": -1,
+      "street": "",
+      "id": 1667957370,
+      "pubMillis": 1779341120192,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T09:57:23.340917+00:00",
+      "_record_id": "1667957370"
     }
   }
 }
