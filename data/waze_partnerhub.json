@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-20T22:27:01.530841+00:00",
-    "total_records": 6623,
+    "last_updated": "2026-05-21T04:24:36.324919+00:00",
+    "total_records": 6633,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -834611,6 +834611,508 @@
       "type": "JAM",
       "_collected_at": "2026-05-20T22:27:00.574149+00:00",
       "_record_id": "1633287586"
+    },
+    "9ac57f6f-2d83-452a-9edb-489324bc74fb": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 1,
+      "reliability": 8,
+      "type": "HAZARD",
+      "uuid": "9ac57f6f-2d83-452a-9edb-489324bc74fb",
+      "roadType": 4,
+      "magvar": 56,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "location": {
+        "x": -75.529732,
+        "y": 10.439844
+      },
+      "pubMillis": 1779329320000,
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "9ac57f6f-2d83-452a-9edb-489324bc74fb"
+    },
+    "2751dff4-3cbe-4ad1-8013-57a5de6131de": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "2751dff4-3cbe-4ad1-8013-57a5de6131de",
+      "roadType": 2,
+      "magvar": 111,
+      "subtype": "HAZARD_ON_ROAD_LANE_CLOSED",
+      "street": "Av. Pedro Romero",
+      "location": {
+        "x": -75.514519,
+        "y": 10.410289
+      },
+      "pubMillis": 1779336909000,
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "2751dff4-3cbe-4ad1-8013-57a5de6131de"
+    },
+    "c08767bd-663c-44f6-97e7-93f1968912ff": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "c08767bd-663c-44f6-97e7-93f1968912ff",
+      "roadType": 2,
+      "magvar": 112,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Calle 30",
+      "location": {
+        "x": -75.490523,
+        "y": 10.394038
+      },
+      "pubMillis": 1779336177000,
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "c08767bd-663c-44f6-97e7-93f1968912ff"
+    },
+    "fd573b21-5758-40c7-b4df-1b6af232cb16": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "HAZARD",
+      "uuid": "fd573b21-5758-40c7-b4df-1b6af232cb16",
+      "roadType": 7,
+      "magvar": 73,
+      "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+      "street": "Transversal 53 >(OR)",
+      "location": {
+        "x": -75.46343,
+        "y": 10.401473
+      },
+      "pubMillis": 1779335474000,
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "fd573b21-5758-40c7-b4df-1b6af232cb16"
+    },
+    "69a9b9a4-b861-4a30-9382-53444885e39f": {
+      "country": "CO",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "69a9b9a4-b861-4a30-9382-53444885e39f",
+      "roadType": 7,
+      "magvar": 138,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Cartagena-Turbaco / RN90-05 >Oriente",
+      "location": {
+        "x": -75.455538,
+        "y": 10.371462
+      },
+      "pubMillis": 1779336781000,
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "69a9b9a4-b861-4a30-9382-53444885e39f"
+    },
+    "1663989454": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.468624,
+          "y": 10.389452
+        },
+        {
+          "x": -75.469041,
+          "y": 10.388729
+        },
+        {
+          "x": -75.469822,
+          "y": 10.387646
+        },
+        {
+          "x": -75.469987,
+          "y": 10.387418
+        },
+        {
+          "x": -75.470324,
+          "y": 10.386952
+        },
+        {
+          "x": -75.470421,
+          "y": 10.386803
+        },
+        {
+          "x": -75.470632,
+          "y": 10.386518
+        },
+        {
+          "x": -75.471135,
+          "y": 10.385813
+        }
+      ],
+      "speedKMH": 9.47,
+      "length": 488,
+      "turnType": "NONE",
+      "uuid": 1663989454,
+      "endNode": "Calle 31 >(N)",
+      "speed": 2.6305555555555555,
+      "segments": [
+        {
+          "fromNode": 163112063,
+          "ID": 334914768,
+          "toNode": 247979664,
+          "isForward": true
+        },
+        {
+          "fromNode": 247979664,
+          "ID": 384116241,
+          "toNode": 299398490,
+          "isForward": false
+        },
+        {
+          "fromNode": 299398490,
+          "ID": 384116240,
+          "toNode": 247979663,
+          "isForward": false
+        },
+        {
+          "fromNode": 247979663,
+          "ID": 417859031,
+          "toNode": 321528497,
+          "isForward": false
+        },
+        {
+          "fromNode": 321528497,
+          "ID": 417859030,
+          "toNode": 163112325,
+          "isForward": false
+        },
+        {
+          "fromNode": 163112325,
+          "ID": 333893747,
+          "toNode": 175373781,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 74,
+      "street": "Carrera 81 A",
+      "id": 1663989454,
+      "pubMillis": 1779337438888,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "1663989454"
+    },
+    "1663453062": {
+      "country": "CO",
+      "level": 2,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.500431,
+          "y": 10.405698
+        },
+        {
+          "x": -75.499944,
+          "y": 10.405366
+        },
+        {
+          "x": -75.499629,
+          "y": 10.40515
+        },
+        {
+          "x": -75.498416,
+          "y": 10.404284
+        },
+        {
+          "x": -75.498081,
+          "y": 10.404058
+        },
+        {
+          "x": -75.4974,
+          "y": 10.403599
+        },
+        {
+          "x": -75.496879,
+          "y": 10.403253
+        },
+        {
+          "x": -75.496134,
+          "y": 10.40276
+        },
+        {
+          "x": -75.49499,
+          "y": 10.40194
+        },
+        {
+          "x": -75.494777,
+          "y": 10.401734
+        },
+        {
+          "x": -75.494627,
+          "y": 10.401563
+        },
+        {
+          "x": -75.494479,
+          "y": 10.401366
+        },
+        {
+          "x": -75.494332,
+          "y": 10.401161
+        },
+        {
+          "x": -75.494148,
+          "y": 10.400902
+        },
+        {
+          "x": -75.49407,
+          "y": 10.400735
+        },
+        {
+          "x": -75.493935,
+          "y": 10.400319
+        },
+        {
+          "x": -75.493772,
+          "y": 10.399635
+        },
+        {
+          "x": -75.493612,
+          "y": 10.398913
+        },
+        {
+          "x": -75.493529,
+          "y": 10.398521
+        },
+        {
+          "x": -75.493401,
+          "y": 10.39818
+        },
+        {
+          "x": -75.492878,
+          "y": 10.39747
+        }
+      ],
+      "speedKMH": 23.22,
+      "length": 1285,
+      "turnType": "NONE",
+      "uuid": 1663453062,
+      "endNode": "Transversal 65",
+      "speed": 6.45,
+      "segments": [
+        {
+          "fromNode": 151924811,
+          "ID": 303044210,
+          "toNode": 247681901,
+          "isForward": true
+        },
+        {
+          "fromNode": 247681901,
+          "ID": 303044211,
+          "toNode": 162504342,
+          "isForward": true
+        },
+        {
+          "fromNode": 162504342,
+          "ID": 161214977,
+          "toNode": 162504341,
+          "isForward": true
+        },
+        {
+          "fromNode": 162504341,
+          "ID": 475230425,
+          "toNode": 357967786,
+          "isForward": false
+        },
+        {
+          "fromNode": 357967786,
+          "ID": 475230424,
+          "toNode": 162504340,
+          "isForward": false
+        },
+        {
+          "fromNode": 162504340,
+          "ID": 161214971,
+          "toNode": 162504338,
+          "isForward": false
+        },
+        {
+          "fromNode": 162504338,
+          "ID": 393076086,
+          "toNode": 162504337,
+          "isForward": true
+        },
+        {
+          "fromNode": 162504337,
+          "ID": 161214964,
+          "toNode": 162504336,
+          "isForward": false
+        },
+        {
+          "fromNode": 162504336,
+          "ID": 161215038,
+          "toNode": 162504372,
+          "isForward": false
+        },
+        {
+          "fromNode": 162504372,
+          "ID": 475231782,
+          "toNode": 357968679,
+          "isForward": true
+        },
+        {
+          "fromNode": 357968679,
+          "ID": 475231783,
+          "toNode": 162504448,
+          "isForward": true
+        },
+        {
+          "fromNode": 162504448,
+          "ID": 244732082,
+          "toNode": 208806807,
+          "isForward": false
+        },
+        {
+          "fromNode": 208806807,
+          "ID": 303042684,
+          "toNode": 155078086,
+          "isForward": false
+        },
+        {
+          "fromNode": 155078086,
+          "ID": 188278949,
+          "toNode": 176120777,
+          "isForward": true
+        }
+      ],
+      "roadType": 7,
+      "delay": 98,
+      "street": "Av. Pedro de Heredia >(S)",
+      "id": 1663453062,
+      "pubMillis": 1779336527812,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "1663453062"
+    },
+    "1659234884": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.484377,
+          "y": 10.371175
+        },
+        {
+          "x": -75.483975,
+          "y": 10.371051
+        }
+      ],
+      "speedKMH": 0,
+      "length": 46,
+      "turnType": "NONE",
+      "uuid": 1659234884,
+      "endNode": "Carrera 76",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 163231121,
+          "ID": 163068318,
+          "toNode": 163231120,
+          "isForward": true
+        }
+      ],
+      "blockingAlertUuid": "f23c8d75-71f8-4a41-b264-4bb8460c08b9",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 3 B",
+      "id": 1659234884,
+      "pubMillis": 1779329540348,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "1659234884"
+    },
+    "1663926058": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.529851,
+          "y": 10.420111
+        },
+        {
+          "x": -75.529222,
+          "y": 10.419085
+        },
+        {
+          "x": -75.528297,
+          "y": 10.418021
+        }
+      ],
+      "speedKMH": 8.49,
+      "length": 288,
+      "turnType": "NONE",
+      "uuid": 1663926058,
+      "endNode": "",
+      "speed": 2.3583333333333334,
+      "segments": [
+        {
+          "fromNode": 154330209,
+          "ID": 165209289,
+          "toNode": 164097003,
+          "isForward": false
+        }
+      ],
+      "roadType": 2,
+      "delay": 85,
+      "street": "Calle 33",
+      "id": 1663926058,
+      "pubMillis": 1779337367914,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "1663926058"
+    },
+    "1659234882": {
+      "country": "CO",
+      "level": 5,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.483975,
+          "y": 10.371051
+        },
+        {
+          "x": -75.484377,
+          "y": 10.371175
+        }
+      ],
+      "speedKMH": 0,
+      "length": 46,
+      "turnType": "NONE",
+      "uuid": 1659234882,
+      "endNode": "Carrera 75 A",
+      "speed": 0,
+      "segments": [
+        {
+          "fromNode": 163231120,
+          "ID": 163068318,
+          "toNode": 163231121,
+          "isForward": false
+        }
+      ],
+      "blockingAlertUuid": "fa4944aa-3dfb-4118-b061-e16b0d3176f4",
+      "roadType": 1,
+      "delay": -1,
+      "street": "Calle 3 B",
+      "id": 1659234882,
+      "pubMillis": 1779329540337,
+      "type": "JAM",
+      "_collected_at": "2026-05-21T04:24:35.627801+00:00",
+      "_record_id": "1659234882"
     }
   }
 }
