@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-05-02T19:02:31.173337+00:00",
-    "last_updated": "2026-05-23T03:57:53.920833+00:00",
-    "total_records": 7368,
+    "last_updated": "2026-05-23T08:28:22.917441+00:00",
+    "total_records": 7371,
     "source": "data/waze_partnerhub.json"
   },
   "records": {
@@ -930014,6 +930014,171 @@
       "type": "JAM",
       "_collected_at": "2026-05-23T03:57:53.144210+00:00",
       "_record_id": "226828442"
+    },
+    "75e142a5-5fc7-41f7-91dd-90e28d0031fe": {
+      "country": "CO",
+      "city": "Cartagena de Indias",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "HAZARD",
+      "uuid": "75e142a5-5fc7-41f7-91dd-90e28d0031fe",
+      "roadType": 1,
+      "magvar": 179,
+      "subtype": "HAZARD_ON_ROAD",
+      "street": "Playa de la Artillería",
+      "location": {
+        "x": -75.553438,
+        "y": 10.42444
+      },
+      "pubMillis": 1779523756000,
+      "_collected_at": "2026-05-23T08:28:22.222019+00:00",
+      "_record_id": "75e142a5-5fc7-41f7-91dd-90e28d0031fe"
+    },
+    "240167196": {
+      "country": "CO",
+      "level": 3,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.481981,
+          "y": 10.386801
+        },
+        {
+          "x": -75.482462,
+          "y": 10.385396
+        },
+        {
+          "x": -75.482598,
+          "y": 10.384988
+        },
+        {
+          "x": -75.482748,
+          "y": 10.384538
+        },
+        {
+          "x": -75.48285,
+          "y": 10.384229
+        },
+        {
+          "x": -75.482895,
+          "y": 10.384111
+        },
+        {
+          "x": -75.483037,
+          "y": 10.383686
+        },
+        {
+          "x": -75.483206,
+          "y": 10.383249
+        }
+      ],
+      "speedKMH": 12.3,
+      "length": 416,
+      "turnType": "NONE",
+      "uuid": 240167196,
+      "endNode": "Calle 21",
+      "speed": 3.4166666666666665,
+      "segments": [
+        {
+          "fromNode": 163063293,
+          "ID": 162645652,
+          "toNode": 163063805,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063805,
+          "ID": 419370119,
+          "toNode": 163063408,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063408,
+          "ID": 419370118,
+          "toNode": 163063420,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063420,
+          "ID": 162645673,
+          "toNode": 163063812,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063812,
+          "ID": 162645674,
+          "toNode": 163063423,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063423,
+          "ID": 419370167,
+          "toNode": 163063427,
+          "isForward": true
+        },
+        {
+          "fromNode": 163063427,
+          "ID": 419370084,
+          "toNode": 163139757,
+          "isForward": true
+        }
+      ],
+      "roadType": 2,
+      "delay": 80,
+      "street": "Carrera 71",
+      "id": 240167196,
+      "pubMillis": 1779524867617,
+      "type": "JAM",
+      "_collected_at": "2026-05-23T08:28:22.222019+00:00",
+      "_record_id": "240167196"
+    },
+    "239303992": {
+      "country": "CO",
+      "level": 4,
+      "city": "Cartagena de Indias",
+      "line": [
+        {
+          "x": -75.476054,
+          "y": 10.391303
+        },
+        {
+          "x": -75.476446,
+          "y": 10.390749
+        },
+        {
+          "x": -75.476839,
+          "y": 10.390129
+        }
+      ],
+      "speedKMH": 2.95,
+      "length": 156,
+      "turnType": "NONE",
+      "uuid": 239303992,
+      "endNode": "Calle 31 >(N)",
+      "speed": 0.8194444444444444,
+      "segments": [
+        {
+          "fromNode": 163112351,
+          "ID": 162768931,
+          "toNode": 163112349,
+          "isForward": false
+        },
+        {
+          "fromNode": 163112349,
+          "ID": 162768926,
+          "toNode": 163112347,
+          "isForward": false
+        }
+      ],
+      "roadType": 1,
+      "delay": 170,
+      "street": "Carrera 78",
+      "id": 239303992,
+      "pubMillis": 1779524264186,
+      "type": "JAM",
+      "_collected_at": "2026-05-23T08:28:22.222019+00:00",
+      "_record_id": "239303992"
     }
   }
 }
